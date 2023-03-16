@@ -1,0 +1,5236 @@
+[2023-03-04 18-27-24] d=  7, evals=1.0e+03, k= 50, k_top=  5
+===================== --------------------------------------
+
+#     1 : loss = -4.3e+01
+   inp  : [s =  4.3e+01] здблоьп
+   out  : [s =  0.0e+00] hello
+   rev  : [s =  1.8e+01] здравствуйте
+
+#     2 : loss = -4.2e+01
+   inp  : [s =  4.2e+01] ьвднэйу
+   out  : [s =  0.0e+00] Today
+   rev  : [s =  1.5e+01] Сегодня
+
+#     3 : loss = -4.0e+01
+   inp  : [s =  4.0e+01] онуьлйц
+   out  : [s =  0.0e+00] online
+   rev  : [s =  1.3e+01] онлайн
+
+#     4 : loss = -3.5e+01
+   inp  : [s =  4.6e+01] смэёыюш
+   out  : [s =  1.1e+01] see also
+   rev  : [s =  2.1e+01] смотрите также
+
+#     5 : loss = -3.5e+01
+   inp  : [s =  4.7e+01] иысвщёы
+   out  : [s =  1.2e+01] and more
+   rev  : [s =  1.1e+01] и более
+
+#     6 : loss = -3.3e+01
+   inp  : [s =  3.7e+01] схисеъм
+   out  : [s =  4.4e+00] scheme
+   rev  : [s =  1.7e+01] схема
+
+#     7 : loss = -3.1e+01
+   inp  : [s =  4.4e+01] мощыъпз
+   out  : [s =  1.2e+01] The power of the
+   rev  : [s =  2.4e+01] Сила этого
+
+#     8 : loss = -3.1e+01
+   inp  : [s =  5.7e+01] кццжйхк
+   out  : [s =  2.6e+01] kccjhk
+   rev  : [s =  2.6e+01] kccjhk
+
+#     9 : loss = -3.1e+01
+   inp  : [s =  5.1e+01] ътшмщэь
+   out  : [s =  2.0e+01] kommersant
+   rev  : [s =  3.1e+01] коммерсант
+
+#    10 : loss = -2.8e+01
+   inp  : [s =  4.8e+01] ъубщжёь
+   out  : [s =  2.0e+01] kommersant
+   rev  : [s =  3.1e+01] коммерсант
+
+#    11 : loss = -2.8e+01
+   inp  : [s =  5.3e+01] ъььгрвх
+   out  : [s =  2.5e+01] ygrvh
+   rev  : [s =  3.4e+01] ггрвх
+
+#    12 : loss = -2.7e+01
+   inp  : [s =  6.5e+01] кмтсгфк
+   out  : [s =  3.7e+01] kmtsgfc
+   rev  : [s =  3.7e+01] kmtsgfc
+
+#    13 : loss = -2.7e+01
+   inp  : [s =  5.9e+01] иощсцйм
+   out  : [s =  3.1e+01] ioschcym
+   rev  : [s =  1.9e+01] иошким
+
+#    14 : loss = -2.6e+01
+   inp  : [s =  4.4e+01] нзеъёаь
+   out  : [s =  1.7e+01] nzeea
+   rev  : [s =  2.0e+01] нзеа
+
+#    15 : loss = -2.6e+01
+   inp  : [s =  4.0e+01] бмъчкьь
+   out  : [s =  1.4e+01] bmchk
+   rev  : [s =  2.4e+01] бмчк
+
+#    16 : loss = -2.6e+01
+   inp  : [s =  5.0e+01] ъоэсйьм
+   out  : [s =  2.4e+01] yoesm
+   rev  : [s =  2.7e+01] йоесм
+
+#    17 : loss = -2.6e+01
+   inp  : [s =  4.6e+01] ъыклщьн
+   out  : [s =  2.0e+01] kommersant
+   rev  : [s =  3.1e+01] коммерсант
+
+#    18 : loss = -2.5e+01
+   inp  : [s =  5.1e+01] бьвтюья
+   out  : [s =  2.5e+01] byuya
+   rev  : [s =  1.9e+01] бюя
+
+#    19 : loss = -2.5e+01
+   inp  : [s =  4.3e+01] иьеьрёъ
+   out  : [s =  1.7e+01] iyere
+   rev  : [s =  9.5e+00] я здесь
+
+#    20 : loss = -2.5e+01
+   inp  : [s =  3.7e+01] ущйинъу
+   out  : [s =  1.2e+01] pinyin
+   rev  : [s =  2.8e+01] пиньинь
+
+#    21 : loss = -2.4e+01
+   inp  : [s =  4.9e+01] шэьдкйя
+   out  : [s =  2.5e+01] shadkya
+   rev  : [s =  2.2e+01] шакья
+   WRN  : rev != "shakya"
+
+#    22 : loss = -2.4e+01
+   inp  : [s =  3.4e+01] ощуъиъв
+   out  : [s =  1.0e+01] feeling
+   rev  : [s =  1.6e+01] чувство
+
+#    23 : loss = -2.4e+01
+   inp  : [s =  4.6e+01] иьллтёу
+   out  : [s =  2.2e+01] illteu
+   rev  : [s =  2.8e+01] иллтеу
+
+#    24 : loss = -2.4e+01
+   inp  : [s =  3.1e+01] щаафечу
+   out  : [s =  7.5e+00] right now
+   rev  : [s =  2.6e+01] прямо сейчас
+
+#    25 : loss = -2.3e+01
+   inp  : [s =  3.9e+01] ъяляужь
+   out  : [s =  1.6e+01] for the service
+   rev  : [s =  2.4e+01] за услугу
+
+#    26 : loss = -2.3e+01
+   inp  : [s =  4.8e+01] нмьрщшт
+   out  : [s =  2.5e+01] nmrsht
+   rev  : [s =  2.8e+01] ямршт
+
+#    27 : loss = -2.3e+01
+   inp  : [s =  4.7e+01] оэеыъьё
+   out  : [s =  2.4e+01] oeeye
+   rev  : [s =  1.7e+01] оеее
+
+#    28 : loss = -2.3e+01
+   inp  : [s =  4.7e+01] йьаёьеб
+   out  : [s =  2.4e+01] yaeeb
+   rev  : [s =  1.8e+01] даеб
+
+#    29 : loss = -2.3e+01
+   inp  : [s =  5.3e+01] флжсйид
+   out  : [s =  3.0e+01] fljsyid
+   rev  : [s =  3.0e+01] fljsyid
+
+#    30 : loss = -2.3e+01
+   inp  : [s =  4.7e+01] пёыэулм
+   out  : [s =  2.4e+01] peeulm
+   rev  : [s =  2.4e+01] пьюлм
+
+#    31 : loss = -2.3e+01
+   inp  : [s =  4.6e+01] бдлпроь
+   out  : [s =  2.3e+01] bdlpro
+   rev  : [s =  2.3e+01] bdlpro
+
+#    32 : loss = -2.3e+01
+   inp  : [s =  4.1e+01] доцшлмь
+   out  : [s =  1.8e+01] assoc .
+   rev  : [s =  2.4e+01] доц .
+
+#    33 : loss = -2.3e+01
+   inp  : [s =  4.3e+01] ъныуазу
+   out  : [s =  2.0e+01] kommersant
+   rev  : [s =  3.1e+01] коммерсант
+
+#    34 : loss = -2.2e+01
+   inp  : [s =  4.0e+01] дашэщйш
+   out  : [s =  1.7e+01] dashash
+   rev  : [s =  1.1e+01] тире
+   WRN  : rev != "dash"
+
+#    35 : loss = -2.2e+01
+   inp  : [s =  4.2e+01] ъокоёйх
+   out  : [s =  2.0e+01] kommersant
+   rev  : [s =  3.1e+01] коммерсант
+
+#    36 : loss = -2.2e+01
+   inp  : [s =  5.6e+01] зсзгвлэ
+   out  : [s =  3.4e+01] zszgvle
+   rev  : [s =  3.4e+01] zszgvle
+
+#    37 : loss = -2.2e+01
+   inp  : [s =  4.3e+01] мсхлгъь
+   out  : [s =  2.2e+01] mshlg
+   rev  : [s =  2.2e+01] mshlg
+
+#    38 : loss = -2.2e+01
+   inp  : [s =  4.2e+01] ъсябщьч
+   out  : [s =  2.0e+01] kommersant
+   rev  : [s =  3.1e+01] коммерсант
+
+#    39 : loss = -2.2e+01
+   inp  : [s =  5.7e+01] пзкщлйы
+   out  : [s =  3.5e+01] pzkschly
+   rev  : [s =  3.5e+01] пзкщли
+
+#    40 : loss = -2.1e+01
+   inp  : [s =  4.4e+01] афкхуьу
+   out  : [s =  2.3e+01] afkhu
+   rev  : [s =  2.0e+01] афху
+
+#    41 : loss = -2.1e+01
+   inp  : [s =  4.5e+01] чжьпфьм
+   out  : [s =  2.3e+01] zhpfm
+   rev  : [s =  2.3e+01] zhpfm
+
+#    42 : loss = -2.1e+01
+   inp  : [s =  5.1e+01] кццьаыд
+   out  : [s =  3.0e+01] kccaidh
+   rev  : [s =  3.0e+01] kccaidh
+
+#    43 : loss = -2.1e+01
+   inp  : [s =  4.0e+01] лгфббзя
+   out  : [s =  1.9e+01] lgbtq
+   rev  : [s =  2.5e+01] лгбтк
+
+#    44 : loss = -2.1e+01
+   inp  : [s =  4.5e+01] еъвхзжц
+   out  : [s =  2.4e+01] ewhzc
+   rev  : [s =  1.8e+01] ewhc
+   WRN  : rev != "ewhc"
+
+#    45 : loss = -2.1e+01
+   inp  : [s =  5.0e+01] зжннлэы
+   out  : [s =  2.9e+01] zznnley
+   rev  : [s =  3.7e+01] ззннлей
+
+#    46 : loss = -2.1e+01
+   inp  : [s =  4.2e+01] ъирувшд
+   out  : [s =  2.0e+01] kommersant
+   rev  : [s =  3.1e+01] коммерсант
+
+#    47 : loss = -2.1e+01
+   inp  : [s =  4.1e+01] ъмвшэзш
+   out  : [s =  2.0e+01] kommersant
+   rev  : [s =  3.1e+01] коммерсант
+
+#    48 : loss = -2.1e+01
+   inp  : [s =  4.6e+01] саььхфч
+   out  : [s =  2.5e+01] cahfh
+   rev  : [s =  2.5e+01] кахфх
+
+#    49 : loss = -2.1e+01
+   inp  : [s =  4.4e+01] фйвьжиь
+   out  : [s =  2.3e+01] fyvji
+   rev  : [s =  3.6e+01] фывджи
+
+#    50 : loss = -2.1e+01
+   inp  : [s =  3.7e+01] иищджиь
+   out  : [s =  1.6e+01] and look
+   rev  : [s =  1.5e+01] и посмотри
+
+#    51 : loss = -2.1e+01
+   inp  : [s =  5.1e+01] бфзскйт
+   out  : [s =  3.1e+01] bfzskyt
+   rev  : [s =  3.1e+01] bfzskyt
+
+#    52 : loss = -2.1e+01
+   inp  : [s =  4.7e+01] лзеьйук
+   out  : [s =  2.6e+01] lzeuk
+   rev  : [s =  2.7e+01] лзеук
+
+#    53 : loss = -2.0e+01
+   inp  : [s =  4.1e+01] ъёаяръъ
+   out  : [s =  2.0e+01] kommersant
+   rev  : [s =  3.1e+01] коммерсант
+
+#    54 : loss = -2.0e+01
+   inp  : [s =  3.8e+01] ьёдйдлы
+   out  : [s =  1.7e+01] idles
+   rev  : [s =  2.3e+01] бездействует
+
+#    55 : loss = -2.0e+01
+   inp  : [s =  5.2e+01] цсддыбг
+   out  : [s =  3.3e+01] csddybg
+   rev  : [s =  3.7e+01] кэдди бг
+   WRN  : rev != "caddy bg"
+
+#    56 : loss = -1.9e+01
+   inp  : [s =  3.9e+01] оъмыиях
+   out  : [s =  2.0e+01] about products
+   rev  : [s =  2.3e+01] о продуктах
+
+#    57 : loss = -1.9e+01
+   inp  : [s =  2.9e+01] яяюбелю
+   out  : [s =  1.0e+01] I love
+   rev  : [s =  1.8e+01] Я люблю
+
+#    58 : loss = -1.9e+01
+   inp  : [s =  4.2e+01] гьисъюэ
+   out  : [s =  2.3e+01] giisue
+   rev  : [s =  3.1e+01] джосуэ
+   WRN  : rev != "giosue"
+
+#    59 : loss = -1.9e+01
+   inp  : [s =  4.3e+01] доьрхтз
+   out  : [s =  2.4e+01] dokhtz
+   rev  : [s =  2.6e+01] дохтц
+
+#    60 : loss = -1.9e+01
+   inp  : [s =  4.6e+01] зхяцхжх
+   out  : [s =  2.7e+01] zxcxcx
+   rev  : [s =  2.7e+01] zxcxcx
+
+#    61 : loss = -1.9e+01
+   inp  : [s =  3.9e+01] ъотъжяя
+   out  : [s =  2.0e+01] kommersant
+   rev  : [s =  3.1e+01] коммерсант
+
+#    62 : loss = -1.9e+01
+   inp  : [s =  4.6e+01] гмцхъьп
+   out  : [s =  2.7e+01] gmcxp
+   rev  : [s =  2.7e+01] gmcxp
+
+#    63 : loss = -1.9e+01
+   inp  : [s =  3.5e+01] ьбьсцах
+   out  : [s =  1.6e+01] in a month
+   rev  : [s =  2.1e+01] через месяц
+
+#    64 : loss = -1.8e+01
+   inp  : [s =  4.1e+01] фиумэяь
+   out  : [s =  2.2e+01] fiumei
+   rev  : [s =  3.1e+01] фьюмеи
+
+#    65 : loss = -1.8e+01
+   inp  : [s =  4.3e+01] вьммьрю
+   out  : [s =  2.5e+01] vmmyu
+   rev  : [s =  2.8e+01] вммю
+
+#    66 : loss = -1.8e+01
+   inp  : [s =  4.6e+01] бяъьъзч
+   out  : [s =  2.8e+01] byazch
+   rev  : [s =  1.9e+01] бязч
+
+#    67 : loss = -1.8e+01
+   inp  : [s =  4.4e+01] грнкддъ
+   out  : [s =  2.5e+01] grnkdd
+   rev  : [s =  3.9e+01] грнкдд
+
+#    68 : loss = -1.8e+01
+   inp  : [s =  4.6e+01] фпчиььо
+   out  : [s =  2.8e+01] fpchiyo
+   rev  : [s =  2.6e+01] фпчие
+
+#    69 : loss = -1.8e+01
+   inp  : [s =  4.7e+01] бкйёббь
+   out  : [s =  2.8e+01] bkjebb
+   rev  : [s =  3.9e+01] бкджебб
+
+#    70 : loss = -1.8e+01
+   inp  : [s =  4.3e+01] хрбьцсз
+   out  : [s =  2.5e+01] hrbtsz
+   rev  : [s =  2.5e+01] hrbtsz
+
+#    71 : loss = -1.8e+01
+   inp  : [s =  3.9e+01] ёвебуъь
+   out  : [s =  2.1e+01] evebu
+   rev  : [s =  2.5e+01] эвебу
+
+#    72 : loss = -1.8e+01
+   inp  : [s =  4.2e+01] ёэсчэып
+   out  : [s =  2.4e+01] escheap
+   rev  : [s =  3.0e+01] это дешево
+   WRN  : rev != "es cheap"
+
+#    73 : loss = -1.8e+01
+   inp  : [s =  4.7e+01] ъсцёоря
+   out  : [s =  3.0e+01] bsceory
+   rev  : [s =  1.2e+01] история
+
+#    74 : loss = -1.8e+01
+   inp  : [s =  4.5e+01] зчьамщъ
+   out  : [s =  2.7e+01] zchamsch
+   rev  : [s =  2.9e+01] зчамщ
+
+#    75 : loss = -1.8e+01
+   inp  : [s =  4.9e+01] еыкфъць
+   out  : [s =  3.2e+01] eykfts
+   rev  : [s =  2.3e+01] эйфс
+   WRN  : rev != "eyfs"
+
+#    76 : loss = -1.8e+01
+   inp  : [s =  3.8e+01] ъюгдухн
+   out  : [s =  2.0e+01] kommersant
+   rev  : [s =  3.1e+01] коммерсант
+
+#    77 : loss = -1.7e+01
+   inp  : [s =  5.1e+01] бжкльлш
+   out  : [s =  3.3e+01] bzhklsh
+   rev  : [s =  3.5e+01] бжклш
+
+#    78 : loss = -1.7e+01
+   inp  : [s =  4.8e+01] всрдйвё
+   out  : [s =  3.0e+01] vsrdyve
+   rev  : [s =  4.1e+01] всрдыве
+
+#    79 : loss = -1.7e+01
+   inp  : [s =  3.9e+01] фуээлуъ
+   out  : [s =  2.1e+01] fuelu
+   rev  : [s =  1.8e+01] топливо
+   WRN  : rev != "fuel"
+
+#    80 : loss = -1.7e+01
+   inp  : [s =  3.5e+01] мафмяйы
+   out  : [s =  1.8e+01] mafia
+   rev  : [s =  1.3e+01] мафия
+
+#    81 : loss = -1.7e+01
+   inp  : [s =  3.4e+01] ёюёьынь
+   out  : [s =  1.7e+01] heryn
+   rev  : [s =  1.5e+01] херин
+
+#    82 : loss = -1.7e+01
+   inp  : [s =  4.3e+01] нвнёсыу
+   out  : [s =  2.6e+01] nvnessy
+   rev  : [s =  2.2e+01] невнесси
+
+#    83 : loss = -1.7e+01
+   inp  : [s =  4.9e+01] дыъэьщх
+   out  : [s =  3.2e+01] dyeishch
+   rev  : [s =  2.9e+01] красительщ
+
+#    84 : loss = -1.7e+01
+   inp  : [s =  4.4e+01] футвйлз
+   out  : [s =  2.7e+01] footviles
+   rev  : [s =  2.9e+01] футвилл
+   WRN  : rev != "footville"
+
+#    85 : loss = -1.7e+01
+   inp  : [s =  3.9e+01] ёйхвдёз
+   out  : [s =  2.2e+01] ehvdez
+   rev  : [s =  2.4e+01] эвдез
+
+#    86 : loss = -1.7e+01
+   inp  : [s =  3.8e+01] трпиъьф
+   out  : [s =  2.2e+01] trpif
+   rev  : [s =  2.2e+01] гто, если
+   WRN  : rev != "trp if"
+
+#    87 : loss = -1.7e+01
+   inp  : [s =  3.8e+01] ёььзаге
+   out  : [s =  2.1e+01] ez zag
+   rev  : [s =  2.1e+01] ez zag
+
+#    88 : loss = -1.7e+01
+   inp  : [s =  3.5e+01] жюэньтр
+   out  : [s =  1.9e+01] juentr
+   rev  : [s =  2.1e+01] юэнтр
+
+#    89 : loss = -1.7e+01
+   inp  : [s =  3.7e+01] ъфнйент
+   out  : [s =  2.0e+01] kommersant
+   rev  : [s =  3.1e+01] коммерсант
+
+#    90 : loss = -1.7e+01
+   inp  : [s =  4.6e+01] оылюъуы
+   out  : [s =  2.9e+01] oylyuy
+   rev  : [s =  2.1e+01] ойлюй
+
+#    91 : loss = -1.7e+01
+   inp  : [s =  5.2e+01] тстлбсм
+   out  : [s =  3.5e+01] tstlbsm
+   rev  : [s =  3.5e+01] tstlbsm
+
+#    92 : loss = -1.7e+01
+   inp  : [s =  4.1e+01] цъьилбэ
+   out  : [s =  2.4e+01] qilbe
+   rev  : [s =  1.1e+01] будет
+   WRN  : rev != "will be"
+
+#    93 : loss = -1.6e+01
+   inp  : [s =  3.8e+01] уйёуръь
+   out  : [s =  2.1e+01] uyeur
+   rev  : [s =  1.7e+01] уйер
+
+#    94 : loss = -1.6e+01
+   inp  : [s =  4.2e+01] пьпэясг
+   out  : [s =  2.6e+01] pieasg
+   rev  : [s =  2.6e+01] pieasg
+
+#    95 : loss = -1.6e+01
+   inp  : [s =  4.4e+01] гфььтсч
+   out  : [s =  2.8e+01] gftsch
+   rev  : [s =  2.8e+01] gftsch
+
+#    96 : loss = -1.6e+01
+   inp  : [s =  3.5e+01] хзъмыэр
+   out  : [s =  1.9e+01] hzmyer
+   rev  : [s =  3.1e+01] хзмайер
+
+#    97 : loss = -1.6e+01
+   inp  : [s =  4.7e+01] блпкдгд
+   out  : [s =  3.1e+01] blpkdgd
+   rev  : [s =  3.1e+01] blpkdgd
+
+#    98 : loss = -1.6e+01
+   inp  : [s =  3.9e+01] ъяфхкзн
+   out  : [s =  2.3e+01] nfkdn
+   rev  : [s =  2.3e+01] nfkdn
+
+#    99 : loss = -1.6e+01
+   inp  : [s =  4.1e+01] щхлиёощ
+   out  : [s =  2.5e+01] schliesch
+   rev  : [s =  1.6e+01] шлиш
+
+#   100 : loss = -1.6e+01
+   inp  : [s =  4.5e+01] ъфъыхлч
+   out  : [s =  2.9e+01] bfyhlch
+   rev  : [s =  2.9e+01] bfyhlch
+
+#   101 : loss = -1.6e+01
+   inp  : [s =  4.8e+01] ыъьуящр
+   out  : [s =  3.2e+01] yyuyashr
+   rev  : [s =  3.0e+01] юйяшр
+
+#   102 : loss = -1.6e+01
+   inp  : [s =  5.4e+01] пжкдъыж
+   out  : [s =  3.8e+01] pzhkdyzh
+   rev  : [s =  4.5e+01] пжкдыж
+
+#   103 : loss = -1.6e+01
+   inp  : [s =  4.4e+01] шжъъхсл
+   out  : [s =  2.8e+01] shjhsl
+   rev  : [s =  2.8e+01] shjhsl
+
+#   104 : loss = -1.6e+01
+   inp  : [s =  4.1e+01] гнццзъх
+   out  : [s =  2.6e+01] gnccx
+   rev  : [s =  2.6e+01] gnccx
+
+#   105 : loss = -1.5e+01
+   inp  : [s =  3.3e+01] чёхёшьч
+   out  : [s =  1.8e+01] czech
+   rev  : [s =  1.9e+01] чешский
+
+#   106 : loss = -1.5e+01
+   inp  : [s =  4.5e+01] тзхдьёч
+   out  : [s =  3.0e+01] tzhdech
+   rev  : [s =  2.1e+01] тждеч
+
+#   107 : loss = -1.5e+01
+   inp  : [s =  4.5e+01] счпкхдн
+   out  : [s =  3.0e+01] shpkhdn
+   rev  : [s =  2.9e+01] шпхдн
+
+#   108 : loss = -1.5e+01
+   inp  : [s =  4.0e+01] йэръжиь
+   out  : [s =  2.5e+01] yerzhi
+   rev  : [s =  9.1e+00] ежи
+   WRN  : rev != "yezhi"
+
+#   109 : loss = -1.5e+01
+   inp  : [s =  4.6e+01] оялбтйп
+   out  : [s =  3.0e+01] oyalbtyp
+   rev  : [s =  1.7e+01] лояльность
+   WRN  : rev != "loyalty"
+
+#   110 : loss = -1.5e+01
+   inp  : [s =  4.4e+01] лтзтвпн
+   out  : [s =  2.9e+01] ltztvpn
+   rev  : [s =  2.9e+01] ltztvpn
+
+#   111 : loss = -1.5e+01
+   inp  : [s =  5.0e+01] фвтзкпв
+   out  : [s =  3.5e+01] fvtzkpv
+   rev  : [s =  2.8e+01] fvtpl
+   WRN  : rev != "fvtpl"
+
+#   112 : loss = -1.5e+01
+   inp  : [s =  4.4e+01] зюьакёи
+   out  : [s =  2.9e+01] zyuakei
+   rev  : [s =  3.0e+01] зюакей
+
+#   113 : loss = -1.5e+01
+   inp  : [s =  4.0e+01] ыьбэыхс
+   out  : [s =  2.5e+01] ybehs
+   rev  : [s =  2.5e+01] ybehs
+
+#   114 : loss = -1.5e+01
+   inp  : [s =  4.7e+01] вхйтйвф
+   out  : [s =  3.2e+01] whytywf
+   rev  : [s =  3.2e+01] whytywf
+
+#   115 : loss = -1.5e+01
+   inp  : [s =  4.8e+01] ймсзэжх
+   out  : [s =  3.3e+01] ymsseh
+   rev  : [s =  3.3e+01] ymsseh
+
+#   116 : loss = -1.5e+01
+   inp  : [s =  4.3e+01] уэьфхгъ
+   out  : [s =  2.8e+01] uefhg
+   rev  : [s =  2.8e+01] uefhg
+
+#   117 : loss = -1.5e+01
+   inp  : [s =  5.7e+01] внвлрйщ
+   out  : [s =  4.2e+01] vnvlryshch
+   rev  : [s =  4.9e+01] внвлрыщ
+
+#   118 : loss = -1.5e+01
+   inp  : [s =  3.9e+01] дьдюьжн
+   out  : [s =  2.4e+01] dyuzhn
+   rev  : [s =  1.5e+01] дюжн
+
+#   119 : loss = -1.5e+01
+   inp  : [s =  4.6e+01] ъфххмйу
+   out  : [s =  3.1e+01] bfkhmyu
+   rev  : [s =  3.5e+01] бфхмю
+
+#   120 : loss = -1.5e+01
+   inp  : [s =  3.7e+01] шпьэрьд
+   out  : [s =  2.2e+01] spyard
+   rev  : [s =  1.8e+01] верфь
+   WRN  : rev != "shipyard"
+
+#   121 : loss = -1.5e+01
+   inp  : [s =  4.1e+01] ыяамньб
+   out  : [s =  2.7e+01] yyamnb
+   rev  : [s =  2.7e+01] yyamnb
+
+#   122 : loss = -1.5e+01
+   inp  : [s =  4.3e+01] ёстъчмг
+   out  : [s =  2.9e+01] esthmg
+   rev  : [s =  1.7e+01] астма
+   WRN  : rev != "asthma"
+
+#   123 : loss = -1.5e+01
+   inp  : [s =  4.0e+01] уыуютнг
+   out  : [s =  2.5e+01] uyyutng
+   rev  : [s =  3.1e+01] уйютнг
+
+#   124 : loss = -1.5e+01
+   inp  : [s =  4.4e+01] очвюйъь
+   out  : [s =  2.9e+01] och vuy
+   rev  : [s =  2.7e+01] также вуй
+
+#   125 : loss = -1.5e+01
+   inp  : [s =  4.0e+01] рььдянп
+   out  : [s =  2.5e+01] ryangp
+   rev  : [s =  2.5e+01] ryangp
+
+#   126 : loss = -1.4e+01
+   inp  : [s =  4.0e+01] эйрёршш
+   out  : [s =  2.5e+01] airersh
+   rev  : [s =  2.3e+01] аэрограф
+   WRN  : rev != "airbrush"
+
+#   127 : loss = -1.4e+01
+   inp  : [s =  4.3e+01] кфъгндц
+   out  : [s =  2.8e+01] kfgndc
+   rev  : [s =  2.8e+01] kfgndc
+
+#   128 : loss = -1.4e+01
+   inp  : [s =  4.6e+01] зчыътзф
+   out  : [s =  3.2e+01] zchytzf
+   rev  : [s =  3.2e+01] zchytzf
+
+#   129 : loss = -1.4e+01
+   inp  : [s =  4.3e+01] ббдрлжй
+   out  : [s =  2.9e+01] bbdrljy
+   rev  : [s =  1.7e+01] ббри
+   WRN  : rev != "bbry"
+
+#   130 : loss = -1.4e+01
+   inp  : [s =  5.3e+01] аёьнжтд
+   out  : [s =  3.9e+01] aeinzhtd
+   rev  : [s =  5.1e+01] аеинжтд
+
+#   131 : loss = -1.4e+01
+   inp  : [s =  4.3e+01] жъопйые
+   out  : [s =  2.9e+01] zhopye
+   rev  : [s =  1.8e+01] жопые
+
+#   132 : loss = -1.4e+01
+   inp  : [s =  5.0e+01] зюеыгбм
+   out  : [s =  3.6e+01] zyuygbm
+   rev  : [s =  3.4e+01] зюйгбм
+
+#   133 : loss = -1.4e+01
+   inp  : [s =  4.7e+01] фтщгкст
+   out  : [s =  3.2e+01] ftshgkst
+   rev  : [s =  4.3e+01] фтшгкст
+
+#   134 : loss = -1.4e+01
+   inp  : [s =  4.2e+01] окыйкйц
+   out  : [s =  2.8e+01] okykyts
+   rev  : [s =  3.7e+01] окыкыц
+
+#   135 : loss = -1.4e+01
+   inp  : [s =  3.6e+01] дтьжьиз
+   out  : [s =  2.2e+01] dtjiz
+   rev  : [s =  2.2e+01] dtjiz
+
+#   136 : loss = -1.4e+01
+   inp  : [s =  3.4e+01] ърекяюц
+   out  : [s =  2.0e+01] kommersant
+   rev  : [s =  3.1e+01] коммерсант
+
+#   137 : loss = -1.4e+01
+   inp  : [s =  4.6e+01] ъйлбмфь
+   out  : [s =  3.2e+01] bylbmf
+   rev  : [s =  3.2e+01] bylbmf
+
+#   138 : loss = -1.4e+01
+   inp  : [s =  4.9e+01] блдлфнч
+   out  : [s =  3.5e+01] bldlfnch
+   rev  : [s =  2.5e+01] снегирь
+   WRN  : rev != "bullfinch"
+
+#   139 : loss = -1.4e+01
+   inp  : [s =  4.4e+01] ипебврб
+   out  : [s =  3.0e+01] ipebvrb
+   rev  : [s =  3.0e+01] ipebvrb
+
+#   140 : loss = -1.4e+01
+   inp  : [s =  4.3e+01] кёцэюаф
+   out  : [s =  3.0e+01] ketseuaf
+   rev  : [s =  3.3e+01] кецеуаф
+
+#   141 : loss = -1.4e+01
+   inp  : [s =  4.1e+01] ёгхгфёь
+   out  : [s =  2.7e+01] egxgfe
+   rev  : [s =  2.7e+01] egxgfe
+
+#   142 : loss = -1.4e+01
+   inp  : [s =  2.5e+01] ссыпяши
+   out  : [s =  1.1e+01] bulks
+   rev  : [s =  1.9e+01] большая часть
+   WRN  : rev != "bulk"
+
+#   143 : loss = -1.4e+01
+   inp  : [s =  3.9e+01] длувиъъ
+   out  : [s =  2.5e+01] dluvi
+   rev  : [s =  2.1e+01] длуви
+
+#   144 : loss = -1.4e+01
+   inp  : [s =  3.5e+01] сбъвьюй
+   out  : [s =  2.1e+01] sbview
+   rev  : [s =  2.3e+01] подвиды
+   WRN  : rev != "subview"
+
+#   145 : loss = -1.4e+01
+   inp  : [s =  3.4e+01] чхоосцо
+   out  : [s =  2.0e+01] choosso
+   rev  : [s =  2.5e+01] выбирайте так
+   WRN  : rev != "choose so"
+
+#   146 : loss = -1.4e+01
+   inp  : [s =  3.9e+01] ннюжптэ
+   out  : [s =  2.6e+01] nnjpte
+   rev  : [s =  2.6e+01] nnjpte
+
+#   147 : loss = -1.4e+01
+   inp  : [s =  4.6e+01] азфгмть
+   out  : [s =  3.2e+01] azfgmt
+   rev  : [s =  3.2e+01] azfgmt
+
+#   148 : loss = -1.4e+01
+   inp  : [s =  4.7e+01] ьаёсрнй
+   out  : [s =  3.4e+01] baesrny
+   rev  : [s =  1.4e+01] барни
+   WRN  : rev != "barney"
+
+#   149 : loss = -1.4e+01
+   inp  : [s =  3.6e+01] эепътюд
+   out  : [s =  2.3e+01] eeptude
+   rev  : [s =  2.8e+01] пептид
+   WRN  : rev != "peptide"
+
+#   150 : loss = -1.4e+01
+   inp  : [s =  4.8e+01] лхпзттг
+   out  : [s =  3.4e+01] lhpzttg
+   rev  : [s =  3.4e+01] lhpzttg
+
+#   151 : loss = -1.4e+01
+   inp  : [s =  3.8e+01] эьцякоб
+   out  : [s =  2.4e+01] etsyakob
+   rev  : [s =  3.2e+01] эцякоб
+
+#   152 : loss = -1.3e+01
+   inp  : [s =  4.0e+01] хтажнпл
+   out  : [s =  2.6e+01] hcnpl
+   rev  : [s =  2.3e+01] hcnp
+   WRN  : rev != "hcnp"
+
+#   153 : loss = -1.3e+01
+   inp  : [s =  4.6e+01] нмввяюэ
+   out  : [s =  3.2e+01] nmvvjue
+   rev  : [s =  3.2e+01] nmvvjue
+
+#   154 : loss = -1.3e+01
+   inp  : [s =  5.1e+01] ъцдмкюе
+   out  : [s =  3.8e+01] btsdmkue
+   rev  : [s =  3.8e+01] btsdmkue
+
+#   155 : loss = -1.3e+01
+   inp  : [s =  4.2e+01] бавпфъх
+   out  : [s =  2.9e+01] bavpfh
+   rev  : [s =  2.9e+01] bavpfh
+
+#   156 : loss = -1.3e+01
+   inp  : [s =  4.8e+01] кклбшпк
+   out  : [s =  3.5e+01] kklbshpc
+   rev  : [s =  3.5e+01] kklbshpc
+
+#   157 : loss = -1.3e+01
+   inp  : [s =  3.5e+01] бынсьтв
+   out  : [s =  2.2e+01] bynstv
+   rev  : [s =  2.2e+01] бынств
+
+#   158 : loss = -1.3e+01
+   inp  : [s =  4.4e+01] мтнжыеь
+   out  : [s =  3.1e+01] mtnzhye
+   rev  : [s =  3.3e+01] мтнжье
+
+#   159 : loss = -1.3e+01
+   inp  : [s =  4.8e+01] щыъсйрщ
+   out  : [s =  3.4e+01] schysyrsch
+   rev  : [s =  3.5e+01] шысырщ
+
+#   160 : loss = -1.3e+01
+   inp  : [s =  4.4e+01] шргрннй
+   out  : [s =  3.1e+01] srgrnny
+   rev  : [s =  2.8e+01] хирургия
+   WRN  : rev != "surgery"
+
+#   161 : loss = -1.3e+01
+   inp  : [s =  4.1e+01] шсътббк
+   out  : [s =  2.8e+01] shtbbk
+   rev  : [s =  2.8e+01] штббк
+
+#   162 : loss = -1.3e+01
+   inp  : [s =  4.0e+01] зафдйън
+   out  : [s =  2.7e+01] zafdyn
+   rev  : [s =  2.5e+01] зафдин
+
+#   163 : loss = -1.3e+01
+   inp  : [s =  3.9e+01] мдвиауу
+   out  : [s =  2.6e+01] mdviau
+   rev  : [s =  3.2e+01] мдвиау
+
+#   164 : loss = -1.3e+01
+   inp  : [s =  3.7e+01] цмёркюъ
+   out  : [s =  2.4e+01] tsmerky
+   rev  : [s =  1.9e+01] цмерки
+
+#   165 : loss = -1.3e+01
+   inp  : [s =  4.1e+01] ояъыцны
+   out  : [s =  2.8e+01] oyatsny
+   rev  : [s =  1.3e+01] оятный
+
+#   166 : loss = -1.3e+01
+   inp  : [s =  4.4e+01] кнтбхцы
+   out  : [s =  3.1e+01] kntbhts
+   rev  : [s =  3.1e+01] kntbhts
+
+#   167 : loss = -1.3e+01
+   inp  : [s =  4.7e+01] глфмвпг
+   out  : [s =  3.4e+01] glfmvpg
+   rev  : [s =  3.4e+01] glfmvpg
+
+#   168 : loss = -1.3e+01
+   inp  : [s =  5.1e+01] бхыфюъп
+   out  : [s =  3.8e+01] bhyfyup
+   rev  : [s =  4.2e+01] бхифьюп
+
+#   169 : loss = -1.3e+01
+   inp  : [s =  4.1e+01] кыанхье
+   out  : [s =  2.8e+01] kyanhye
+   rev  : [s =  1.3e+01] канье
+   WRN  : rev != "kanye"
+
+#   170 : loss = -1.3e+01
+   inp  : [s =  4.2e+01] жхнаеыь
+   out  : [s =  2.9e+01] zhknay
+   rev  : [s =  1.4e+01] знай
+
+#   171 : loss = -1.3e+01
+   inp  : [s =  3.4e+01] ктлуксь
+   out  : [s =  2.1e+01] ktluks
+   rev  : [s =  2.8e+01] ктлуки
+
+#   172 : loss = -1.3e+01
+   inp  : [s =  4.2e+01] нйъаюак
+   out  : [s =  2.9e+01] nyayuak
+   rev  : [s =  2.4e+01] ньяюак
+
+#   173 : loss = -1.3e+01
+   inp  : [s =  4.8e+01] гэюпщыц
+   out  : [s =  3.6e+01] geupschits
+   rev  : [s =  2.7e+01] гупщицы
+
+#   174 : loss = -1.3e+01
+   inp  : [s =  3.6e+01] эувыйдр
+   out  : [s =  2.3e+01] euvydr
+   rev  : [s =  3.2e+01] эввидр
+
+#   175 : loss = -1.3e+01
+   inp  : [s =  4.2e+01] цънъыжё
+   out  : [s =  2.9e+01] tsnizhe
+   rev  : [s =  1.8e+01] цниже
+
+#   176 : loss = -1.3e+01
+   inp  : [s =  4.3e+01] ыюхюнтэ
+   out  : [s =  3.0e+01] yuhunte
+   rev  : [s =  2.3e+01] юхунте
+
+#   177 : loss = -1.3e+01
+   inp  : [s =  4.6e+01] твъыкмю
+   out  : [s =  3.4e+01] tvykmyu
+   rev  : [s =  3.9e+01] твыкмью
+
+#   178 : loss = -1.2e+01
+   inp  : [s =  3.9e+01] жзьзэшж
+   out  : [s =  2.6e+01] zhzeshzh
+   rev  : [s =  9.6e+00] жжж
+   WRN  : rev != "zhzhzh"
+
+#   179 : loss = -1.2e+01
+   inp  : [s =  3.2e+01] флыпьюл
+   out  : [s =  2.0e+01] flypool
+   rev  : [s =  4.0e+01] летающий бассейн
+   WRN  : rev != "fly pool"
+
+#   180 : loss = -1.2e+01
+   inp  : [s =  4.7e+01] лтзшйёч
+   out  : [s =  3.4e+01] ltzshyech
+   rev  : [s =  2.2e+01] лцшеч
+
+#   181 : loss = -1.2e+01
+   inp  : [s =  3.8e+01] сьшукзв
+   out  : [s =  2.6e+01] shukzv
+   rev  : [s =  2.6e+01] шукзв
+
+#   182 : loss = -1.2e+01
+   inp  : [s =  4.7e+01] ккдмыёщ
+   out  : [s =  3.4e+01] kkdmyesh
+   rev  : [s =  3.9e+01] ккдмиеш
+
+#   183 : loss = -1.2e+01
+   inp  : [s =  4.0e+01] бэяцёут
+   out  : [s =  2.8e+01] beyaceut
+   rev  : [s =  3.2e+01] бейсеут
+
+#   184 : loss = -1.2e+01
+   inp  : [s =  3.8e+01] яхытьэд
+   out  : [s =  2.6e+01] yahyted
+   rev  : [s =  3.2e+01] яхытед
+
+#   185 : loss = -1.2e+01
+   inp  : [s =  4.2e+01] шшжмфъэ
+   out  : [s =  3.0e+01] shshmfe
+   rev  : [s =  2.7e+01] шшмфе
+
+#   186 : loss = -1.2e+01
+   inp  : [s =  3.4e+01] рбьссон
+   out  : [s =  2.2e+01] rbsson
+   rev  : [s =  1.8e+01] робсон
+   WRN  : rev != "robson"
+
+#   187 : loss = -1.2e+01
+   inp  : [s =  4.2e+01] рпллцбё
+   out  : [s =  3.0e+01] rpllcbe
+   rev  : [s =  3.0e+01] rpllcbe
+
+#   188 : loss = -1.2e+01
+   inp  : [s =  3.5e+01] дъяйёйд
+   out  : [s =  2.3e+01] dyaid
+   rev  : [s =  2.0e+01] диада
+   WRN  : rev != "dyad"
+
+#   189 : loss = -1.2e+01
+   inp  : [s =  4.2e+01] смгьбцш
+   out  : [s =  3.0e+01] smgbtsh
+   rev  : [s =  3.8e+01] смгбтш
+
+#   190 : loss = -1.2e+01
+   inp  : [s =  4.6e+01] ъухвмгс
+   out  : [s =  3.4e+01] bkhvmgs
+   rev  : [s =  4.6e+01] бхвмгс
+
+#   191 : loss = -1.2e+01
+   inp  : [s =  4.4e+01] чыуъшэб
+   out  : [s =  3.2e+01] chyusheb
+   rev  : [s =  2.1e+01] чюшеб
+
+#   192 : loss = -1.2e+01
+   inp  : [s =  4.3e+01] ъфоъкцж
+   out  : [s =  3.1e+01] bfoqcj
+   rev  : [s =  3.1e+01] bfoqcj
+
+#   193 : loss = -1.2e+01
+   inp  : [s =  4.8e+01] есмпжвб
+   out  : [s =  3.6e+01] esmpjvb
+   rev  : [s =  3.6e+01] esmpjvb
+
+#   194 : loss = -1.2e+01
+   inp  : [s =  4.3e+01] сьрмцтц
+   out  : [s =  3.1e+01] srmctc
+   rev  : [s =  3.1e+01] srmctc
+
+#   195 : loss = -1.2e+01
+   inp  : [s =  4.1e+01] даъыедч
+   out  : [s =  2.9e+01] yesyedch
+   rev  : [s =  2.3e+01] даедч
+
+#   196 : loss = -1.2e+01
+   inp  : [s =  4.6e+01] дввкрбд
+   out  : [s =  3.4e+01] dvvkrbd
+   rev  : [s =  3.4e+01] dvvkrbd
+
+#   197 : loss = -1.2e+01
+   inp  : [s =  3.7e+01] бльыриё
+   out  : [s =  2.5e+01] blyrie
+   rev  : [s =  1.9e+01] блири
+
+#   198 : loss = -1.2e+01
+   inp  : [s =  4.4e+01] лтгэмцр
+   out  : [s =  3.2e+01] ltgemcr
+   rev  : [s =  3.2e+01] ltgemcr
+
+#   199 : loss = -1.2e+01
+   inp  : [s =  4.3e+01] тыцсмик
+   out  : [s =  3.1e+01] tytsmik
+   rev  : [s =  3.0e+01] тыцмик
+
+#   200 : loss = -1.2e+01
+   inp  : [s =  4.5e+01] бплббйы
+   out  : [s =  3.3e+01] bplbbyy
+   rev  : [s =  3.3e+01] bplbbyy
+
+#   201 : loss = -1.2e+01
+   inp  : [s =  4.9e+01] шлзцнрб
+   out  : [s =  3.7e+01] shlztsnrb
+   rev  : [s =  4.9e+01] шлзцнрб
+
+#   202 : loss = -1.2e+01
+   inp  : [s =  4.7e+01] аэъёсця
+   out  : [s =  3.5e+01] aeescia
+   rev  : [s =  3.1e+01] аээския
+
+#   203 : loss = -1.2e+01
+   inp  : [s =  3.6e+01] аняжьгш
+   out  : [s =  2.5e+01] anyagsh
+   rev  : [s =  2.7e+01] аньягш
+
+#   204 : loss = -1.1e+01
+   inp  : [s =  4.5e+01] шмдмбэе
+   out  : [s =  3.3e+01] smdmbee
+   rev  : [s =  3.3e+01] smdmbee
+
+#   205 : loss = -1.1e+01
+   inp  : [s =  3.6e+01] леъздёх
+   out  : [s =  2.4e+01] lesdech
+   rev  : [s =  2.9e+01] лесдек
+
+#   206 : loss = -1.1e+01
+   inp  : [s =  3.6e+01] зыбэбад
+   out  : [s =  2.5e+01] zybabad
+   rev  : [s =  3.1e+01] зыбабад
+
+#   207 : loss = -1.1e+01
+   inp  : [s =  3.6e+01] тийббьх
+   out  : [s =  2.5e+01] tiibbh
+   rev  : [s =  2.5e+01] tiibbh
+
+#   208 : loss = -1.1e+01
+   inp  : [s =  4.8e+01] кебщжэъ
+   out  : [s =  3.7e+01] kebshzhe
+   rev  : [s =  1.9e+01] кебше
+
+#   209 : loss = -1.1e+01
+   inp  : [s =  4.2e+01] пбирфщт
+   out  : [s =  3.1e+01] pbirfsht
+   rev  : [s =  3.8e+01] пбирфшт
+
+#   210 : loss = -1.1e+01
+   inp  : [s =  4.4e+01] сцлсуэч
+   out  : [s =  3.2e+01] sclsuech
+   rev  : [s =  3.4e+01] scl такой
+   WRN  : rev != "scl such"
+
+#   211 : loss = -1.1e+01
+   inp  : [s =  5.5e+01] щнбтмзъ
+   out  : [s =  4.4e+01] schnbtmz
+   rev  : [s =  4.7e+01] шнбтмз
+
+#   212 : loss = -1.1e+01
+   inp  : [s =  3.7e+01] мэсгьзя
+   out  : [s =  2.6e+01] mesgja
+   rev  : [s =  3.0e+01] месгья
+
+#   213 : loss = -1.1e+01
+   inp  : [s =  4.1e+01] сахкььк
+   out  : [s =  3.0e+01] sahkk
+   rev  : [s =  2.8e+01] сахкк
+
+#   214 : loss = -1.1e+01
+   inp  : [s =  4.9e+01] пвдоацэ
+   out  : [s =  3.8e+01] pvdoatse
+   rev  : [s =  3.8e+01] pvdoatse
+
+#   215 : loss = -1.1e+01
+   inp  : [s =  3.3e+01] умсафые
+   out  : [s =  2.2e+01] umsafy
+   rev  : [s =  2.5e+01] небезопасный
+   WRN  : rev != "unsafe"
+
+#   216 : loss = -1.1e+01
+   inp  : [s =  4.1e+01] шъитбфс
+   out  : [s =  2.9e+01] shitbfs
+   rev  : [s =  2.8e+01] говнюки
+
+#   217 : loss = -1.1e+01
+   inp  : [s =  3.7e+01] абдаюяь
+   out  : [s =  2.6e+01] abdayuya
+   rev  : [s =  3.3e+01] абаюдайя
+   WRN  : rev != "abayudaya"
+
+#   218 : loss = -1.1e+01
+   inp  : [s =  4.0e+01] сюъжннц
+   out  : [s =  2.9e+01] sjnnc
+   rev  : [s =  2.9e+01] sjnnc
+
+#   219 : loss = -1.1e+01
+   inp  : [s =  4.2e+01] щосрхйв
+   out  : [s =  3.1e+01] schosrhyv
+   rev  : [s =  3.1e+01] шосрхив
+
+#   220 : loss = -1.1e+01
+   inp  : [s =  4.1e+01] фякдхль
+   out  : [s =  3.0e+01] fiakdhl
+   rev  : [s =  4.1e+01] фиакдхл
+
+#   221 : loss = -1.1e+01
+   inp  : [s =  4.3e+01] кзьохчр
+   out  : [s =  3.2e+01] kzohhr
+   rev  : [s =  2.4e+01] кзохр
+
+#   222 : loss = -1.1e+01
+   inp  : [s =  3.8e+01] уярыцёь
+   out  : [s =  2.7e+01] uyaryce
+   rev  : [s =  2.5e+01] уярыце
+
+#   223 : loss = -1.1e+01
+   inp  : [s =  4.0e+01] мъгцфтп
+   out  : [s =  2.9e+01] mgtsftp
+   rev  : [s =  2.9e+01] mgtsftp
+
+#   224 : loss = -1.1e+01
+   inp  : [s =  3.8e+01] хйсъкыд
+   out  : [s =  2.8e+01] hyskyd
+   rev  : [s =  2.1e+01] хискид
+
+#   225 : loss = -1.1e+01
+   inp  : [s =  4.2e+01] бцъяофы
+   out  : [s =  3.1e+01] bcyafy
+   rev  : [s =  3.1e+01] bcyafy
+
+#   226 : loss = -1.1e+01
+   inp  : [s =  5.0e+01] экзщйтщ
+   out  : [s =  4.0e+01] exschytsch
+   rev  : [s =  3.3e+01] эксшитч
+
+#   227 : loss = -1.1e+01
+   inp  : [s =  3.9e+01] таыйтяя
+   out  : [s =  2.8e+01] tayyaya
+   rev  : [s =  2.1e+01] тайяя
+
+#   228 : loss = -1.1e+01
+   inp  : [s =  3.9e+01] шъъьиёш
+   out  : [s =  2.8e+01] shyiesh
+   rev  : [s =  3.1e+01] застенчивый
+   WRN  : rev != "shyish"
+
+#   229 : loss = -1.0e+01
+   inp  : [s =  4.0e+01] ёртпщьи
+   out  : [s =  2.9e+01] ertpschi
+   rev  : [s =  2.6e+01] ертпщи
+
+#   230 : loss = -1.0e+01
+   inp  : [s =  4.0e+01] жьеъубч
+   out  : [s =  3.0e+01] zheubch
+   rev  : [s =  2.3e+01] хойбах
+   WRN  : rev != "heubach"
+
+#   231 : loss = -1.0e+01
+   inp  : [s =  4.3e+01] гыфмвёо
+   out  : [s =  3.3e+01] gyfmveo
+   rev  : [s =  3.3e+01] gyfmveo
+
+#   232 : loss = -1.0e+01
+   inp  : [s =  4.8e+01] мфлшщйы
+   out  : [s =  3.7e+01] mflshshyy
+   rev  : [s =  3.6e+01] мфлшшый
+
+#   233 : loss = -1.0e+01
+   inp  : [s =  3.3e+01] минйынь
+   out  : [s =  2.3e+01] minyin
+   rev  : [s =  2.1e+01] миниин
+
+#   234 : loss = -1.0e+01
+   inp  : [s =  3.9e+01] аитвюшъ
+   out  : [s =  2.9e+01] aitvyush
+   rev  : [s =  2.8e+01] айтвюш
+
+#   235 : loss = -1.0e+01
+   inp  : [s =  4.1e+01] щъаымпщ
+   out  : [s =  3.1e+01] schaimpsch
+   rev  : [s =  2.5e+01] шаймпш
+
+#   236 : loss = -1.0e+01
+   inp  : [s =  3.8e+01] ккзёкэй
+   out  : [s =  2.8e+01] kkzekei
+   rev  : [s =  3.2e+01] ккзекей
+
+#   237 : loss = -1.0e+01
+   inp  : [s =  3.5e+01] ипооуси
+   out  : [s =  2.5e+01] ipoosi
+   rev  : [s =  1.6e+01] ипуси
+
+#   238 : loss = -1.0e+01
+   inp  : [s =  3.9e+01] рчфсэъм
+   out  : [s =  2.9e+01] rffsem
+   rev  : [s =  2.3e+01] рффсем
+
+#   239 : loss = -1.0e+01
+   inp  : [s =  3.1e+01] наъфилё
+   out  : [s =  2.1e+01] on the profile
+   rev  : [s =  1.6e+01] в профиле
+
+#   240 : loss = -1.0e+01
+   inp  : [s =  4.5e+01] бтжжлын
+   out  : [s =  3.5e+01] btzhzhlin
+   rev  : [s =  4.1e+01] бтжжлин
+
+#   241 : loss = -9.9e+00
+   inp  : [s =  4.2e+01] лъиьхшя
+   out  : [s =  3.2e+01] лихшшшшшшшш
+   rev  : [s =  2.4e+01] Shhh shhh
+   WRN  : rev != "лишшшшшшшш"
+
+#   242 : loss = -9.8e+00
+   inp  : [s =  4.4e+01] зсабснх
+   out  : [s =  3.5e+01] zsabsnh
+   rev  : [s =  3.5e+01] zsabsnh
+
+#   243 : loss = -9.8e+00
+   inp  : [s =  3.9e+01] шешъыъв
+   out  : [s =  2.9e+01] sheshyv
+   rev  : [s =  1.7e+01] шешив
+
+#   244 : loss = -9.8e+00
+   inp  : [s =  3.9e+01] пыцунбъ
+   out  : [s =  2.9e+01] pytsunb
+   rev  : [s =  3.3e+01] пыцунб
+
+#   245 : loss = -9.8e+00
+   inp  : [s =  4.5e+01] гюйтхжю
+   out  : [s =  3.5e+01] gyuthju
+   rev  : [s =  3.3e+01] гютджу
+
+#   246 : loss = -9.7e+00
+   inp  : [s =  2.7e+01] шубъемп
+   out  : [s =  1.7e+01] fur coat
+   rev  : [s =  1.4e+01] шуба
+
+#   247 : loss = -9.7e+00
+   inp  : [s =  3.7e+01] мйлйлпб
+   out  : [s =  2.7e+01] mailpb
+   rev  : [s =  3.0e+01] почта pb
+   WRN  : rev != "mail pb"
+
+#   248 : loss = -9.7e+00
+   inp  : [s =  3.6e+01] нцфмфьк
+   out  : [s =  2.6e+01] ncfmfc
+   rev  : [s =  2.6e+01] ncfmfc
+
+#   249 : loss = -9.7e+00
+   inp  : [s =  4.7e+01] отйдфдц
+   out  : [s =  3.8e+01] otydfdc
+   rev  : [s =  3.8e+01] otydfdc
+
+#   250 : loss = -9.7e+00
+   inp  : [s =  4.5e+01] вхъзлтч
+   out  : [s =  3.6e+01] vhzltch
+   rev  : [s =  3.7e+01] вхзлтч
+
+#   251 : loss = -9.7e+00
+   inp  : [s =  4.4e+01] кыярквп
+   out  : [s =  3.4e+01] kyarkvp
+   rev  : [s =  3.6e+01] кьярквп
+
+#   252 : loss = -9.7e+00
+   inp  : [s =  4.6e+01] штшнлфж
+   out  : [s =  3.6e+01] shtshnlfj
+   rev  : [s =  3.2e+01] шешнааг
+   WRN  : rev != "sheshnaag"
+
+#   253 : loss = -9.6e+00
+   inp  : [s =  3.8e+01] одуоунё
+   out  : [s =  2.8e+01] oduoune
+   rev  : [s =  2.3e+01] одуун
+
+#   254 : loss = -9.6e+00
+   inp  : [s =  4.2e+01] шмлзъюъ
+   out  : [s =  3.2e+01] schmlzyu
+   rev  : [s =  2.4e+01] шмальци
+   WRN  : rev != "schmaltzy"
+
+#   255 : loss = -9.6e+00
+   inp  : [s =  3.1e+01] афдардж
+   out  : [s =  2.1e+01] afdarj
+   rev  : [s =  3.1e+01] афдардж
+
+#   256 : loss = -9.5e+00
+   inp  : [s =  3.9e+01] мыьёэгу
+   out  : [s =  2.9e+01] myeegu
+   rev  : [s =  1.4e+01] мой друг
+   WRN  : rev != "myegy"
+
+#   257 : loss = -9.5e+00
+   inp  : [s =  3.5e+01] цыйбнуб
+   out  : [s =  2.6e+01] tsybnub
+   rev  : [s =  2.5e+01] стабхаб
+   WRN  : rev != "stubhub"
+
+#   258 : loss = -9.5e+00
+   inp  : [s =  4.5e+01] клшоцлй
+   out  : [s =  3.5e+01] klshotsly
+   rev  : [s =  4.1e+01] клшотслы
+
+#   259 : loss = -9.5e+00
+   inp  : [s =  3.4e+01] нъыдабо
+   out  : [s =  2.5e+01] nydabo
+   rev  : [s =  2.2e+01] нидабо
+
+#   260 : loss = -9.5e+00
+   inp  : [s =  4.2e+01] щюлжоап
+   out  : [s =  3.3e+01] schuljoap
+   rev  : [s =  4.1e+01] шульджоап
+
+#   261 : loss = -9.4e+00
+   inp  : [s =  3.9e+01] зхтякск
+   out  : [s =  3.0e+01] zhtyaksk
+   rev  : [s =  2.1e+01] ztyx
+   WRN  : rev != "ztyx"
+
+#   262 : loss = -9.4e+00
+   inp  : [s =  4.0e+01] йсжиосё
+   out  : [s =  3.1e+01] ysjiose
+   rev  : [s =  3.1e+01] ysjiose
+
+#   263 : loss = -9.4e+00
+   inp  : [s =  4.1e+01] ъфхпяпь
+   out  : [s =  3.1e+01] bfhpyap
+   rev  : [s =  3.1e+01] bfhpyap
+
+#   264 : loss = -9.3e+00
+   inp  : [s =  4.4e+01] рьщщыьш
+   out  : [s =  3.5e+01] rschschys
+   rev  : [s =  2.3e+01] рщщис
+
+#   265 : loss = -9.3e+00
+   inp  : [s =  4.0e+01] трллпнд
+   out  : [s =  3.1e+01] trllpnd
+   rev  : [s =  4.0e+01] трллпнд
+
+#   266 : loss = -9.3e+00
+   inp  : [s =  3.6e+01] еаофёэе
+   out  : [s =  2.6e+01] eaofee
+   rev  : [s =  2.6e+01] eaofee
+
+#   267 : loss = -9.2e+00
+   inp  : [s =  3.8e+01] чавбэбъ
+   out  : [s =  2.9e+01] chavweb
+   rev  : [s =  2.9e+01] чаввеб
+
+#   268 : loss = -9.2e+00
+   inp  : [s =  4.5e+01] пэёбщрк
+   out  : [s =  3.6e+01] peebschrk
+   rev  : [s =  3.9e+01] пибшрк
+
+#   269 : loss = -9.2e+00
+   inp  : [s =  3.7e+01] щюрэсшо
+   out  : [s =  2.8e+01] schuressho
+   rev  : [s =  2.3e+01] шурешо
+
+#   270 : loss = -9.1e+00
+   inp  : [s =  4.3e+01] ьтчлзнк
+   out  : [s =  3.4e+01] bchlznk
+   rev  : [s =  4.2e+01] бчлзнк
+
+#   271 : loss = -9.1e+00
+   inp  : [s =  4.6e+01] нпцйяшя
+   out  : [s =  3.7e+01] npcyashya
+   rev  : [s =  3.7e+01] нпцяшья
+
+#   272 : loss = -9.0e+00
+   inp  : [s =  4.3e+01] зчашзйь
+   out  : [s =  3.4e+01] zchashzy
+   rev  : [s =  3.3e+01] зчашзы
+
+#   273 : loss = -9.0e+00
+   inp  : [s =  5.1e+01] ёысмбцб
+   out  : [s =  4.2e+01] eysmbcb
+   rev  : [s =  4.2e+01] eysmbcb
+
+#   274 : loss = -9.0e+00
+   inp  : [s =  3.8e+01] щютаихэ
+   out  : [s =  2.9e+01] schutaihe
+   rev  : [s =  2.9e+01] шутайхе
+
+#   275 : loss = -9.0e+00
+   inp  : [s =  4.1e+01] фаяыэдж
+   out  : [s =  3.2e+01] fayayage
+   rev  : [s =  3.1e+01] фаяяге
+
+#   276 : loss = -9.0e+00
+   inp  : [s =  4.2e+01] южрдёжс
+   out  : [s =  3.3e+01] southdezhs
+   rev  : [s =  3.6e+01] южнодежс
+
+#   277 : loss = -9.0e+00
+   inp  : [s =  4.5e+01] лгтчгьш
+   out  : [s =  3.6e+01] lgtchgsh
+   rev  : [s =  3.8e+01] лгтчгш
+
+#   278 : loss = -9.0e+00
+   inp  : [s =  3.5e+01] пдлечиъ
+   out  : [s =  2.6e+01] pdlechi
+   rev  : [s =  2.4e+01] пдлечи
+
+#   279 : loss = -9.0e+00
+   inp  : [s =  5.0e+01] гжхдщлк
+   out  : [s =  4.1e+01] gzhhdschlk
+   rev  : [s =  5.0e+01] гжхдщлк
+
+#   280 : loss = -8.9e+00
+   inp  : [s =  4.4e+01] ёсъуфяф
+   out  : [s =  3.5e+01] esufyaf
+   rev  : [s =  3.7e+01] эсуфьяф
+
+#   281 : loss = -8.9e+00
+   inp  : [s =  4.0e+01] йвтъжпы
+   out  : [s =  3.2e+01] yvtjps
+   rev  : [s =  3.2e+01] yvtjps
+
+#   282 : loss = -8.9e+00
+   inp  : [s =  4.6e+01] ррюбчсч
+   out  : [s =  3.7e+01] rrubchsch
+   rev  : [s =  2.9e+01] ррубчщ
+
+#   283 : loss = -8.9e+00
+   inp  : [s =  3.4e+01] гргивъм
+   out  : [s =  2.5e+01] grgivm
+   rev  : [s =  2.9e+01] гргивм
+
+#   284 : loss = -8.8e+00
+   inp  : [s =  3.6e+01] ъяниббе
+   out  : [s =  2.7e+01] ennibbe
+   rev  : [s =  3.3e+01] энниббе
+
+#   285 : loss = -8.8e+00
+   inp  : [s =  3.8e+01] кёлйлбё
+   out  : [s =  2.9e+01] kelylbe
+   rev  : [s =  2.2e+01] келли будет
+   WRN  : rev != "kelly be"
+
+#   286 : loss = -8.8e+00
+   inp  : [s =  4.0e+01] ъноююлё
+   out  : [s =  3.1e+01] b - yule
+   rev  : [s =  3.5e+01] б - йоль
+
+#   287 : loss = -8.8e+00
+   inp  : [s =  4.0e+01] уеюъажъ
+   out  : [s =  3.1e+01] ueyuazh
+   rev  : [s =  2.9e+01] уэюаж
+
+#   288 : loss = -8.8e+00
+   inp  : [s =  3.8e+01] бъагшёъ
+   out  : [s =  2.9e+01] byagshe
+   rev  : [s =  3.9e+01] сумку, которую она
+   WRN  : rev != "bag she"
+
+#   289 : loss = -8.8e+00
+   inp  : [s =  3.4e+01] новзозё
+   out  : [s =  2.5e+01] novzose
+   rev  : [s =  3.1e+01] новзозе
+
+#   290 : loss = -8.8e+00
+   inp  : [s =  4.4e+01] зтвпсше
+   out  : [s =  3.5e+01] ztvpshe
+   rev  : [s =  3.7e+01] зтвпше
+
+#   291 : loss = -8.7e+00
+   inp  : [s =  4.4e+01] жщшжнйб
+   out  : [s =  3.5e+01] zhshzhnyb
+   rev  : [s =  2.4e+01] зшзн
+   WRN  : rev != "zshzn"
+
+#   292 : loss = -8.7e+00
+   inp  : [s =  3.3e+01] доэсунд
+   out  : [s =  2.4e+01] doesund
+   rev  : [s =  1.5e+01] делает и
+   WRN  : rev != "does and"
+
+#   293 : loss = -8.7e+00
+   inp  : [s =  4.1e+01] фггъдюн
+   out  : [s =  3.2e+01] fggyun
+   rev  : [s =  3.1e+01] фггюн
+
+#   294 : loss = -8.7e+00
+   inp  : [s =  4.5e+01] ьофжюид
+   out  : [s =  3.7e+01] bofjuid
+   rev  : [s =  3.8e+01] бофжуид
+
+#   295 : loss = -8.7e+00
+   inp  : [s =  4.5e+01] ьяхшжлг
+   out  : [s =  3.7e+01] ehshjlg
+   rev  : [s =  3.7e+01] ehshjlg
+
+#   296 : loss = -8.7e+00
+   inp  : [s =  4.4e+01] тзъьчвш
+   out  : [s =  3.5e+01] tschvsh
+   rev  : [s =  2.5e+01] чвшш
+
+#   297 : loss = -8.7e+00
+   inp  : [s =  5.0e+01] вёацсжю
+   out  : [s =  4.1e+01] veatszhyu
+   rev  : [s =  3.4e+01] веацжю
+
+#   298 : loss = -8.7e+00
+   inp  : [s =  4.2e+01] юожуцёв
+   out  : [s =  3.3e+01] yuozhutsev
+   rev  : [s =  3.0e+01] юдзюцу
+   WRN  : rev != "youjutsu"
+
+#   299 : loss = -8.7e+00
+   inp  : [s =  4.0e+01] хйючлсч
+   out  : [s =  3.1e+01] hyuchlsch
+   rev  : [s =  2.7e+01] хюхльш
+
+#   300 : loss = -8.6e+00
+   inp  : [s =  4.4e+01] чмкрпнм
+   out  : [s =  3.6e+01] chmkrpnm
+   rev  : [s =  4.4e+01] чмкрпнм
+
+#   301 : loss = -8.6e+00
+   inp  : [s =  4.3e+01] сдпкхшё
+   out  : [s =  3.5e+01] sdpkhshe
+   rev  : [s =  2.9e+01] сдпхше
+
+#   302 : loss = -8.6e+00
+   inp  : [s =  3.9e+01] йахпшьх
+   out  : [s =  3.0e+01] yahpshh
+   rev  : [s =  3.8e+01] яхпшшш
+
+#   303 : loss = -8.5e+00
+   inp  : [s =  3.5e+01] инмърфь
+   out  : [s =  2.7e+01] inmrf
+   rev  : [s =  2.3e+01] imrf
+   WRN  : rev != "imrf"
+
+#   304 : loss = -8.5e+00
+   inp  : [s =  3.5e+01] аждфиъь
+   out  : [s =  2.7e+01] azhdfi
+   rev  : [s =  2.2e+01] аздфи
+   WRN  : rev != "azdfi"
+
+#   305 : loss = -8.5e+00
+   inp  : [s =  4.3e+01] абфршкк
+   out  : [s =  3.4e+01] abfrshcc
+   rev  : [s =  3.4e+01] abfrshcc
+
+#   306 : loss = -8.5e+00
+   inp  : [s =  4.5e+01] шрмпзщь
+   out  : [s =  3.6e+01] shrmpzsch
+   rev  : [s =  2.5e+01] креветки
+   WRN  : rev != "shrimps"
+
+#   307 : loss = -8.5e+00
+   inp  : [s =  3.9e+01] ойётввй
+   out  : [s =  3.0e+01] oyetvvy
+   rev  : [s =  3.4e+01] ойетвви
+
+#   308 : loss = -8.5e+00
+   inp  : [s =  4.1e+01] еъуюзпц
+   out  : [s =  3.2e+01] eyuzpc
+   rev  : [s =  3.2e+01] eyuzpc
+
+#   309 : loss = -8.4e+00
+   inp  : [s =  4.4e+01] бъифййя
+   out  : [s =  3.5e+01] byifyya
+   rev  : [s =  4.3e+01] быифыя
+
+#   310 : loss = -8.3e+00
+   inp  : [s =  3.9e+01] еъярйхф
+   out  : [s =  3.1e+01] eyaryhf
+   rev  : [s =  3.4e+01] эйарихф
+
+#   311 : loss = -8.3e+00
+   inp  : [s =  4.3e+01] жэсюйэх
+   out  : [s =  3.5e+01] zhesyueh
+   rev  : [s =  3.8e+01] чжесюэ
+
+#   312 : loss = -8.3e+00
+   inp  : [s =  4.3e+01] отлтжеб
+   out  : [s =  3.5e+01] otltzheb
+   rev  : [s =  4.3e+01] отлтжеб
+
+#   313 : loss = -8.3e+00
+   inp  : [s =  3.5e+01] чьэцспи
+   out  : [s =  2.7e+01] chetsspi
+   rev  : [s =  2.1e+01] четспи
+
+#   314 : loss = -8.1e+00
+   inp  : [s =  3.5e+01] адэъютк
+   out  : [s =  2.7e+01] adeyutk
+   rev  : [s =  2.5e+01] адеютк
+
+#   315 : loss = -8.0e+00
+   inp  : [s =  4.1e+01] щотющйе
+   out  : [s =  3.3e+01] schotyushche
+   rev  : [s =  2.8e+01] шоттише
+   WRN  : rev != "schottische"
+
+#   316 : loss = -8.0e+00
+   inp  : [s =  4.7e+01] лфюыжнх
+   out  : [s =  3.9e+01] lfuyzhnh
+   rev  : [s =  2.1e+01] фухх
+   WRN  : rev != "fujh"
+
+#   317 : loss = -8.0e+00
+   inp  : [s =  3.8e+01] юужънье
+   out  : [s =  3.0e+01] yuuzhanye
+   rev  : [s =  3.5e+01] йуужань
+   WRN  : rev != "yuuzhan"
+
+#   318 : loss = -8.0e+00
+   inp  : [s =  3.5e+01] жцэаэны
+   out  : [s =  2.7e+01] lceaen
+   rev  : [s =  2.7e+01] lceaen
+
+#   319 : loss = -8.0e+00
+   inp  : [s =  4.2e+01] съхмвгз
+   out  : [s =  3.4e+01] skhmvgz
+   rev  : [s =  4.1e+01] схмвгз
+
+#   320 : loss = -7.9e+00
+   inp  : [s =  4.7e+01] рлвнвшр
+   out  : [s =  3.9e+01] rlvnvshr
+   rev  : [s =  4.7e+01] рлвнвшр
+
+#   321 : loss = -7.9e+00
+   inp  : [s =  3.8e+01] аэждяэк
+   out  : [s =  3.0e+01] aezhdaek
+   rev  : [s =  2.1e+01] майданек
+   WRN  : rev != "majdanek"
+
+#   322 : loss = -7.9e+00
+   inp  : [s =  4.3e+01] йджмтуц
+   out  : [s =  3.5e+01] yjmtuts
+   rev  : [s =  3.5e+01] yjmtuts
+
+#   323 : loss = -7.9e+00
+   inp  : [s =  4.4e+01] паъзшцр
+   out  : [s =  3.7e+01] pazshtsr
+   rev  : [s =  3.6e+01] пазшцр
+
+#   324 : loss = -7.9e+00
+   inp  : [s =  3.9e+01] фюэтючб
+   out  : [s =  3.1e+01] fuetuchb
+   rev  : [s =  3.7e+01] фуэтучб
+
+#   325 : loss = -7.8e+00
+   inp  : [s =  5.0e+01] мжвмвфз
+   out  : [s =  4.2e+01] mzhvmvfz
+   rev  : [s =  2.5e+01] mzvmz
+   WRN  : rev != "mzvmz"
+
+#   326 : loss = -7.8e+00
+   inp  : [s =  4.0e+01] хюнцфкё
+   out  : [s =  3.2e+01] huntzfke
+   rev  : [s =  3.6e+01] хантцфке
+
+#   327 : loss = -7.8e+00
+   inp  : [s =  3.6e+01] бьемрыы
+   out  : [s =  2.8e+01] byemry
+   rev  : [s =  2.8e+01] быемри
+
+#   328 : loss = -7.8e+00
+   inp  : [s =  4.4e+01] чжлпхэн
+   out  : [s =  3.6e+01] zhlpheng
+   rev  : [s =  4.6e+01] чжлпхенг
+
+#   329 : loss = -7.8e+00
+   inp  : [s =  3.7e+01] оскмъэц
+   out  : [s =  2.9e+01] oskmets
+   rev  : [s =  2.1e+01] оскмец
+
+#   330 : loss = -7.7e+00
+   inp  : [s =  3.9e+01] гдфтбну
+   out  : [s =  3.1e+01] gdftbnu
+   rev  : [s =  3.1e+01] gdftbnu
+
+#   331 : loss = -7.7e+00
+   inp  : [s =  3.8e+01] ыпхыэрэ
+   out  : [s =  3.0e+01] ehyere
+   rev  : [s =  2.0e+01] эйер
+
+#   332 : loss = -7.6e+00
+   inp  : [s =  4.7e+01] тцшмлчн
+   out  : [s =  4.0e+01] tcshmlchn
+   rev  : [s =  4.0e+01] tcshmlchn
+
+#   333 : loss = -7.6e+00
+   inp  : [s =  4.2e+01] ъгдхгву
+   out  : [s =  3.4e+01] bgdhgvu
+   rev  : [s =  3.4e+01] bgdhgvu
+
+#   334 : loss = -7.6e+00
+   inp  : [s =  3.7e+01] мохцьйа
+   out  : [s =  2.9e+01] mokhtsia
+   rev  : [s =  2.0e+01] мохция
+
+#   335 : loss = -7.5e+00
+   inp  : [s =  3.8e+01] коазйрр
+   out  : [s =  3.1e+01] coazyrr
+   rev  : [s =  3.0e+01] коазирр
+
+#   336 : loss = -7.5e+00
+   inp  : [s =  4.0e+01] мзкпкэт
+   out  : [s =  3.3e+01] mzkpcat
+   rev  : [s =  3.3e+01] mzkpcat
+
+#   337 : loss = -7.5e+00
+   inp  : [s =  4.3e+01] мьмчрбц
+   out  : [s =  3.6e+01] mmhrbc
+   rev  : [s =  3.6e+01] mmhrbc
+
+#   338 : loss = -7.5e+00
+   inp  : [s =  3.2e+01] нодьчуб
+   out  : [s =  2.4e+01] nodechub
+   rev  : [s =  3.6e+01] узел голавля
+   WRN  : rev != "node chub"
+
+#   339 : loss = -7.5e+00
+   inp  : [s =  4.6e+01] жтпвыол
+   out  : [s =  3.9e+01] zhtpvyol
+   rev  : [s =  3.7e+01] жтпвел
+
+#   340 : loss = -7.5e+00
+   inp  : [s =  3.6e+01] хоздзйэ
+   out  : [s =  2.8e+01] hozdze
+   rev  : [s =  2.5e+01] хоздзе
+
+#   341 : loss = -7.5e+00
+   inp  : [s =  3.6e+01] чпуёайь
+   out  : [s =  2.9e+01] chpuyay
+   rev  : [s =  2.4e+01] чпуяй
+
+#   342 : loss = -7.4e+00
+   inp  : [s =  4.1e+01] ьгуыфъп
+   out  : [s =  3.4e+01] ьуффппппппп
+   rev  : [s =  3.4e+01] ьуффппппппп
+
+#   343 : loss = -7.4e+00
+   inp  : [s =  3.9e+01] ивъпжбк
+   out  : [s =  3.2e+01] ivpzhbk
+   rev  : [s =  3.4e+01] ивпжбк
+
+#   344 : loss = -7.4e+00
+   inp  : [s =  4.4e+01] стбфиоэ
+   out  : [s =  3.6e+01] stbfioe
+   rev  : [s =  3.6e+01] stbfioe
+
+#   345 : loss = -7.2e+00
+   inp  : [s =  4.2e+01] зэёфтыг
+   out  : [s =  3.4e+01] seeftyg
+   rev  : [s =  2.7e+01] смиттиг
+
+#   346 : loss = -7.2e+00
+   inp  : [s =  4.3e+01] очылрйк
+   out  : [s =  3.5e+01] ochylryk
+   rev  : [s =  3.5e+01] очылрык
+
+#   347 : loss = -7.2e+00
+   inp  : [s =  2.6e+01] ьюдаемо
+   out  : [s =  1.9e+01] unreadable
+   rev  : [s =  2.6e+01] нечитаемый
+
+#   348 : loss = -7.2e+00
+   inp  : [s =  4.6e+01] нфхквщп
+   out  : [s =  3.9e+01] nfhkvschp
+   rev  : [s =  3.9e+01] nfhkvschp
+
+#   349 : loss = -7.2e+00
+   inp  : [s =  4.2e+01] мфнбдэи
+   out  : [s =  3.5e+01] mfnbdei
+   rev  : [s =  4.1e+01] нбнбдеи
+
+#   350 : loss = -7.2e+00
+   inp  : [s =  3.6e+01] шьмрпоф
+   out  : [s =  2.9e+01] shmrpof
+   rev  : [s =  3.5e+01] шмрпоф
+
+#   351 : loss = -7.1e+00
+   inp  : [s =  3.7e+01] ёаъьльш
+   out  : [s =  3.0e+01] eailsh
+   rev  : [s =  3.0e+01] eailsh
+
+#   352 : loss = -7.0e+00
+   inp  : [s =  5.2e+01] эсжлфжк
+   out  : [s =  4.5e+01] eszhlfzhk
+   rev  : [s =  5.5e+01] есжлфжк
+
+#   353 : loss = -7.0e+00
+   inp  : [s =  3.9e+01] ыхмёухг
+   out  : [s =  3.2e+01] ymeuhg
+   rev  : [s =  3.2e+01] ymeuhg
+
+#   354 : loss = -7.0e+00
+   inp  : [s =  4.3e+01] этюзшйг
+   out  : [s =  3.6e+01] etuzschig
+   rev  : [s =  2.2e+01] этруски
+   WRN  : rev != "etruschi"
+
+#   355 : loss = -6.9e+00
+   inp  : [s =  4.4e+01] ьэунуып
+   out  : [s =  3.7e+01] byunuyp
+   rev  : [s =  3.4e+01] бюнуип
+
+#   356 : loss = -6.9e+00
+   inp  : [s =  4.2e+01] нбсахйо
+   out  : [s =  3.5e+01] nbsahyo
+   rev  : [s =  4.3e+01] нбсахьо
+
+#   357 : loss = -6.9e+00
+   inp  : [s =  4.2e+01] тяээйпш
+   out  : [s =  3.6e+01] tyaeepsh
+   rev  : [s =  3.7e+01] тяеепш
+
+#   358 : loss = -6.8e+00
+   inp  : [s =  4.1e+01] сяеофсё
+   out  : [s =  3.5e+01] syaeofse
+   rev  : [s =  2.9e+01] сяофсе
+
+#   359 : loss = -6.8e+00
+   inp  : [s =  4.1e+01] нмекштф
+   out  : [s =  3.4e+01] nmekstf
+   rev  : [s =  3.4e+01] nmekstf
+
+#   360 : loss = -6.8e+00
+   inp  : [s =  3.9e+01] цоуиьог
+   out  : [s =  3.3e+01] tsouiyog
+   rev  : [s =  2.4e+01] цуйог
+
+#   361 : loss = -6.8e+00
+   inp  : [s =  3.5e+01] уццгхии
+   out  : [s =  2.8e+01] utsghii
+   rev  : [s =  2.1e+01] уцгии
+
+#   362 : loss = -6.8e+00
+   inp  : [s =  4.4e+01] пфгёдбм
+   out  : [s =  3.8e+01] pfgedbm
+   rev  : [s =  3.8e+01] pfgedbm
+
+#   363 : loss = -6.7e+00
+   inp  : [s =  3.4e+01] ьрхсхнд
+   out  : [s =  2.7e+01] brhshnd
+   rev  : [s =  3.1e+01] брхшнд
+
+#   364 : loss = -6.7e+00
+   inp  : [s =  3.8e+01] фрёрдбн
+   out  : [s =  3.1e+01] frerdbn
+   rev  : [s =  3.1e+01] frerdbn
+
+#   365 : loss = -6.7e+00
+   inp  : [s =  3.6e+01] фожишуь
+   out  : [s =  2.9e+01] fozhishu
+   rev  : [s =  2.8e+01] фожишу
+
+#   366 : loss = -6.7e+00
+   inp  : [s =  3.3e+01] аюросэк
+   out  : [s =  2.6e+01] ayurosek
+   rev  : [s =  2.2e+01] юросек
+   WRN  : rev != "yurosek"
+
+#   367 : loss = -6.7e+00
+   inp  : [s =  4.2e+01] шщвхппв
+   out  : [s =  3.6e+01] shshvhppv
+   rev  : [s =  4.0e+01] шшвхппв
+
+#   368 : loss = -6.7e+00
+   inp  : [s =  4.3e+01] щчеычсё
+   out  : [s =  3.7e+01] schcheychse
+   rev  : [s =  3.7e+01] schcheychse
+
+#   369 : loss = -6.6e+00
+   inp  : [s =  3.8e+01] щцамкьм
+   out  : [s =  3.1e+01] schtsamkm
+   rev  : [s =  3.9e+01] счцамкм
+
+#   370 : loss = -6.6e+00
+   inp  : [s =  3.8e+01] есърбйж
+   out  : [s =  3.1e+01] esrbyj
+   rev  : [s =  3.1e+01] esrbyj
+
+#   371 : loss = -6.6e+00
+   inp  : [s =  4.0e+01] блущгйщ
+   out  : [s =  3.3e+01] blushgysch
+   rev  : [s =  3.4e+01] румянецгиш
+
+#   372 : loss = -6.5e+00
+   inp  : [s =  3.8e+01] юьсчэим
+   out  : [s =  3.2e+01] yushcheim
+   rev  : [s =  1.4e+01] ючай
+   WRN  : rev != "yuchai"
+
+#   373 : loss = -6.5e+00
+   inp  : [s =  4.6e+01] щмчодлц
+   out  : [s =  3.9e+01] schmchodlts
+   rev  : [s =  3.9e+01] schmchodlts
+
+#   374 : loss = -6.5e+00
+   inp  : [s =  3.9e+01] ийёйхыш
+   out  : [s =  3.2e+01] iyeyhysh
+   rev  : [s =  3.4e+01] ийейхыш
+
+#   375 : loss = -6.5e+00
+   inp  : [s =  4.2e+01] ашбчеэф
+   out  : [s =  3.5e+01] ashbcheef
+   rev  : [s =  3.1e+01] ашбшиф
+
+#   376 : loss = -6.5e+00
+   inp  : [s =  3.9e+01] рйлдщел
+   out  : [s =  3.2e+01] raildschel
+   rev  : [s =  3.1e+01] набеги на ад
+   WRN  : rev != "raids hell"
+
+#   377 : loss = -6.5e+00
+   inp  : [s =  3.8e+01] фаяяомш
+   out  : [s =  3.1e+01] faiaomsh
+   rev  : [s =  3.5e+01] файаомш
+
+#   378 : loss = -6.5e+00
+   inp  : [s =  3.9e+01] идльлгг
+   out  : [s =  3.2e+01] idllgg
+   rev  : [s =  3.4e+01] бездельничающий
+
+#   379 : loss = -6.4e+00
+   inp  : [s =  4.5e+01] хыяяцшр
+   out  : [s =  3.8e+01] hyayatsshr
+   rev  : [s =  4.2e+01] хяятшшр
+
+#   380 : loss = -6.4e+00
+   inp  : [s =  3.6e+01] ьдмоеьц
+   out  : [s =  3.0e+01] idmoec
+   rev  : [s =  3.0e+01] idmoec
+
+#   381 : loss = -6.4e+00
+   inp  : [s =  3.3e+01] бхарщоп
+   out  : [s =  2.7e+01] bharschop
+   rev  : [s =  2.9e+01] бхаршоп
+
+#   382 : loss = -6.4e+00
+   inp  : [s =  3.5e+01] ьдусьрш
+   out  : [s =  2.8e+01] ydusrsh
+   rev  : [s =  3.1e+01] идусрш
+
+#   383 : loss = -6.3e+00
+   inp  : [s =  4.6e+01] хбйёяуз
+   out  : [s =  4.0e+01] hbyeyauz
+   rev  : [s =  4.3e+01] хбиеяуз
+
+#   384 : loss = -6.3e+00
+   inp  : [s =  3.7e+01] сёюёаау
+   out  : [s =  3.0e+01] seueaau
+   rev  : [s =  3.5e+01] сеуеау
+
+#   385 : loss = -6.3e+00
+   inp  : [s =  3.8e+01] уэявбаб
+   out  : [s =  3.1e+01] ueyavbab
+   rev  : [s =  3.5e+01] уеявбаб
+
+#   386 : loss = -6.2e+00
+   inp  : [s =  4.1e+01] зсёнъвч
+   out  : [s =  3.5e+01] zsenvch
+   rev  : [s =  3.4e+01] зсенвч
+
+#   387 : loss = -6.2e+00
+   inp  : [s =  3.6e+01] фёхигсе
+   out  : [s =  3.0e+01] fehigse
+   rev  : [s =  3.3e+01] фехигсе
+
+#   388 : loss = -6.1e+00
+   inp  : [s =  4.2e+01] хфцтйчф
+   out  : [s =  3.5e+01] hfctychf
+   rev  : [s =  3.5e+01] hfctychf
+
+#   389 : loss = -6.1e+00
+   inp  : [s =  3.7e+01] ыурчеью
+   out  : [s =  3.1e+01] yurcheyu
+   rev  : [s =  2.0e+01] юрчей
+   WRN  : rev != "yurchey"
+
+#   390 : loss = -6.1e+00
+   inp  : [s =  3.8e+01] плсечеу
+   out  : [s =  3.2e+01] plsechu
+   rev  : [s =  2.8e+01] плсечу
+
+#   391 : loss = -6.0e+00
+   inp  : [s =  4.2e+01] чирпшбй
+   out  : [s =  3.6e+01] chirpshby
+   rev  : [s =  3.1e+01] щебечущий
+
+#   392 : loss = -6.0e+00
+   inp  : [s =  4.0e+01] пндэушь
+   out  : [s =  3.4e+01] pndeush
+   rev  : [s =  3.4e+01] пндеуш
+
+#   393 : loss = -6.0e+00
+   inp  : [s =  3.8e+01] гбмацвё
+   out  : [s =  3.2e+01] gbmatswe
+   rev  : [s =  3.7e+01] гбматсве
+
+#   394 : loss = -6.0e+00
+   inp  : [s =  4.1e+01] бсхкбяд
+   out  : [s =  3.5e+01] bshkbyad
+   rev  : [s =  3.7e+01] бшкбяд
+
+#   395 : loss = -6.0e+00
+   inp  : [s =  4.5e+01] апкюжэё
+   out  : [s =  3.9e+01] apkuzhee
+   rev  : [s =  2.7e+01] апкужее
+
+#   396 : loss = -6.0e+00
+   inp  : [s =  3.6e+01] дзхсыли
+   out  : [s =  3.1e+01] dzxyli
+   rev  : [s =  3.0e+01] дзксили
+
+#   397 : loss = -5.9e+00
+   inp  : [s =  4.7e+01] ъсдгжэм
+   out  : [s =  4.1e+01] bsdgzhem
+   rev  : [s =  3.5e+01] бсдгжем
+
+#   398 : loss = -5.9e+00
+   inp  : [s =  3.6e+01] эялфёнг
+   out  : [s =  3.0e+01] eyalfeng
+   rev  : [s =  3.1e+01] эялфенг
+
+#   399 : loss = -5.9e+00
+   inp  : [s =  4.4e+01] алшйьхц
+   out  : [s =  3.8e+01] alshykhts
+   rev  : [s =  2.5e+01] альшайх
+   WRN  : rev != "alshaykh"
+
+#   400 : loss = -5.9e+00
+   inp  : [s =  3.5e+01] сёабмъц
+   out  : [s =  2.9e+01] seabmts
+   rev  : [s =  3.4e+01] морские обитатели
+
+#   401 : loss = -5.8e+00
+   inp  : [s =  3.7e+01] лёпдъпч
+   out  : [s =  3.2e+01] lepdhr
+   rev  : [s =  3.0e+01] лепдхр
+
+#   402 : loss = -5.8e+00
+   inp  : [s =  3.8e+01] иыбакпк
+   out  : [s =  3.2e+01] iybakpc
+   rev  : [s =  3.2e+01] iybakpc
+
+#   403 : loss = -5.8e+00
+   inp  : [s =  4.3e+01] цпйузль
+   out  : [s =  3.7e+01] cpyuzl
+   rev  : [s =  3.7e+01] cpyuzl
+
+#   404 : loss = -5.8e+00
+   inp  : [s =  4.2e+01] нвчыбчг
+   out  : [s =  3.7e+01] nvchybchg
+   rev  : [s =  2.9e+01] вики бичинг
+   WRN  : rev != "vicky beeching"
+
+#   405 : loss = -5.8e+00
+   inp  : [s =  4.9e+01] хтюаычп
+   out  : [s =  4.3e+01] htyuaichp
+   rev  : [s =  1.2e+01] хена
+   WRN  : rev != "hyunah"
+
+#   406 : loss = -5.8e+00
+   inp  : [s =  3.7e+01] тэмвюон
+   out  : [s =  3.1e+01] temvuon
+   rev  : [s =  3.0e+01] темвуон
+
+#   407 : loss = -5.7e+00
+   inp  : [s =  4.1e+01] бэтжъшг
+   out  : [s =  3.6e+01] batzhshg
+   rev  : [s =  3.2e+01] батжшг
+
+#   408 : loss = -5.7e+00
+   inp  : [s =  4.2e+01] цмйааве
+   out  : [s =  3.7e+01] cmyaave
+   rev  : [s =  3.7e+01] cmyaave
+
+#   409 : loss = -5.6e+00
+   inp  : [s =  4.0e+01] нххуеяк
+   out  : [s =  3.5e+01] nhhueyak
+   rev  : [s =  3.3e+01] нхуэяк
+
+#   410 : loss = -5.6e+00
+   inp  : [s =  4.5e+01] зхнпхыб
+   out  : [s =  3.9e+01] zhnphyb
+   rev  : [s =  2.9e+01] жнфыб
+
+#   411 : loss = -5.6e+00
+   inp  : [s =  3.8e+01] чгхъцёх
+   out  : [s =  3.3e+01] chghceh
+   rev  : [s =  3.3e+01] chghceh
+
+#   412 : loss = -5.6e+00
+   inp  : [s =  3.8e+01] здфкахц
+   out  : [s =  3.2e+01] zdfkahc
+   rev  : [s =  3.8e+01] здфкахк
+
+#   413 : loss = -5.6e+00
+   inp  : [s =  3.5e+01] чисмэса
+   out  : [s =  3.0e+01] chismesa
+   rev  : [s =  1.7e+01] рождество
+   WRN  : rev != "christmas"
+
+#   414 : loss = -5.6e+00
+   inp  : [s =  3.4e+01] кбсхцие
+   out  : [s =  2.9e+01] kbshce
+   rev  : [s =  2.9e+01] kbshce
+
+#   415 : loss = -5.5e+00
+   inp  : [s =  4.0e+01] йпзфёжь
+   out  : [s =  3.4e+01] ypzfezh
+   rev  : [s =  3.2e+01] ипзфеж
+
+#   416 : loss = -5.5e+00
+   inp  : [s =  4.3e+01] ясъчкрл
+   out  : [s =  3.7e+01] yaschkrl
+   rev  : [s =  3.4e+01] ящкрл
+
+#   417 : loss = -5.5e+00
+   inp  : [s =  3.7e+01] нвънцьш
+   out  : [s =  3.1e+01] nvntssh
+   rev  : [s =  3.0e+01] нвнцш
+
+#   418 : loss = -5.4e+00
+   inp  : [s =  4.2e+01] нофкмчп
+   out  : [s =  3.6e+01] nofkmchp
+   rev  : [s =  3.6e+01] nofkmchp
+
+#   419 : loss = -5.4e+00
+   inp  : [s =  4.1e+01] вэхлмчк
+   out  : [s =  3.5e+01] vehlmchk
+   rev  : [s =  3.8e+01] вехлмчк
+
+#   420 : loss = -5.4e+00
+   inp  : [s =  3.1e+01] гглелан
+   out  : [s =  2.5e+01] gglelan
+   rev  : [s =  3.1e+01] гглелан
+
+#   421 : loss = -5.4e+00
+   inp  : [s =  4.3e+01] бчжашуу
+   out  : [s =  3.8e+01] bzhashuu
+   rev  : [s =  3.7e+01] бжашууу
+
+#   422 : loss = -5.4e+00
+   inp  : [s =  4.5e+01] сцгщёшы
+   out  : [s =  3.9e+01] skgscheshy
+   rev  : [s =  4.4e+01] скгщешый
+
+#   423 : loss = -5.4e+00
+   inp  : [s =  4.0e+01] бщыхегы
+   out  : [s =  3.4e+01] bschyhegy
+   rev  : [s =  3.5e+01] бщыхеги
+
+#   424 : loss = -5.4e+00
+   inp  : [s =  4.1e+01] щбноаяи
+   out  : [s =  3.5e+01] schbnoyai
+   rev  : [s =  3.0e+01] щбнояй
+
+#   425 : loss = -5.4e+00
+   inp  : [s =  4.0e+01] вытёъдш
+   out  : [s =  3.5e+01] vytedsh
+   rev  : [s =  2.9e+01] вытедш
+
+#   426 : loss = -5.3e+00
+   inp  : [s =  4.8e+01] ьщцъжсц
+   out  : [s =  4.3e+01] ьъъссцццццц
+   rev  : [s =  4.3e+01] ьъъссцццццц
+
+#   427 : loss = -5.3e+00
+   inp  : [s =  3.4e+01] дсбцент
+   out  : [s =  2.8e+01] dsbcent
+   rev  : [s =  2.8e+01] dsbcent
+
+#   428 : loss = -5.3e+00
+   inp  : [s =  3.3e+01] дирдиъш
+   out  : [s =  2.8e+01] dirdish
+   rev  : [s =  4.1e+01] грязная тарелка
+   WRN  : rev != "dirty dish"
+
+#   429 : loss = -5.2e+00
+   inp  : [s =  4.7e+01] зшчтшсо
+   out  : [s =  4.2e+01] zshtshso
+   rev  : [s =  4.1e+01] зштшсо
+
+#   430 : loss = -5.2e+00
+   inp  : [s =  5.1e+01] ьщыяэзж
+   out  : [s =  4.6e+01] bshyaezzh
+   rev  : [s =  7.1e+00] она
+   WRN  : rev != "sheez"
+
+#   431 : loss = -5.2e+00
+   inp  : [s =  3.4e+01] йжазейй
+   out  : [s =  2.8e+01] yjazey
+   rev  : [s =  1.2e+01] язей
+
+#   432 : loss = -5.2e+00
+   inp  : [s =  3.6e+01] йсеаттх
+   out  : [s =  3.1e+01] yseatth
+   rev  : [s =  2.0e+01] ваше место
+
+#   433 : loss = -5.1e+00
+   inp  : [s =  3.5e+01] ьмшээат
+   out  : [s =  3.0e+01] inseeat
+   rev  : [s =  1.8e+01] вместо
+   WRN  : rev != "instead"
+
+#   434 : loss = -5.1e+00
+   inp  : [s =  3.7e+01] ъръжобз
+   out  : [s =  3.2e+01] yrzhobz
+   rev  : [s =  3.1e+01] иржобз
+
+#   435 : loss = -5.1e+00
+   inp  : [s =  3.4e+01] шяйоеис
+   out  : [s =  2.9e+01] syayois
+   rev  : [s =  1.2e+01] яей
+   WRN  : rev != "yayoi"
+
+#   436 : loss = -5.1e+00
+   inp  : [s =  4.8e+01] зтягкфч
+   out  : [s =  4.3e+01] ztyagkfch
+   rev  : [s =  3.6e+01] стейк из рыбы
+   WRN  : rev != "steak fish"
+
+#   437 : loss = -5.1e+00
+   inp  : [s =  3.8e+01] ёиефюёг
+   out  : [s =  3.2e+01] eiefueg
+   rev  : [s =  3.2e+01] eiefueg
+
+#   438 : loss = -5.0e+00
+   inp  : [s =  4.6e+01] ёзрфхжэ
+   out  : [s =  4.1e+01] ezrfhzhe
+   rev  : [s =  4.0e+01] эзрфхже
+
+#   439 : loss = -4.9e+00
+   inp  : [s =  4.1e+01] ецчшуюь
+   out  : [s =  3.6e+01] ecchshuy
+   rev  : [s =  3.0e+01] экчшуй
+
+#   440 : loss = -4.9e+00
+   inp  : [s =  3.2e+01] офмеёйн
+   out  : [s =  2.7e+01] ofmeein
+   rev  : [s =  1.6e+01] из меня
+
+#   441 : loss = -4.9e+00
+   inp  : [s =  3.6e+01] мсцижуч
+   out  : [s =  3.1e+01] msciuch
+   rev  : [s =  3.1e+01] msciuch
+
+#   442 : loss = -4.9e+00
+   inp  : [s =  4.1e+01] зцрьлсе
+   out  : [s =  3.7e+01] ztsrlse
+   rev  : [s =  3.8e+01] зцрлсе
+
+#   443 : loss = -4.8e+00
+   inp  : [s =  3.8e+01] иёхёйчк
+   out  : [s =  3.3e+01] yeheichk
+   rev  : [s =  2.4e+01] ехеичк
+
+#   444 : loss = -4.8e+00
+   inp  : [s =  4.0e+01] иёбюлгв
+   out  : [s =  3.5e+01] iebulgv
+   rev  : [s =  3.5e+01] iebulgv
+
+#   445 : loss = -4.8e+00
+   inp  : [s =  3.9e+01] юьчиёие
+   out  : [s =  3.4e+01] yuchieie
+   rev  : [s =  2.3e+01] ючиие
+
+#   446 : loss = -4.7e+00
+   inp  : [s =  4.5e+01] бчелхрщ
+   out  : [s =  4.0e+01] bchelhrsch
+   rev  : [s =  3.3e+01] бакалавриат
+   WRN  : rev != "bachelor's"
+
+#   447 : loss = -4.7e+00
+   inp  : [s =  3.8e+01] дрцнувь
+   out  : [s =  3.3e+01] drtsnuv
+   rev  : [s =  3.1e+01] дрцнув
+
+#   448 : loss = -4.7e+00
+   inp  : [s =  4.2e+01] зкёдлнъ
+   out  : [s =  3.8e+01] zkedln
+   rev  : [s =  3.8e+01] zkedln
+
+#   449 : loss = -4.7e+00
+   inp  : [s =  5.0e+01] щябжсгс
+   out  : [s =  4.6e+01] schyabzhsgs
+   rev  : [s =  5.0e+01] щябжсгс
+
+#   450 : loss = -4.7e+00
+   inp  : [s =  3.8e+01] дршиыеэ
+   out  : [s =  3.3e+01] drshiee
+   rev  : [s =  1.8e+01] дршии
+
+#   451 : loss = -4.6e+00
+   inp  : [s =  4.1e+01] рлобмжл
+   out  : [s =  3.6e+01] rlobmzhl
+   rev  : [s =  4.1e+01] рлобмжл
+
+#   452 : loss = -4.6e+00
+   inp  : [s =  3.7e+01] ёояээхл
+   out  : [s =  3.2e+01] eoyeehl
+   rev  : [s =  2.8e+01] эойил
+
+#   453 : loss = -4.6e+00
+   inp  : [s =  3.5e+01] чыръпьм
+   out  : [s =  3.0e+01] chyrpm
+   rev  : [s =  2.5e+01] чирпм
+
+#   454 : loss = -4.6e+00
+   inp  : [s =  4.1e+01] отвлэмм
+   out  : [s =  3.6e+01] otplamm
+   rev  : [s =  1.8e+01] топлам
+   WRN  : rev != "toplam"
+
+#   455 : loss = -4.6e+00
+   inp  : [s =  3.4e+01] дуфъияц
+   out  : [s =  3.0e+01] dufiyats
+   rev  : [s =  2.6e+01] дуфияты
+
+#   456 : loss = -4.6e+00
+   inp  : [s =  4.2e+01] ъжкхшль
+   out  : [s =  3.7e+01] bzhkhshl
+   rev  : [s =  3.2e+01] бжхшл
+
+#   457 : loss = -4.5e+00
+   inp  : [s =  4.3e+01] штхьацш
+   out  : [s =  3.9e+01] shtjatssh
+   rev  : [s =  2.7e+01] штяцш
+
+#   458 : loss = -4.5e+00
+   inp  : [s =  3.6e+01] шоибхэе
+   out  : [s =  3.2e+01] shoibhee
+   rev  : [s =  2.7e+01] шойбхи
+
+#   459 : loss = -4.5e+00
+   inp  : [s =  3.2e+01] ёинулъф
+   out  : [s =  2.8e+01] einulf
+   rev  : [s =  2.7e+01] эйнульф
+
+#   460 : loss = -4.5e+00
+   inp  : [s =  3.3e+01] люьолах
+   out  : [s =  2.9e+01] luyolah
+   rev  : [s =  2.2e+01] лойола
+   WRN  : rev != "loyola"
+
+#   461 : loss = -4.5e+00
+   inp  : [s =  3.3e+01] уытыеир
+   out  : [s =  2.9e+01] uytyeir
+   rev  : [s =  2.8e+01] уйтйир
+
+#   462 : loss = -4.5e+00
+   inp  : [s =  3.8e+01] чугвьхх
+   out  : [s =  3.3e+01] chugvxx
+   rev  : [s =  3.3e+01] chugvxx
+
+#   463 : loss = -4.5e+00
+   inp  : [s =  3.6e+01] чэхрбрд
+   out  : [s =  3.2e+01] chehrbrd
+   rev  : [s =  2.4e+01] шербрд
+
+#   464 : loss = -4.5e+00
+   inp  : [s =  3.5e+01] одяайёэ
+   out  : [s =  3.1e+01] odyaaye
+   rev  : [s =  2.8e+01] одяайе
+
+#   465 : loss = -4.4e+00
+   inp  : [s =  4.5e+01] ижйошшж
+   out  : [s =  4.1e+01] izhyoshshzh
+   rev  : [s =  3.8e+01] ижешшж
+
+#   466 : loss = -4.4e+00
+   inp  : [s =  4.4e+01] дшмыкэг
+   out  : [s =  4.0e+01] dshmykeg
+   rev  : [s =  2.6e+01] дешмух
+   WRN  : rev != "deshmukh"
+
+#   467 : loss = -4.4e+00
+   inp  : [s =  4.1e+01] лйесохш
+   out  : [s =  3.7e+01] lyesohsh
+   rev  : [s =  3.3e+01] льесохш
+
+#   468 : loss = -4.4e+00
+   inp  : [s =  3.4e+01] жзункьр
+   out  : [s =  2.9e+01] zhzunkr
+   rev  : [s =  2.4e+01] жзункр
+
+#   469 : loss = -4.3e+00
+   inp  : [s =  3.9e+01] хпхрмгб
+   out  : [s =  3.4e+01] hphrmgb
+   rev  : [s =  3.4e+01] hphrmgb
+
+#   470 : loss = -4.3e+00
+   inp  : [s =  3.7e+01] туиуфюф
+   out  : [s =  3.3e+01] tuiufuf
+   rev  : [s =  3.5e+01] туиуфуф
+
+#   471 : loss = -4.3e+00
+   inp  : [s =  4.1e+01] ёршкбуы
+   out  : [s =  3.6e+01] yershkbuy
+   rev  : [s =  3.3e+01] ершкбуй
+
+#   472 : loss = -4.3e+00
+   inp  : [s =  4.0e+01] цзуйзщз
+   out  : [s =  3.6e+01] zuizschz
+   rev  : [s =  3.6e+01] zuizschz
+
+#   473 : loss = -4.3e+00
+   inp  : [s =  3.0e+01] гёнкоит
+   out  : [s =  2.6e+01] gencoit
+   rev  : [s =  2.2e+01] генкоит
+
+#   474 : loss = -4.3e+00
+   inp  : [s =  4.0e+01] гяшрьмп
+   out  : [s =  3.6e+01] gyashrmp
+   rev  : [s =  4.2e+01] гьяшрмп
+
+#   475 : loss = -4.3e+00
+   inp  : [s =  3.6e+01] юпсоёъп
+   out  : [s =  3.2e+01] yupsoep
+   rev  : [s =  2.4e+01] да, соуп
+
+#   476 : loss = -4.2e+00
+   inp  : [s =  4.1e+01] шшапфбч
+   out  : [s =  3.7e+01] shshapfbh
+   rev  : [s =  4.1e+01] шшапфбх
+
+#   477 : loss = -4.2e+00
+   inp  : [s =  4.3e+01] чциткюь
+   out  : [s =  3.8e+01] chcitkyu
+   rev  : [s =  2.7e+01] ччиткю
+
+#   478 : loss = -4.2e+00
+   inp  : [s =  3.7e+01] шзцгулх
+   out  : [s =  3.3e+01] shzzgulh
+   rev  : [s =  3.4e+01] шззгулх
+
+#   479 : loss = -4.2e+00
+   inp  : [s =  4.0e+01] ётвёялф
+   out  : [s =  3.6e+01] etvealf
+   rev  : [s =  3.6e+01] этвеальф
+
+#   480 : loss = -4.1e+00
+   inp  : [s =  3.7e+01] чцшнъле
+   out  : [s =  3.2e+01] chtsshnle
+   rev  : [s =  3.7e+01] чтосшнле
+
+#   481 : loss = -4.1e+00
+   inp  : [s =  3.3e+01] езепеъп
+   out  : [s =  2.9e+01] ezepep
+   rev  : [s =  3.1e+01] эзепеп
+
+#   482 : loss = -4.1e+00
+   inp  : [s =  2.7e+01] либеймь
+   out  : [s =  2.3e+01] libeym
+   rev  : [s =  1.9e+01] либейм
+
+#   483 : loss = -4.0e+00
+   inp  : [s =  4.2e+01] ыйлрчьз
+   out  : [s =  3.8e+01] yylrchz
+   rev  : [s =  3.8e+01] yylrchz
+
+#   484 : loss = -4.0e+00
+   inp  : [s =  3.6e+01] чёдкрщн
+   out  : [s =  3.2e+01] chedkrschn
+   rev  : [s =  3.3e+01] чедкршн
+
+#   485 : loss = -4.0e+00
+   inp  : [s =  4.0e+01] орслкюу
+   out  : [s =  3.6e+01] orslkyu
+   rev  : [s =  3.4e+01] орслкью
+
+#   486 : loss = -4.0e+00
+   inp  : [s =  3.3e+01] аалбьъб
+   out  : [s =  2.9e+01] aalbb
+   rev  : [s =  2.9e+01] aalbb
+
+#   487 : loss = -4.0e+00
+   inp  : [s =  4.2e+01] иярвдчп
+   out  : [s =  3.8e+01] iyarvdchp
+   rev  : [s =  4.2e+01] иярвдчп
+
+#   488 : loss = -4.0e+00
+   inp  : [s =  4.1e+01] злышшмэ
+   out  : [s =  3.8e+01] zlyshshme
+   rev  : [s =  3.5e+01] злышшме
+
+#   489 : loss = -4.0e+00
+   inp  : [s =  3.7e+01] игйдефп
+   out  : [s =  3.3e+01] igydefp
+   rev  : [s =  3.3e+01] igydefp
+
+#   490 : loss = -3.9e+00
+   inp  : [s =  3.7e+01] бьншийя
+   out  : [s =  3.4e+01] bynshiya
+   rev  : [s =  2.2e+01] биншия
+
+#   491 : loss = -3.9e+00
+   inp  : [s =  4.1e+01] вщбжкъм
+   out  : [s =  3.7e+01] vshbzhkm
+   rev  : [s =  3.9e+01] вшбжкм
+
+#   492 : loss = -3.9e+00
+   inp  : [s =  3.8e+01] шсчёфги
+   out  : [s =  3.4e+01] shschefgi
+   rev  : [s =  2.8e+01] шшефги
+
+#   493 : loss = -3.8e+00
+   inp  : [s =  3.1e+01] ысцубну
+   out  : [s =  2.7e+01] ysubnu
+   rev  : [s =  2.9e+01] юсубну
+
+#   494 : loss = -3.8e+00
+   inp  : [s =  4.2e+01] мёнщкзц
+   out  : [s =  3.8e+01] menschkzts
+   rev  : [s =  3.8e+01] menschkzts
+
+#   495 : loss = -3.8e+00
+   inp  : [s =  4.8e+01] ъжйшщжг
+   out  : [s =  4.4e+01] bzhyshshzhg
+   rev  : [s =  5.0e+01] бжышшжг
+
+#   496 : loss = -3.8e+00
+   inp  : [s =  3.6e+01] уамкгвъ
+   out  : [s =  3.3e+01] uamkgv
+   rev  : [s =  3.3e+01] uamkgv
+
+#   497 : loss = -3.8e+00
+   inp  : [s =  4.9e+01] щнйяъдх
+   out  : [s =  4.5e+01] щ щъъддххххх
+   rev  : [s =  4.5e+01] щ щъъддххххх
+
+#   498 : loss = -3.7e+00
+   inp  : [s =  4.1e+01] яквёчзя
+   out  : [s =  3.8e+01] yakvechia
+   rev  : [s =  2.9e+01] яквечия
+
+#   499 : loss = -3.7e+00
+   inp  : [s =  3.9e+01] чаяйьлф
+   out  : [s =  3.6e+01] chayaylf
+   rev  : [s =  3.1e+01] чайайлф
+
+#   500 : loss = -3.7e+00
+   inp  : [s =  3.2e+01] нлчофин
+   out  : [s =  2.8e+01] nlchofin
+   rev  : [s =  3.2e+01] нлчофин
+
+#   501 : loss = -3.6e+00
+   inp  : [s =  4.6e+01] ъиюрдтм
+   out  : [s =  4.2e+01] yiyurdtm
+   rev  : [s =  4.2e+01] yiyurdtm
+
+#   502 : loss = -3.6e+00
+   inp  : [s =  3.3e+01] чтъэйнн
+   out  : [s =  2.9e+01] cht 'ainn
+   rev  : [s =  3.1e+01] чт'энн
+   WRN  : rev != "cht 'ann"
+
+#   503 : loss = -3.6e+00
+   inp  : [s =  3.5e+01] ьёипухс
+   out  : [s =  3.1e+01] beipuhs
+   rev  : [s =  3.2e+01] бейпухи
+
+#   504 : loss = -3.6e+00
+   inp  : [s =  3.5e+01] ёххмкхр
+   out  : [s =  3.2e+01] exhmkhr
+   rev  : [s =  3.7e+01] эксгумхр
+
+#   505 : loss = -3.6e+00
+   inp  : [s =  3.9e+01] сстжмем
+   out  : [s =  3.5e+01] cstjmem
+   rev  : [s =  3.5e+01] cstjmem
+
+#   506 : loss = -3.6e+00
+   inp  : [s =  4.2e+01] йруяялэ
+   out  : [s =  3.9e+01] yruyayale
+   rev  : [s =  3.2e+01] ируяяле
+
+#   507 : loss = -3.5e+00
+   inp  : [s =  4.0e+01] иряефоы
+   out  : [s =  3.6e+01] iryaefoy
+   rev  : [s =  3.8e+01] ирьяэфой
+
+#   508 : loss = -3.5e+00
+   inp  : [s =  3.5e+01] нъщъмып
+   out  : [s =  3.1e+01] nyshmyp
+   rev  : [s =  3.0e+01] нышмып
+
+#   509 : loss = -3.5e+00
+   inp  : [s =  4.4e+01] йкыцюгъ
+   out  : [s =  4.0e+01] ykycyug
+   rev  : [s =  4.0e+01] ykycyug
+
+#   510 : loss = -3.5e+00
+   inp  : [s =  3.5e+01] айлпьшш
+   out  : [s =  3.2e+01] ailpshsh
+   rev  : [s =  2.9e+01] айлпшш
+
+#   511 : loss = -3.5e+00
+   inp  : [s =  3.3e+01] тзепкот
+   out  : [s =  3.0e+01] tzepkot
+   rev  : [s =  2.2e+01] цепкот
+
+#   512 : loss = -3.5e+00
+   inp  : [s =  3.1e+01] оеейзиы
+   out  : [s =  2.8e+01] oeeyzy
+   rev  : [s =  2.3e+01] оеейзи
+
+#   513 : loss = -3.5e+00
+   inp  : [s =  3.8e+01] здплкеи
+   out  : [s =  3.4e+01] zdplkei
+   rev  : [s =  3.4e+01] здплкей
+
+#   514 : loss = -3.5e+00
+   inp  : [s =  4.7e+01] сюсшнбв
+   out  : [s =  4.3e+01] susshnbv
+   rev  : [s =  3.1e+01] сушнбв
+
+#   515 : loss = -3.4e+00
+   inp  : [s =  3.5e+01] сумзъхб
+   out  : [s =  3.1e+01] sumzkhb
+   rev  : [s =  3.3e+01] сумзхб
+
+#   516 : loss = -3.4e+00
+   inp  : [s =  4.1e+01] йугбвлг
+   out  : [s =  3.7e+01] yugbvlg
+   rev  : [s =  3.5e+01] югбвлг
+
+#   517 : loss = -3.4e+00
+   inp  : [s =  3.2e+01] йнгмалм
+   out  : [s =  2.8e+01] yngmalm
+   rev  : [s =  2.7e+01] ингмальм
+
+#   518 : loss = -3.4e+00
+   inp  : [s =  4.2e+01] ачвуижр
+   out  : [s =  3.9e+01] achvuizhr
+   rev  : [s =  2.2e+01] архвиз
+   WRN  : rev != "archviz"
+
+#   519 : loss = -3.4e+00
+   inp  : [s =  4.5e+01] хюзвтпж
+   out  : [s =  4.2e+01] huzvtpj
+   rev  : [s =  4.2e+01] huzvtpj
+
+#   520 : loss = -3.4e+00
+   inp  : [s =  3.6e+01] шахбщюц
+   out  : [s =  3.3e+01] shahbschutz
+   rev  : [s =  3.8e+01] шахбшутц
+
+#   521 : loss = -3.3e+00
+   inp  : [s =  3.1e+01] ьойлтит
+   out  : [s =  2.8e+01] joyltit
+   rev  : [s =  3.0e+01] джойлтит
+
+#   522 : loss = -3.3e+00
+   inp  : [s =  3.7e+01] шйдяваь
+   out  : [s =  3.4e+01] shydyava
+   rev  : [s =  2.7e+01] шыдява
+
+#   523 : loss = -3.3e+00
+   inp  : [s =  3.8e+01] ьгрцусо
+   out  : [s =  3.5e+01] bgrcuso
+   rev  : [s =  3.5e+01] бгркузо
+
+#   524 : loss = -3.3e+00
+   inp  : [s =  3.9e+01] пьсчзнэ
+   out  : [s =  3.6e+01] pieschzne
+   rev  : [s =  1.8e+01] пешне
+
+#   525 : loss = -3.3e+00
+   inp  : [s =  4.1e+01] этьецжб
+   out  : [s =  3.7e+01] etetszhb
+   rev  : [s =  3.5e+01] этецжб
+
+#   526 : loss = -3.2e+00
+   inp  : [s =  4.7e+01] ажпхёщз
+   out  : [s =  4.3e+01] azhpheshz
+   rev  : [s =  4.1e+01] азхфешз
+
+#   527 : loss = -3.2e+00
+   inp  : [s =  2.8e+01] мёхферн
+   out  : [s =  2.5e+01] mehfern
+   rev  : [s =  2.1e+01] мехферн
+
+#   528 : loss = -3.2e+00
+   inp  : [s =  4.1e+01] экуылхщ
+   out  : [s =  3.7e+01] ekuylhsch
+   rev  : [s =  2.0e+01] кулхи
+   WRN  : rev != "kulhs"
+
+#   529 : loss = -3.2e+00
+   inp  : [s =  3.8e+01] гянёебм
+   out  : [s =  3.5e+01] ganeebm
+   rev  : [s =  2.5e+01] ганебм
+
+#   530 : loss = -3.2e+00
+   inp  : [s =  4.1e+01] оцбюсуч
+   out  : [s =  3.8e+01] otsbyusuch
+   rev  : [s =  6.1e+01] отсбьюсуч
+
+#   531 : loss = -3.1e+00
+   inp  : [s =  4.1e+01] бвкёевш
+   out  : [s =  3.8e+01] bvkeevsh
+   rev  : [s =  8.9e+00] бук
+   WRN  : rev != "beech"
+
+#   532 : loss = -3.1e+00
+   inp  : [s =  3.9e+01] фмрючйм
+   out  : [s =  3.6e+01] fmryuchym
+   rev  : [s =  3.2e+01] фмрючим
+
+#   533 : loss = -3.1e+00
+   inp  : [s =  3.8e+01] иэбрсви
+   out  : [s =  3.5e+01] iebrsvi
+   rev  : [s =  3.4e+01] иебрсви
+
+#   534 : loss = -3.1e+00
+   inp  : [s =  3.6e+01] нугэвдь
+   out  : [s =  3.3e+01] nugevd
+   rev  : [s =  2.6e+01] нугевд
+
+#   535 : loss = -3.1e+00
+   inp  : [s =  4.3e+01] ёбтыщшн
+   out  : [s =  4.0e+01] ebtyshtion
+   rev  : [s =  3.6e+01] ебтышция
+
+#   536 : loss = -3.0e+00
+   inp  : [s =  3.3e+01] айбърйё
+   out  : [s =  3.0e+01] aibrye
+   rev  : [s =  9.2e+00] обри
+   WRN  : rev != "aubrey"
+
+#   537 : loss = -3.0e+00
+   inp  : [s =  3.5e+01] чфхимыо
+   out  : [s =  3.2e+01] cfhimyo
+   rev  : [s =  2.2e+01] чимайо
+   WRN  : rev != "chimayo"
+
+#   538 : loss = -3.0e+00
+   inp  : [s =  3.7e+01] иселшыр
+   out  : [s =  3.4e+01] iselshyr
+   rev  : [s =  2.8e+01] исельшир
+
+#   539 : loss = -3.0e+00
+   inp  : [s =  4.4e+01] впптфжр
+   out  : [s =  4.1e+01] vpptfzhr
+   rev  : [s =  1.4e+01] pp the
+   WRN  : rev != "ppthe"
+
+#   540 : loss = -2.9e+00
+   inp  : [s =  4.0e+01] эцучхпд
+   out  : [s =  3.7e+01] etsuchpd
+   rev  : [s =  3.7e+01] etsuchpd
+
+#   541 : loss = -2.9e+00
+   inp  : [s =  3.5e+01] йхклукх
+   out  : [s =  3.2e+01] yhklukh
+   rev  : [s =  3.5e+01] йхклукх
+
+#   542 : loss = -2.9e+00
+   inp  : [s =  4.2e+01] ээюллвп
+   out  : [s =  3.9e+01] eeyullvp
+   rev  : [s =  3.9e+01] eeyullvp
+
+#   543 : loss = -2.9e+00
+   inp  : [s =  3.6e+01] ыэррбют
+   out  : [s =  3.3e+01] yerrbut
+   rev  : [s =  1.5e+01] да, но
+
+#   544 : loss = -2.8e+00
+   inp  : [s =  3.6e+01] рцыкъчь
+   out  : [s =  3.4e+01] rtsykch
+   rev  : [s =  2.4e+01] рцыкч
+
+#   545 : loss = -2.8e+00
+   inp  : [s =  4.3e+01] гщхггхб
+   out  : [s =  4.0e+01] gschhgghb
+   rev  : [s =  3.8e+01] боже мой, боже мой
+   WRN  : rev != "goshhhhhh"
+
+#   546 : loss = -2.8e+00
+   inp  : [s =  4.0e+01] жчгьшфх
+   out  : [s =  3.7e+01] zhchgshfh
+   rev  : [s =  3.6e+01] жчгшфх
+
+#   547 : loss = -2.8e+00
+   inp  : [s =  4.0e+01] ъвфшьди
+   out  : [s =  3.7e+01] bwfshdi
+   rev  : [s =  3.7e+01] bwfshdi
+
+#   548 : loss = -2.8e+00
+   inp  : [s =  4.0e+01] шгтхпях
+   out  : [s =  3.7e+01] shgthpyah
+   rev  : [s =  4.0e+01] шгтхпях
+
+#   549 : loss = -2.7e+00
+   inp  : [s =  4.3e+01] жчшыщцк
+   out  : [s =  4.0e+01] zhchshyshtsk
+   rev  : [s =  4.2e+01] жчшыштск
+
+#   550 : loss = -2.7e+00
+   inp  : [s =  3.7e+01] ьёэшмгр
+   out  : [s =  3.4e+01] beeshmgr
+   rev  : [s =  3.4e+01] beeshmgr
+
+#   551 : loss = -2.7e+00
+   inp  : [s =  4.1e+01] шьдбчнх
+   out  : [s =  3.8e+01] shdbchnh
+   rev  : [s =  3.5e+01] шдбчнх
+
+#   552 : loss = -2.7e+00
+   inp  : [s =  4.7e+01] бчзыобя
+   out  : [s =  4.5e+01] bchzyobya
+   rev  : [s =  2.1e+01] чизоба
+   WRN  : rev != "chizoba"
+
+#   553 : loss = -2.7e+00
+   inp  : [s =  3.4e+01] ркрьзат
+   out  : [s =  3.1e+01] rkrzat
+   rev  : [s =  3.0e+01] ркрзать
+
+#   554 : loss = -2.7e+00
+   inp  : [s =  3.5e+01] бхиулип
+   out  : [s =  3.2e+01] bhiulip
+   rev  : [s =  3.5e+01] бхиулип
+
+#   555 : loss = -2.6e+00
+   inp  : [s =  3.1e+01] ыжучшок
+   out  : [s =  2.9e+01] ыж Best
+   rev  : [s =  2.8e+01] yj Best
+
+#   556 : loss = -2.6e+00
+   inp  : [s =  3.9e+01] ыбфанлэ
+   out  : [s =  3.6e+01] ybfanle
+   rev  : [s =  3.0e+01] ибфанле
+
+#   557 : loss = -2.6e+00
+   inp  : [s =  3.5e+01] йййджзч
+   out  : [s =  3.3e+01] yjjzch
+   rev  : [s =  3.3e+01] yjjzch
+
+#   558 : loss = -2.5e+00
+   inp  : [s =  4.2e+01] шыиуэом
+   out  : [s =  3.9e+01] shyiuom
+   rev  : [s =  3.1e+01] застенчивый
+
+#   559 : loss = -2.5e+00
+   inp  : [s =  4.1e+01] ныгцнсщ
+   out  : [s =  3.8e+01] nygtsnssh
+   rev  : [s =  4.5e+01] нигцнссш
+
+#   560 : loss = -2.5e+00
+   inp  : [s =  4.3e+01] мжббхэп
+   out  : [s =  4.1e+01] mzhbbhep
+   rev  : [s =  3.5e+01] мжипхоп
+   WRN  : rev != "mzhiphop"
+
+#   561 : loss = -2.4e+00
+   inp  : [s =  3.1e+01] дфаджфу
+   out  : [s =  2.8e+01] dfajfu
+   rev  : [s =  2.8e+01] dfajfu
+
+#   562 : loss = -2.4e+00
+   inp  : [s =  3.6e+01] цдпажтр
+   out  : [s =  3.4e+01] cdpazhtr
+   rev  : [s =  3.4e+01] cdpazhtr
+
+#   563 : loss = -2.4e+00
+   inp  : [s =  4.6e+01] гзйкщчж
+   out  : [s =  4.3e+01] gzykschzh
+   rev  : [s =  3.8e+01] гзыкщж
+
+#   564 : loss = -2.4e+00
+   inp  : [s =  4.5e+01] зяцнроэ
+   out  : [s =  4.2e+01] zatsnroe
+   rev  : [s =  3.3e+01] зацнрое
+
+#   565 : loss = -2.4e+00
+   inp  : [s =  3.2e+01] цеёлукь
+   out  : [s =  3.0e+01] tseeluk
+   rev  : [s =  2.5e+01] цеелук
+
+#   566 : loss = -2.4e+00
+   inp  : [s =  3.8e+01] нсашочф
+   out  : [s =  3.6e+01] nsashochf
+   rev  : [s =  3.6e+01] nsashochf
+
+#   567 : loss = -2.3e+00
+   inp  : [s =  4.1e+01] зъхвюёо
+   out  : [s =  3.9e+01] zkhvyeo
+   rev  : [s =  3.1e+01] зхвье
+
+#   568 : loss = -2.3e+00
+   inp  : [s =  3.4e+01] егьхриш
+   out  : [s =  3.2e+01] eghrish
+   rev  : [s =  2.3e+01] эгриш
+
+#   569 : loss = -2.3e+00
+   inp  : [s =  3.7e+01] нымщэво
+   out  : [s =  3.5e+01] nymschevo
+   rev  : [s =  2.7e+01] нимщево
+
+#   570 : loss = -2.3e+00
+   inp  : [s =  4.1e+01] длппцщз
+   out  : [s =  3.9e+01] dlpptschz
+   rev  : [s =  3.9e+01] dlpptschz
+
+#   571 : loss = -2.2e+00
+   inp  : [s =  4.4e+01] шыиррьщ
+   out  : [s =  4.1e+01] shyirrsch
+   rev  : [s =  3.1e+01] шииррш
+
+#   572 : loss = -2.2e+00
+   inp  : [s =  3.8e+01] йфоёноф
+   out  : [s =  3.6e+01] yfoenof
+   rev  : [s =  2.2e+01] ифеноф
+
+#   573 : loss = -2.2e+00
+   inp  : [s =  3.3e+01] лоъбевн
+   out  : [s =  3.0e+01] loebevn
+   rev  : [s =  1.9e+01] лебевн
+
+#   574 : loss = -2.2e+00
+   inp  : [s =  4.1e+01] озуеюфх
+   out  : [s =  3.9e+01] ozueyufh
+   rev  : [s =  3.4e+01] озуэюфх
+
+#   575 : loss = -2.2e+00
+   inp  : [s =  4.6e+01] ржфпугё
+   out  : [s =  4.4e+01] rzhfpuge
+   rev  : [s =  4.2e+01] ржфпуге
+
+#   576 : loss = -2.2e+00
+   inp  : [s =  3.7e+01] йцъхлчк
+   out  : [s =  3.5e+01] yckhlchk
+   rev  : [s =  3.2e+01] членоблок
+   WRN  : rev != "dickblick"
+
+#   577 : loss = -2.2e+00
+   inp  : [s =  4.4e+01] гцкжуцд
+   out  : [s =  4.2e+01] gskzhutsd
+   rev  : [s =  4.3e+01] гскжуцд
+
+#   578 : loss = -2.2e+00
+   inp  : [s =  4.5e+01] ядвцщсч
+   out  : [s =  4.2e+01] yadvtschsch
+   rev  : [s =  4.4e+01] ядвтщщ
+
+#   579 : loss = -2.2e+00
+   inp  : [s =  3.7e+01] уфьдлщи
+   out  : [s =  3.5e+01] ufdlschi
+   rev  : [s =  3.3e+01] уфдльщи
+
+#   580 : loss = -2.1e+00
+   inp  : [s =  3.5e+01] тутйкмъ
+   out  : [s =  3.3e+01] tutykm
+   rev  : [s =  2.9e+01] тутыкм
+
+#   581 : loss = -2.1e+00
+   inp  : [s =  4.2e+01] щвксеюх
+   out  : [s =  4.0e+01] shvkseyukh
+   rev  : [s =  4.2e+01] швксеюх
+
+#   582 : loss = -2.1e+00
+   inp  : [s =  3.6e+01] хяеахбе
+   out  : [s =  3.4e+01] hyaeahbe
+   rev  : [s =  3.4e+01] hyaeahbe
+
+#   583 : loss = -2.1e+00
+   inp  : [s =  3.6e+01] дрмимэи
+   out  : [s =  3.4e+01] drmimei
+   rev  : [s =  3.4e+01] drmimei
+
+#   584 : loss = -2.1e+00
+   inp  : [s =  3.3e+01] ёренщял
+   out  : [s =  3.1e+01] erenschyal
+   rev  : [s =  3.4e+01] эреншьял
+
+#   585 : loss = -2.1e+00
+   inp  : [s =  3.1e+01] ачмудьн
+   out  : [s =  2.9e+01] achmudn
+   rev  : [s =  2.4e+01] ахмудн
+
+#   586 : loss = -2.1e+00
+   inp  : [s =  4.2e+01] ёеючхгж
+   out  : [s =  4.0e+01] eeyuchhgj
+   rev  : [s =  4.0e+01] eeyuchhgj
+
+#   587 : loss = -2.1e+00
+   inp  : [s =  4.4e+01] фнжйрвг
+   out  : [s =  4.2e+01] fnzhyrvg
+   rev  : [s =  4.6e+01] фнжырвг
+
+#   588 : loss = -2.1e+00
+   inp  : [s =  3.7e+01] хцъдэчт
+   out  : [s =  3.5e+01] hcdecht
+   rev  : [s =  3.5e+01] hcdecht
+
+#   589 : loss = -2.0e+00
+   inp  : [s =  3.5e+01] млмлфвр
+   out  : [s =  3.3e+01] mlmlfvr
+   rev  : [s =  3.3e+01] mlmlfvr
+
+#   590 : loss = -2.0e+00
+   inp  : [s =  3.3e+01] хёшихье
+   out  : [s =  3.1e+01] heshihye
+   rev  : [s =  2.5e+01] хешихье
+
+#   591 : loss = -2.0e+00
+   inp  : [s =  3.5e+01] жгумхэи
+   out  : [s =  3.3e+01] zhgumhei
+   rev  : [s =  2.0e+01] жухай
+   WRN  : rev != "zhuhai"
+
+#   592 : loss = -2.0e+00
+   inp  : [s =  3.9e+01] ьщнкёть
+   out  : [s =  3.7e+01] bschnket
+   rev  : [s =  3.4e+01] бшнкет
+
+#   593 : loss = -2.0e+00
+   inp  : [s =  3.1e+01] фейафус
+   out  : [s =  2.9e+01] feiafus
+   rev  : [s =  3.1e+01] фейафус
+
+#   594 : loss = -2.0e+00
+   inp  : [s =  3.5e+01] мрцреиц
+   out  : [s =  3.3e+01] mrcreits
+   rev  : [s =  3.4e+01] мистер Крейтс
+
+#   595 : loss = -1.9e+00
+   inp  : [s =  4.2e+01] цщьгмги
+   out  : [s =  4.0e+01] tschgmgi
+   rev  : [s =  1.4e+01] чуми
+   WRN  : rev != "tschumi"
+
+#   596 : loss = -1.9e+00
+   inp  : [s =  4.3e+01] жвуияшъ
+   out  : [s =  4.1e+01] zhvuiyash
+   rev  : [s =  3.4e+01] жвуйяш
+
+#   597 : loss = -1.9e+00
+   inp  : [s =  3.9e+01] мчзрлъи
+   out  : [s =  3.7e+01] mchzrlyi
+   rev  : [s =  4.1e+01] мчзрлийи
+
+#   598 : loss = -1.9e+00
+   inp  : [s =  3.2e+01] бэлнчин
+   out  : [s =  3.0e+01] balnchin
+   rev  : [s =  2.2e+01] баланчин
+   WRN  : rev != "balanchine"
+
+#   599 : loss = -1.8e+00
+   inp  : [s =  3.2e+01] юадзъро
+   out  : [s =  3.1e+01] yuadzro
+   rev  : [s =  2.8e+01] юадзро
+
+#   600 : loss = -1.8e+00
+   inp  : [s =  4.2e+01] ппёйпгя
+   out  : [s =  4.0e+01] ppeypgya
+   rev  : [s =  4.0e+01] пейпгья
+
+#   601 : loss = -1.8e+00
+   inp  : [s =  4.3e+01] йхдшнлв
+   out  : [s =  4.1e+01] yhdshnlv
+   rev  : [s =  4.1e+01] yhdshnlv
+
+#   602 : loss = -1.7e+00
+   inp  : [s =  3.6e+01] ёужпшию
+   out  : [s =  3.4e+01] eujpshiu
+   rev  : [s =  3.4e+01] эйпшиу
+
+#   603 : loss = -1.7e+00
+   inp  : [s =  4.0e+01] хгьзвлч
+   out  : [s =  3.8e+01] hgzvlch
+   rev  : [s =  3.8e+01] hgzvlch
+
+#   604 : loss = -1.7e+00
+   inp  : [s =  4.2e+01] ьибзфяю
+   out  : [s =  4.0e+01] bibzfayu
+   rev  : [s =  3.2e+01] бибзфаю
+
+#   605 : loss = -1.6e+00
+   inp  : [s =  3.6e+01] мхъттяр
+   out  : [s =  3.4e+01] mkhttyar
+   rev  : [s =  1.8e+01] мухтар
+   WRN  : rev != "mukhtar"
+
+#   606 : loss = -1.6e+00
+   inp  : [s =  3.5e+01] чпчощчк
+   out  : [s =  3.3e+01] chchoshchk
+   rev  : [s =  2.6e+01] ччощк
+
+#   607 : loss = -1.6e+00
+   inp  : [s =  3.6e+01] фёфгейх
+   out  : [s =  3.4e+01] fefgeich
+   rev  : [s =  3.2e+01] фефгейх
+
+#   608 : loss = -1.5e+00
+   inp  : [s =  4.3e+01] мцыяавх
+   out  : [s =  4.1e+01] mcyyaavh
+   rev  : [s =  4.5e+01] макйяавх
+
+#   609 : loss = -1.5e+00
+   inp  : [s =  3.9e+01] рвгяяуп
+   out  : [s =  3.8e+01] rvgyaup
+   rev  : [s =  3.2e+01] рвгяуп
+
+#   610 : loss = -1.5e+00
+   inp  : [s =  4.0e+01] анбрпнз
+   out  : [s =  3.8e+01] anbrpnz
+   rev  : [s =  3.8e+01] anbrpnz
+
+#   611 : loss = -1.5e+00
+   inp  : [s =  3.1e+01] бъянуюы
+   out  : [s =  3.0e+01] byanyuy
+   rev  : [s =  3.1e+01] бьякуя
+   WRN  : rev != "byakuya"
+
+#   612 : loss = -1.4e+00
+   inp  : [s =  4.6e+01] ятйвбдц
+   out  : [s =  4.4e+01] yativbdc
+   rev  : [s =  4.4e+01] yativbdc
+
+#   613 : loss = -1.4e+00
+   inp  : [s =  3.8e+01] щппдчнъ
+   out  : [s =  3.7e+01] schppdchn
+   rev  : [s =  3.2e+01] шнппчен
+   WRN  : rev != "schnppchen"
+
+#   614 : loss = -1.4e+00
+   inp  : [s =  3.5e+01] лсруыли
+   out  : [s =  3.4e+01] lsruyli
+   rev  : [s =  2.8e+01] лсруили
+
+#   615 : loss = -1.4e+00
+   inp  : [s =  3.7e+01] бутэфшх
+   out  : [s =  3.5e+01] bootefshh
+   rev  : [s =  3.6e+01] бутефшшш
+
+#   616 : loss = -1.4e+00
+   inp  : [s =  3.6e+01] ёрвшиъз
+   out  : [s =  3.5e+01] yervshiz
+   rev  : [s =  2.0e+01] ервшиз
+
+#   617 : loss = -1.4e+00
+   inp  : [s =  3.5e+01] лръайцм
+   out  : [s =  3.3e+01] lreicm
+   rev  : [s =  3.3e+01] lreicm
+
+#   618 : loss = -1.4e+00
+   inp  : [s =  3.5e+01] кьзжкау
+   out  : [s =  3.3e+01] kzzhkau
+   rev  : [s =  3.0e+01] кзжкау
+
+#   619 : loss = -1.4e+00
+   inp  : [s =  3.9e+01] сшдохлн
+   out  : [s =  3.8e+01] sshdohln
+   rev  : [s =  2.8e+01] сшдольн
+
+#   620 : loss = -1.4e+00
+   inp  : [s =  4.6e+01] йечтйщз
+   out  : [s =  4.5e+01] yechtyschz
+   rev  : [s =  4.1e+01] йехтышз
+
+#   621 : loss = -1.3e+00
+   inp  : [s =  3.3e+01] нчвиниъ
+   out  : [s =  3.2e+01] nchvini
+   rev  : [s =  2.4e+01] нчвини
+
+#   622 : loss = -1.3e+00
+   inp  : [s =  4.2e+01] пёужпше
+   out  : [s =  4.0e+01] peuzhpshe
+   rev  : [s =  3.7e+01] пьюжпше
+
+#   623 : loss = -1.3e+00
+   inp  : [s =  4.4e+01] жшхёйюю
+   out  : [s =  4.3e+01] zhshheyyu
+   rev  : [s =  3.1e+01] жшхею
+
+#   624 : loss = -1.2e+00
+   inp  : [s =  3.9e+01] хшмалйц
+   out  : [s =  3.8e+01] hsmalyts
+   rev  : [s =  5.6e+01] hsmalyts'ы
+
+#   625 : loss = -1.2e+00
+   inp  : [s =  4.2e+01] ццпуащм
+   out  : [s =  4.0e+01] tspuashchm
+   rev  : [s =  3.7e+01] цпуащм
+
+#   626 : loss = -1.1e+00
+   inp  : [s =  3.4e+01] лбшагме
+   out  : [s =  3.3e+01] lbshagme
+   rev  : [s =  3.3e+01] lbshagme
+
+#   627 : loss = -1.1e+00
+   inp  : [s =  3.5e+01] ётфхгич
+   out  : [s =  3.3e+01] etfhgich
+   rev  : [s =  3.3e+01] etfhgich
+
+#   628 : loss = -1.1e+00
+   inp  : [s =  4.0e+01] ёзббншю
+   out  : [s =  3.9e+01] ezbbnshu
+   rev  : [s =  4.1e+01] эзббншу
+
+#   629 : loss = -1.1e+00
+   inp  : [s =  3.6e+01] лцфппым
+   out  : [s =  3.5e+01] lcfppym
+   rev  : [s =  3.5e+01] lcfppym
+
+#   630 : loss = -1.1e+00
+   inp  : [s =  3.9e+01] опкчцох
+   out  : [s =  3.8e+01] opkchtsoh
+   rev  : [s =  3.9e+01] опкчцох
+
+#   631 : loss = -1.1e+00
+   inp  : [s =  3.4e+01] зылиуюн
+   out  : [s =  3.3e+01] zyliuyun
+   rev  : [s =  2.8e+01] зилююн
+
+#   632 : loss = -1.0e+00
+   inp  : [s =  4.3e+01] тжюкщби
+   out  : [s =  4.2e+01] tjukschbi
+   rev  : [s =  2.1e+01] тоухи
+   WRN  : rev != "toukhi"
+
+#   633 : loss = -1.0e+00
+   inp  : [s =  4.6e+01] йэтвщгщ
+   out  : [s =  4.4e+01] yetvschgsch
+   rev  : [s =  4.9e+01] йетвщгсч
+
+#   634 : loss = -9.9e-01
+   inp  : [s =  4.4e+01] фжхщзвы
+   out  : [s =  4.3e+01] fzhhshzvy
+   rev  : [s =  4.4e+01] фжхшзвы
+
+#   635 : loss = -9.6e-01
+   inp  : [s =  3.9e+01] ёёпклкн
+   out  : [s =  3.8e+01] eepclkn
+   rev  : [s =  3.8e+01] eepclkn
+
+#   636 : loss = -9.3e-01
+   inp  : [s =  3.3e+01] кнузявь
+   out  : [s =  3.2e+01] knuzyav
+   rev  : [s =  2.7e+01] кнузяв
+
+#   637 : loss = -9.2e-01
+   inp  : [s =  3.7e+01] зсфсзив
+   out  : [s =  3.6e+01] zsfsziv
+   rev  : [s =  1.7e+01] zfs
+   WRN  : rev != "zfs"
+
+#   638 : loss = -9.1e-01
+   inp  : [s =  3.7e+01] ахесвюн
+   out  : [s =  3.6e+01] aheswyun
+   rev  : [s =  4.1e+01] ахесвиун
+
+#   639 : loss = -9.1e-01
+   inp  : [s =  3.8e+01] нхслыэу
+   out  : [s =  3.7e+01] nhslyeu
+   rev  : [s =  3.7e+01] nhslyeu
+
+#   640 : loss = -8.8e-01
+   inp  : [s =  3.8e+01] ижёюсаэ
+   out  : [s =  3.7e+01] izheyusae
+   rev  : [s =  3.5e+01] ижеюсае
+
+#   641 : loss = -8.8e-01
+   inp  : [s =  4.6e+01] яъяжврч
+   out  : [s =  4.5e+01] yayazhvrch
+   rev  : [s =  3.8e+01] яяжврч
+
+#   642 : loss = -7.2e-01
+   inp  : [s =  3.0e+01] чанкхке
+   out  : [s =  2.9e+01] chankhke
+   rev  : [s =  2.4e+01] чанхке
+
+#   643 : loss = -7.1e-01
+   inp  : [s =  3.9e+01] уэзсявц
+   out  : [s =  3.9e+01] uezsyavts
+   rev  : [s =  2.7e+01] нераскрытый
+   WRN  : rev != "unexcavated"
+
+#   644 : loss = -7.0e-01
+   inp  : [s =  3.7e+01] ръпмъщц
+   out  : [s =  3.6e+01] rpmschts
+   rev  : [s =  2.9e+01] обороты в минуту
+
+#   645 : loss = -6.9e-01
+   inp  : [s =  3.8e+01] фюшеибя
+   out  : [s =  3.7e+01] fusheibya
+   rev  : [s =  3.0e+01] фушейбя
+
+#   646 : loss = -6.6e-01
+   inp  : [s =  3.8e+01] езащюмр
+   out  : [s =  3.7e+01] ezekyumr
+   rev  : [s =  4.1e+01] эзекьюмр
+
+#   647 : loss = -6.5e-01
+   inp  : [s =  3.9e+01] нншмлюа
+   out  : [s =  3.8e+01] nnshmlua
+   rev  : [s =  4.1e+01] нншмлуа
+
+#   648 : loss = -6.5e-01
+   inp  : [s =  3.5e+01] здкъосп
+   out  : [s =  3.4e+01] zdkjosp
+   rev  : [s =  4.1e+01] здкьосп
+
+#   649 : loss = -6.4e-01
+   inp  : [s =  3.8e+01] ннёаэвх
+   out  : [s =  3.7e+01] nneaevh
+   rev  : [s =  2.3e+01] ниневия
+   WRN  : rev != "nineveh"
+
+#   650 : loss = -5.7e-01
+   inp  : [s =  3.5e+01] ятоцьоу
+   out  : [s =  3.5e+01] yatotsou
+   rev  : [s =  2.1e+01] ятоцу
+
+#   651 : loss = -5.5e-01
+   inp  : [s =  3.5e+01] нуэжвък
+   out  : [s =  3.4e+01] nuezhvk
+   rev  : [s =  2.3e+01] нужвк
+
+#   652 : loss = -5.5e-01
+   inp  : [s =  2.6e+01] гнатефо
+   out  : [s =  2.5e+01] gnatefo
+   rev  : [s =  2.4e+01] гнатафо
+   WRN  : rev != "gnatafo"
+
+#   653 : loss = -5.3e-01
+   inp  : [s =  2.7e+01] рходемё
+   out  : [s =  2.6e+01] rhodeme
+   rev  : [s =  1.4e+01] родем
+
+#   654 : loss = -5.3e-01
+   inp  : [s =  4.4e+01] жиуфычп
+   out  : [s =  4.4e+01] zhiufychp
+   rev  : [s =  4.3e+01] чжу фушоу
+   WRN  : rev != "zhu fushou"
+
+#   655 : loss = -5.3e-01
+   inp  : [s =  3.3e+01] шывареё
+   out  : [s =  3.2e+01] shyvaree
+   rev  : [s =  1.6e+01] шивари
+   WRN  : rev != "shivaree"
+
+#   656 : loss = -5.3e-01
+   inp  : [s =  3.8e+01] чыъдешд
+   out  : [s =  3.8e+01] chydeshd
+   rev  : [s =  2.7e+01] чидешд
+
+#   657 : loss = -5.0e-01
+   inp  : [s =  3.6e+01] пщмёжны
+   out  : [s =  3.6e+01] pschmezhny
+   rev  : [s =  3.1e+01] пшмежный
+
+#   658 : loss = -4.0e-01
+   inp  : [s =  4.6e+01] зёцлйщф
+   out  : [s =  4.5e+01] zetslyschf
+   rev  : [s =  2.0e+01] дух времени
+   WRN  : rev != "zeitschrift"
+
+#   659 : loss = -3.8e-01
+   inp  : [s =  3.5e+01] шьвгвшк
+   out  : [s =  3.5e+01] shvgvshk
+   rev  : [s =  2.8e+01] швгвшк
+
+#   660 : loss = -3.8e-01
+   inp  : [s =  3.9e+01] ущозкьф
+   out  : [s =  3.8e+01] poshozkf
+   rev  : [s =  3.0e+01] почтовкф
+
+#   661 : loss = -3.8e-01
+   inp  : [s =  3.4e+01] охрумвз
+   out  : [s =  3.4e+01] ohrumvz
+   rev  : [s =  3.4e+01] охрумвз
+
+#   662 : loss = -3.8e-01
+   inp  : [s =  4.0e+01] тицбюяр
+   out  : [s =  3.9e+01] titsbuyar
+   rev  : [s =  4.0e+01] титсбуяр
+
+#   663 : loss = -3.3e-01
+   inp  : [s =  4.2e+01] ъаёцавб
+   out  : [s =  4.2e+01] kommersantsavb
+   rev  : [s =  5.8e+01] коммерсантъавб
+
+#   664 : loss = -3.1e-01
+   inp  : [s =  4.3e+01] дмвпцщю
+   out  : [s =  4.3e+01] dmvptschyu
+   rev  : [s =  4.7e+01] дмвптщю
+
+#   665 : loss = -2.7e-01
+   inp  : [s =  3.8e+01] ипйзычщ
+   out  : [s =  3.8e+01] ipyzychsch
+   rev  : [s =  3.9e+01] ипызычщ
+
+#   666 : loss = -2.7e-01
+   inp  : [s =  3.3e+01] ртгочнт
+   out  : [s =  3.2e+01] rtgochnt
+   rev  : [s =  3.3e+01] ртгочнт
+
+#   667 : loss = -2.4e-01
+   inp  : [s =  3.6e+01] бщюъъкт
+   out  : [s =  3.6e+01] bschyukt
+   rev  : [s =  3.0e+01] бщюкт
+
+#   668 : loss = -2.3e-01
+   inp  : [s =  3.4e+01] ргъэтиж
+   out  : [s =  3.4e+01] rgetizh
+   rev  : [s =  2.3e+01] ргетиж
+
+#   669 : loss = -2.2e-01
+   inp  : [s =  4.1e+01] зюлфмят
+   out  : [s =  4.1e+01] zylfmyat
+   rev  : [s =  3.8e+01] зилфмять
+
+#   670 : loss = -1.8e-01
+   inp  : [s =  3.6e+01] ниэящкю
+   out  : [s =  3.6e+01] nieyashkyu
+   rev  : [s =  2.5e+01] нияшкю
+
+#   671 : loss = -1.7e-01
+   inp  : [s =  3.2e+01] цешъъйб
+   out  : [s =  3.2e+01] tseshyb
+   rev  : [s =  1.7e+01] цешиб
+
+#   672 : loss = -1.6e-01
+   inp  : [s =  3.9e+01] жаэкъсш
+   out  : [s =  3.9e+01] zhaekssh
+   rev  : [s =  2.1e+01] жексш
+
+#   673 : loss = -1.6e-01
+   inp  : [s =  3.0e+01] зёнгойн
+   out  : [s =  3.0e+01] zengoine
+   rev  : [s =  1.8e+01] двигатель
+   WRN  : rev != "engine"
+
+#   674 : loss = -1.5e-01
+   inp  : [s =  3.3e+01] юзаэибт
+   out  : [s =  3.3e+01] usaeibt
+   rev  : [s =  3.3e+01] usaeibt
+
+#   675 : loss = -1.1e-01
+   inp  : [s =  3.6e+01] мвеоелч
+   out  : [s =  3.6e+01] mveoelch
+   rev  : [s =  3.6e+01] мвеоелч
+
+#   676 : loss = -9.3e-02
+   inp  : [s =  3.9e+01] гьщдбож
+   out  : [s =  3.9e+01] gschdbozh
+   rev  : [s =  3.2e+01] гщдбож
+
+#   677 : loss = -8.2e-02
+   inp  : [s =  4.5e+01] аявщпхш
+   out  : [s =  4.5e+01] ayavshphsh
+   rev  : [s =  4.2e+01] аявшпхш
+
+#   678 : loss = -7.6e-02
+   inp  : [s =  3.8e+01] эцшюгсп
+   out  : [s =  3.8e+01] etsshugsp
+   rev  : [s =  3.8e+01] etsshugsp
+
+#   679 : loss = -5.7e-02
+   inp  : [s =  3.7e+01] щмегзнк
+   out  : [s =  3.7e+01] schmegznk
+   rev  : [s =  3.3e+01] шмегзнк
+
+#   680 : loss = -4.8e-02
+   inp  : [s =  4.0e+01] рэдщырп
+   out  : [s =  4.0e+01] redschyrp
+   rev  : [s =  2.9e+01] редширп
+
+#   681 : loss = -3.5e-02
+   inp  : [s =  3.7e+01] бзыклъб
+   out  : [s =  3.7e+01] bzyklb
+   rev  : [s =  3.4e+01] бзыклб
+
+#   682 : loss = -2.3e-03
+   inp  : [s =  4.3e+01] кшхчлгп
+   out  : [s =  4.3e+01] kshhchlgp
+   rev  : [s =  4.9e+01] кшччлгп
+
+#   683 : loss =  1.6e-02
+   inp  : [s =  3.5e+01] стщговф
+   out  : [s =  3.5e+01] stshgovf
+   rev  : [s =  3.5e+01] стшговф
+
+#   684 : loss =  3.6e-02
+   inp  : [s =  3.8e+01] ицрёцвд
+   out  : [s =  3.8e+01] icretvd
+   rev  : [s =  3.8e+01] icretvd
+
+#   685 : loss =  8.2e-02
+   inp  : [s =  4.3e+01] чгжъхяж
+   out  : [s =  4.3e+01] chgzhkhyazh
+   rev  : [s =  3.7e+01] чгжхяж
+
+#   686 : loss =  8.7e-02
+   inp  : [s =  4.0e+01] щмщшпцч
+   out  : [s =  4.0e+01] щммшшшшчччч
+   rev  : [s =  4.0e+01] щммшшшшчччч
+
+#   687 : loss =  9.0e-02
+   inp  : [s =  3.6e+01] здьмощг
+   out  : [s =  3.6e+01] zdmoschg
+   rev  : [s =  3.1e+01] здмощг
+
+#   688 : loss =  1.2e-01
+   inp  : [s =  3.5e+01] цахтъшы
+   out  : [s =  3.5e+01] tsakhtshy
+   rev  : [s =  3.1e+01] цахтшы
+
+#   689 : loss =  1.3e-01
+   inp  : [s =  3.3e+01] эорофбк
+   out  : [s =  3.3e+01] eorofbc
+   rev  : [s =  3.3e+01] eorofbc
+
+#   690 : loss =  1.4e-01
+   inp  : [s =  4.5e+01] ъбывзлц
+   out  : [s =  4.5e+01] ybyvzlts
+   rev  : [s =  1.2e+01] бывать
+   WRN  : rev != "byvit"
+
+#   691 : loss =  1.5e-01
+   inp  : [s =  2.7e+01] ьиуеман
+   out  : [s =  2.7e+01] byueman
+   rev  : [s =  2.1e+01] бюман
+
+#   692 : loss =  1.7e-01
+   inp  : [s =  3.6e+01] цнтцвнч
+   out  : [s =  3.7e+01] tsntsvnch
+   rev  : [s =  3.8e+01] btsntsvc
+   WRN  : rev != "btsntsvc"
+
+#   693 : loss =  1.8e-01
+   inp  : [s =  3.3e+01] каэлйдо
+   out  : [s =  3.3e+01] kaelido
+   rev  : [s =  2.2e+01] калейдо
+   WRN  : rev != "kaleido"
+
+#   694 : loss =  2.1e-01
+   inp  : [s =  4.2e+01] нпйуяшн
+   out  : [s =  4.2e+01] npyuyashn
+   rev  : [s =  2.1e+01] пуяс
+   WRN  : rev != "puyas"
+
+#   695 : loss =  3.1e-01
+   inp  : [s =  3.1e+01] цийццню
+   out  : [s =  3.1e+01] qijiqiu
+   rev  : [s =  2.8e+01] цицзицю
+
+#   696 : loss =  3.3e-01
+   inp  : [s =  4.2e+01] ъжефнся
+   out  : [s =  4.2e+01] bzhefnsya
+   rev  : [s =  4.0e+01] бжефнся
+
+#   697 : loss =  3.7e-01
+   inp  : [s =  3.5e+01] лиёездш
+   out  : [s =  3.5e+01] lieezdsh
+   rev  : [s =  2.7e+01] лиездш
+
+#   698 : loss =  4.4e-01
+   inp  : [s =  3.6e+01] уоаднзм
+   out  : [s =  3.7e+01] uoadnzm
+   rev  : [s =  3.6e+01] уоаднзм
+
+#   699 : loss =  4.4e-01
+   inp  : [s =  3.9e+01] щючъъыф
+   out  : [s =  3.9e+01] shchyuchyf
+   rev  : [s =  1.8e+01] щучин
+   WRN  : rev != "shchuchyn"
+
+#   700 : loss =  5.1e-01
+   inp  : [s =  3.7e+01] фякзивя
+   out  : [s =  3.8e+01] fiakzivya
+   rev  : [s =  4.1e+01] фиакзивья
+
+#   701 : loss =  6.0e-01
+   inp  : [s =  4.1e+01] тпожхёу
+   out  : [s =  4.2e+01] tpozhheu
+   rev  : [s =  3.8e+01] тпожхеу
+
+#   702 : loss =  6.5e-01
+   inp  : [s =  3.6e+01] гфаймжг
+   out  : [s =  3.7e+01] gfeimzhg
+   rev  : [s =  1.7e+01] гемз
+   WRN  : rev != "gemz"
+
+#   703 : loss =  6.7e-01
+   inp  : [s =  4.0e+01] вбпгйор
+   out  : [s =  4.1e+01] vbpgyor
+   rev  : [s =  3.3e+01] вибгьер
+   WRN  : rev != "vibgyor"
+
+#   704 : loss =  7.0e-01
+   inp  : [s =  4.0e+01] сщюдэяе
+   out  : [s =  4.1e+01] sshyudeyae
+   rev  : [s =  3.3e+01] сшюдеяе
+
+#   705 : loss =  7.6e-01
+   inp  : [s =  4.7e+01] щыштбдя
+   out  : [s =  4.7e+01] shyshtbdya
+   rev  : [s =  4.2e+01] шыштбдя
+
+#   706 : loss =  8.6e-01
+   inp  : [s =  3.4e+01] руёшжиф
+   out  : [s =  3.4e+01] rueshjif
+   rev  : [s =  3.9e+01] руешджиф
+
+#   707 : loss =  8.8e-01
+   inp  : [s =  3.2e+01] рбаолху
+   out  : [s =  3.2e+01] rbaolhu
+   rev  : [s =  3.2e+01] рбаолху
+
+#   708 : loss =  9.2e-01
+   inp  : [s =  3.6e+01] вйлёчбр
+   out  : [s =  3.7e+01] vylechbr
+   rev  : [s =  3.3e+01] вылечбр
+
+#   709 : loss =  9.5e-01
+   inp  : [s =  4.3e+01] рчшякбш
+   out  : [s =  4.4e+01] rchshakbsh
+   rev  : [s =  4.0e+01] рчшакбш
+
+#   710 : loss =  9.7e-01
+   inp  : [s =  4.4e+01] двчгщтщ
+   out  : [s =  4.5e+01] dvchgschtsch
+   rev  : [s =  4.2e+01] двчгщчч
+
+#   711 : loss =  9.7e-01
+   inp  : [s =  4.2e+01] кцвючтш
+   out  : [s =  4.3e+01] ktsvuchtsh
+   rev  : [s =  4.4e+01] кцвучтш
+
+#   712 : loss =  9.9e-01
+   inp  : [s =  4.3e+01] щхыдшюы
+   out  : [s =  4.4e+01] shhydshyy
+   rev  : [s =  3.5e+01] шхыдшый
+
+#   713 : loss =  1.0e+00
+   inp  : [s =  4.2e+01] алвйэгб
+   out  : [s =  4.3e+01] alwyegb
+   rev  : [s =  6.2e+01] alwyegb всегда
+
+#   714 : loss =  1.0e+00
+   inp  : [s =  4.3e+01] дюшмжси
+   out  : [s =  4.4e+01] dyushmzhsi
+   rev  : [s =  1.1e+01] южи
+   WRN  : rev != "yuzhi"
+
+#   715 : loss =  1.1e+00
+   inp  : [s =  4.5e+01] ёвпчщдю
+   out  : [s =  4.7e+01] evpchschdy
+   rev  : [s =  2.3e+01] воспоминание
+   WRN  : rev != "evocache"
+
+#   716 : loss =  1.2e+00
+   inp  : [s =  2.8e+01] рэруюич
+   out  : [s =  3.0e+01] raruyuich
+   rev  : [s =  2.5e+01] раруюич
+
+#   717 : loss =  1.2e+00
+   inp  : [s =  4.5e+01] дщижщяп
+   out  : [s =  4.6e+01] dschizhschyap
+   rev  : [s =  4.5e+01] дщижщяп
+
+#   718 : loss =  1.3e+00
+   inp  : [s =  3.3e+01] ъэкрапт
+   out  : [s =  3.5e+01] kommerapt
+   rev  : [s =  3.1e+01] коммерсант
+   WRN  : rev != "kommersant"
+
+#   719 : loss =  1.3e+00
+   inp  : [s =  3.6e+01] коойфнв
+   out  : [s =  3.8e+01] kooifnv
+   rev  : [s =  3.7e+01] кооифнв
+
+#   720 : loss =  1.3e+00
+   inp  : [s =  3.5e+01] уяувдян
+   out  : [s =  3.6e+01] uyauvdyan
+   rev  : [s =  3.5e+01] уяувдян
+
+#   721 : loss =  1.3e+00
+   inp  : [s =  3.3e+01] пююцекк
+   out  : [s =  3.4e+01] pyutsekk
+   rev  : [s =  3.2e+01] пютсекк
+
+#   722 : loss =  1.4e+00
+   inp  : [s =  3.3e+01] ггебылр
+   out  : [s =  3.5e+01] ggebylr
+   rev  : [s =  3.5e+01] ggebylr
+
+#   723 : loss =  1.4e+00
+   inp  : [s =  3.8e+01] мкнфалп
+   out  : [s =  3.9e+01] mknfalp
+   rev  : [s =  3.8e+01] мкнфалп
+
+#   724 : loss =  1.5e+00
+   inp  : [s =  3.4e+01] шыэндко
+   out  : [s =  3.5e+01] shyendko
+   rev  : [s =  2.2e+01] шендко
+
+#   725 : loss =  1.5e+00
+   inp  : [s =  3.6e+01] анвивцм
+   out  : [s =  3.8e+01] anvivtsm
+   rev  : [s =  3.6e+01] анвивцм
+
+#   726 : loss =  1.5e+00
+   inp  : [s =  3.7e+01] гжигкьн
+   out  : [s =  3.8e+01] grzigkn
+   rev  : [s =  3.5e+01] гржигкн
+
+#   727 : loss =  1.6e+00
+   inp  : [s =  4.2e+01] цвжёхщц
+   out  : [s =  4.4e+01] cvzhehschts
+   rev  : [s =  4.0e+01] цвжехщц
+
+#   728 : loss =  1.6e+00
+   inp  : [s =  3.4e+01] жяймехк
+   out  : [s =  3.5e+01] zhaimehk
+   rev  : [s =  2.3e+01] жаймех
+
+#   729 : loss =  1.6e+00
+   inp  : [s =  4.3e+01] рцжцщзн
+   out  : [s =  4.5e+01] rczhtschzn
+   rev  : [s =  3.6e+01] rchtxchs
+   WRN  : rev != "rchtxchs"
+
+#   730 : loss =  1.7e+00
+   inp  : [s =  3.3e+01] цньчиэш
+   out  : [s =  3.5e+01] tsnchiesh
+   rev  : [s =  2.7e+01] цнчиеш
+
+#   731 : loss =  1.7e+00
+   inp  : [s =  3.1e+01] уябщёдж
+   out  : [s =  3.3e+01] uyabschedge
+   rev  : [s =  2.5e+01] уябшед
+
+#   732 : loss =  1.7e+00
+   inp  : [s =  3.8e+01] ётизжшо
+   out  : [s =  4.0e+01] etizzhsho
+   rev  : [s =  4.0e+01] фетишшоты
+   WRN  : rev != "fetishshots"
+
+#   733 : loss =  1.7e+00
+   inp  : [s =  3.2e+01] утёмгну
+   out  : [s =  3.4e+01] utemgnu
+   rev  : [s =  2.8e+01] утемгну
+
+#   734 : loss =  1.7e+00
+   inp  : [s =  3.7e+01] рыйызчз
+   out  : [s =  3.8e+01] ryyzchz
+   rev  : [s =  3.1e+01] рыйзчз
+
+#   735 : loss =  1.7e+00
+   inp  : [s =  4.0e+01] онжющчл
+   out  : [s =  4.2e+01] onzhushchl
+   rev  : [s =  3.1e+01] онжущл
+
+#   736 : loss =  1.8e+00
+   inp  : [s =  3.7e+01] дкуыфыб
+   out  : [s =  3.9e+01] dkuyfyb
+   rev  : [s =  3.9e+01] dkuyfyb
+
+#   737 : loss =  1.9e+00
+   inp  : [s =  3.6e+01] юэьфнор
+   out  : [s =  3.8e+01] yuefnor
+   rev  : [s =  2.6e+01] юефнор
+
+#   738 : loss =  2.0e+00
+   inp  : [s =  3.9e+01] оаёпцих
+   out  : [s =  4.1e+01] oaeptsikh
+   rev  : [s =  3.3e+01] оаепцих
+
+#   739 : loss =  2.0e+00
+   inp  : [s =  2.3e+01] озепуни
+   out  : [s =  2.5e+01] ozepuni
+   rev  : [s =  2.3e+01] озепуни
+
+#   740 : loss =  2.0e+00
+   inp  : [s =  3.2e+01] йьоприю
+   out  : [s =  3.4e+01] yopriyu
+   rev  : [s =  2.4e+01] йоприю
+
+#   741 : loss =  2.0e+00
+   inp  : [s =  2.8e+01] мъюжамь
+   out  : [s =  3.0e+01] myuzham
+   rev  : [s =  2.5e+01] мьюжам
+
+#   742 : loss =  2.0e+00
+   inp  : [s =  3.6e+01] уятячыж
+   out  : [s =  3.8e+01] uyatyachyzh
+   rev  : [s =  3.5e+01] уютячиж
+
+#   743 : loss =  2.0e+00
+   inp  : [s =  2.9e+01] фафобап
+   out  : [s =  3.1e+01] fafobap
+   rev  : [s =  2.9e+01] фафобап
+
+#   744 : loss =  2.1e+00
+   inp  : [s =  3.7e+01] чхбдштр
+   out  : [s =  3.9e+01] chhbdshtr
+   rev  : [s =  3.7e+01] чхбдштр
+
+#   745 : loss =  2.2e+00
+   inp  : [s =  3.3e+01] арйкувз
+   out  : [s =  3.5e+01] arykuvz
+   rev  : [s =  3.6e+01] арыкувз
+
+#   746 : loss =  2.2e+00
+   inp  : [s =  3.6e+01] ччагоюп
+   out  : [s =  3.8e+01] chchagoyup
+   rev  : [s =  3.6e+01] ччагоюп
+
+#   747 : loss =  2.2e+00
+   inp  : [s =  4.1e+01] цщгййхе
+   out  : [s =  4.3e+01] zschgyhe
+   rev  : [s =  3.5e+01] зщгыхе
+
+#   748 : loss =  2.2e+00
+   inp  : [s =  2.9e+01] цябьдру
+   out  : [s =  3.1e+01] qiabdru
+   rev  : [s =  3.5e+01] киабдру
+
+#   749 : loss =  2.3e+00
+   inp  : [s =  3.9e+01] омшсфлф
+   out  : [s =  4.1e+01] omshsflf
+   rev  : [s =  4.1e+01] omshsflf
+
+#   750 : loss =  2.3e+00
+   inp  : [s =  3.4e+01] цхакччь
+   out  : [s =  3.6e+01] tshakchch
+   rev  : [s =  3.5e+01] тшакчч
+
+#   751 : loss =  2.5e+00
+   inp  : [s =  4.6e+01] дчфжютя
+   out  : [s =  4.8e+01] dchfzhyutya
+   rev  : [s =  4.6e+01] дчфжютя
+
+#   752 : loss =  2.5e+00
+   inp  : [s =  3.4e+01] идвыгеч
+   out  : [s =  3.6e+01] idvygech
+   rev  : [s =  2.8e+01] идвигеч
+
+#   753 : loss =  2.5e+00
+   inp  : [s =  3.9e+01] мчнтюлт
+   out  : [s =  4.1e+01] mchntyult
+   rev  : [s =  3.9e+01] макинтюльт
+
+#   754 : loss =  2.6e+00
+   inp  : [s =  2.9e+01] хофряун
+   out  : [s =  3.2e+01] hofryaun
+   rev  : [s =  2.9e+01] хофряун
+
+#   755 : loss =  2.6e+00
+   inp  : [s =  4.1e+01] фмелнуы
+   out  : [s =  4.3e+01] fmelnuys
+   rev  : [s =  3.1e+01] фмельнуйс
+
+#   756 : loss =  2.6e+00
+   inp  : [s =  4.3e+01] ршщмнюх
+   out  : [s =  4.5e+01] rshshmnyukh
+   rev  : [s =  3.9e+01] ршшмнюх
+
+#   757 : loss =  2.6e+00
+   inp  : [s =  3.6e+01] рсстяшм
+   out  : [s =  3.9e+01] rsstyashm
+   rev  : [s =  3.6e+01] рсстяшм
+
+#   758 : loss =  2.6e+00
+   inp  : [s =  4.0e+01] ъхкщумю
+   out  : [s =  4.3e+01] ъккщххххххх
+   rev  : [s =  4.3e+01] ъккщххххххх
+
+#   759 : loss =  2.7e+00
+   inp  : [s =  3.7e+01] зянбхбл
+   out  : [s =  4.0e+01] zanbhbl
+   rev  : [s =  3.5e+01] занбхбл
+
+#   760 : loss =  2.8e+00
+   inp  : [s =  4.0e+01] ысызяэф
+   out  : [s =  4.3e+01] ysyzyaef
+   rev  : [s =  2.1e+01] Сьюзи
+   WRN  : rev != "suzie"
+
+#   761 : loss =  2.8e+00
+   inp  : [s =  4.4e+01] йтдкчяе
+   out  : [s =  4.6e+01] ytdkchyae
+   rev  : [s =  4.1e+01] итдкчяе
+
+#   762 : loss =  2.8e+00
+   inp  : [s =  4.1e+01] дссфщив
+   out  : [s =  4.4e+01] dssfschiv
+   rev  : [s =  4.4e+01] dssfschiv
+
+#   763 : loss =  2.9e+00
+   inp  : [s =  3.4e+01] ааохюшо
+   out  : [s =  3.7e+01] aaohyusho
+   rev  : [s =  3.4e+01] ааохюшо
+
+#   764 : loss =  2.9e+00
+   inp  : [s =  4.1e+01] дэяжёуц
+   out  : [s =  4.4e+01] deyazheutz
+   rev  : [s =  3.8e+01] деяжойц
+
+#   765 : loss =  2.9e+00
+   inp  : [s =  3.2e+01] рйномпш
+   out  : [s =  3.5e+01] rynompsh
+   rev  : [s =  3.2e+01] рынмпш
+
+#   766 : loss =  3.0e+00
+   inp  : [s =  3.0e+01] оощвишн
+   out  : [s =  3.3e+01] ooshvishn
+   rev  : [s =  2.5e+01] ошвишн
+
+#   767 : loss =  3.0e+00
+   inp  : [s =  3.9e+01] оуанщщк
+   out  : [s =  4.2e+01] owanschschk
+   rev  : [s =  3.4e+01] ованщщк
+
+#   768 : loss =  3.0e+00
+   inp  : [s =  3.8e+01] ууефщэё
+   out  : [s =  4.1e+01] uuefschee
+   rev  : [s =  2.9e+01] ууефщее
+
+#   769 : loss =  3.0e+00
+   inp  : [s =  3.3e+01] лчндзич
+   out  : [s =  3.6e+01] lchndzich
+   rev  : [s =  2.2e+01] ичундич
+   WRN  : rev != "ichundich"
+
+#   770 : loss =  3.1e+00
+   inp  : [s =  3.8e+01] оужгщль
+   out  : [s =  4.2e+01] ouzhgschl
+   rev  : [s =  3.5e+01] оужгщл
+
+#   771 : loss =  3.1e+00
+   inp  : [s =  3.8e+01] юдишызх
+   out  : [s =  4.1e+01] yudishyzh
+   rev  : [s =  2.7e+01] юдишиж
+
+#   772 : loss =  3.2e+00
+   inp  : [s =  4.2e+01] нъщбюпх
+   out  : [s =  4.5e+01] nyushbyuph
+   rev  : [s =  3.7e+01] ньюшбюф
+
+#   773 : loss =  3.2e+00
+   inp  : [s =  3.8e+01] цяёнщрш
+   out  : [s =  4.1e+01] qiaenshrsh
+   rev  : [s =  3.9e+01] цяэньшрш
+
+#   774 : loss =  3.3e+00
+   inp  : [s =  3.5e+01] мёчцлал
+   out  : [s =  3.8e+01] mechtslal
+   rev  : [s =  3.4e+01] мечтслал
+
+#   775 : loss =  3.3e+00
+   inp  : [s =  2.9e+01] оргабйм
+   out  : [s =  3.2e+01] orgabym
+   rev  : [s =  2.2e+01] оргабым
+
+#   776 : loss =  3.3e+00
+   inp  : [s =  3.4e+01] сггсеоб
+   out  : [s =  3.7e+01] sggseob
+   rev  : [s =  3.7e+01] sggseob
+
+#   777 : loss =  3.3e+00
+   inp  : [s =  3.8e+01] юсбсеау
+   out  : [s =  4.1e+01] yusbseau
+   rev  : [s =  2.8e+01] юсбсо
+
+#   778 : loss =  3.4e+00
+   inp  : [s =  3.6e+01] бмццеюх
+   out  : [s =  4.0e+01] bmtseyuh
+   rev  : [s =  3.1e+01] бмцеюх
+
+#   779 : loss =  3.4e+00
+   inp  : [s =  3.5e+01] юложхву
+   out  : [s =  3.8e+01] yulozhkhvu
+   rev  : [s =  3.5e+01] юложхву
+
+#   780 : loss =  3.4e+00
+   inp  : [s =  3.7e+01] ейёаяым
+   out  : [s =  4.1e+01] yeyeayym
+   rev  : [s =  3.6e+01] йейайым
+
+#   781 : loss =  3.4e+00
+   inp  : [s =  4.4e+01] бяещжзй
+   out  : [s =  4.8e+01] byaeshzhzy
+   rev  : [s =  4.1e+01] бяешжзы
+
+#   782 : loss =  3.5e+00
+   inp  : [s =  2.7e+01] ейрерут
+   out  : [s =  3.0e+01] eyrerut
+   rev  : [s =  3.0e+01] эйрерут
+
+#   783 : loss =  3.5e+00
+   inp  : [s =  3.2e+01] тпэсзам
+   out  : [s =  3.5e+01] tpeszam
+   rev  : [s =  2.3e+01] тпезам
+
+#   784 : loss =  3.5e+00
+   inp  : [s =  3.6e+01] лнщгефт
+   out  : [s =  4.0e+01] lnschgeft
+   rev  : [s =  3.4e+01] лншгефт
+
+#   785 : loss =  3.6e+00
+   inp  : [s =  4.0e+01] ёолгжтп
+   out  : [s =  4.3e+01] eolgzhtp
+   rev  : [s =  4.3e+01] eolgzhtp
+
+#   786 : loss =  3.7e+00
+   inp  : [s =  3.5e+01] юйюртпо
+   out  : [s =  3.9e+01] yuyurtpo
+   rev  : [s =  2.9e+01] ююртпо
+
+#   787 : loss =  3.7e+00
+   inp  : [s =  3.4e+01] злайбвя
+   out  : [s =  3.8e+01] zlaybvya
+   rev  : [s =  3.4e+01] злайбвя
+
+#   788 : loss =  3.7e+00
+   inp  : [s =  4.4e+01] сашлшбё
+   out  : [s =  4.7e+01] sashlshbe
+   rev  : [s =  2.6e+01] эшлеша
+   WRN  : rev != "ashlesha"
+
+#   789 : loss =  3.8e+00
+   inp  : [s =  3.1e+01] уулюгяс
+   out  : [s =  3.5e+01] uulugyas
+   rev  : [s =  3.4e+01] уулугьяс
+
+#   790 : loss =  3.8e+00
+   inp  : [s =  3.8e+01] ждщмешо
+   out  : [s =  4.2e+01] zhdschmesho
+   rev  : [s =  3.9e+01] jd-сцены
+   WRN  : rev != "jdscenes"
+
+#   791 : loss =  3.8e+00
+   inp  : [s =  4.2e+01] згнщызо
+   out  : [s =  4.5e+01] zgnschyzo
+   rev  : [s =  4.2e+01] згнщызо
+
+#   792 : loss =  3.9e+00
+   inp  : [s =  3.2e+01] хоахфят
+   out  : [s =  3.6e+01] hoahfyat
+   rev  : [s =  3.2e+01] хоахфят
+
+#   793 : loss =  4.0e+00
+   inp  : [s =  3.7e+01] жгэднбк
+   out  : [s =  4.1e+01] zhgednbc
+   rev  : [s =  3.8e+01] жгеднбк
+
+#   794 : loss =  4.0e+00
+   inp  : [s =  3.9e+01] яжгшжгр
+   out  : [s =  4.3e+01] yazhgshzhgr
+   rev  : [s =  3.9e+01] яжгшжгр
+
+#   795 : loss =  4.1e+00
+   inp  : [s =  3.4e+01] цчкруэц
+   out  : [s =  3.8e+01] tschkruets
+   rev  : [s =  2.1e+01] чкруетс
+
+#   796 : loss =  4.1e+00
+   inp  : [s =  3.5e+01] щехёожш
+   out  : [s =  3.9e+01] scheheozhsh
+   rev  : [s =  3.2e+01] шехеожш
+
+#   797 : loss =  4.1e+00
+   inp  : [s =  4.3e+01] ъмфявэп
+   out  : [s =  4.7e+01] kommfyavep
+   rev  : [s =  4.9e+01] коммфьявеп
+
+#   798 : loss =  4.1e+00
+   inp  : [s =  3.7e+01] штэжиюе
+   out  : [s =  4.1e+01] shtezhiyue
+   rev  : [s =  3.2e+01] штежиюе
+
+#   799 : loss =  4.2e+00
+   inp  : [s =  3.8e+01] чгниёиу
+   out  : [s =  4.2e+01] chgnieiu
+   rev  : [s =  3.5e+01] чгниеиу
+
+#   800 : loss =  4.3e+00
+   inp  : [s =  3.1e+01] ацявуте
+   out  : [s =  3.5e+01] atsyavute
+   rev  : [s =  2.8e+01] атсявуте
+
+#   801 : loss =  4.3e+00
+   inp  : [s =  3.6e+01] шжвочьг
+   out  : [s =  4.0e+01] shzhvochg
+   rev  : [s =  2.7e+01] шичжун
+   WRN  : rev != "shizhong"
+
+#   802 : loss =  4.3e+00
+   inp  : [s =  3.9e+01] ыыщезвф
+   out  : [s =  4.3e+01] yyschezvf
+   rev  : [s =  2.4e+01] йешеф
+   WRN  : rev != "yeschef"
+
+#   803 : loss =  4.3e+00
+   inp  : [s =  3.5e+01] хзуцыез
+   out  : [s =  4.0e+01] hzutzyez
+   rev  : [s =  3.3e+01] хзуцьез
+
+#   804 : loss =  4.5e+00
+   inp  : [s =  3.6e+01] хвряцсу
+   out  : [s =  4.0e+01] khvryatssu
+   rev  : [s =  3.6e+01] хвряцсу
+
+#   805 : loss =  4.5e+00
+   inp  : [s =  4.2e+01] оцнзцбп
+   out  : [s =  4.7e+01] otsnztsbp
+   rev  : [s =  5.3e+01] отснзцбп
+
+#   806 : loss =  4.6e+00
+   inp  : [s =  3.5e+01] ёчяёъзе
+   out  : [s =  3.9e+01] yechyaeze
+   rev  : [s =  3.5e+01] ехьяезе
+
+#   807 : loss =  4.7e+00
+   inp  : [s =  3.5e+01] чрехъюф
+   out  : [s =  3.9e+01] chrekhyuf
+   rev  : [s =  4.0e+01] чрекхьюф
+
+#   808 : loss =  4.8e+00
+   inp  : [s =  4.1e+01] юеяёщлы
+   out  : [s =  4.6e+01] yueyaeshly
+   rev  : [s =  3.4e+01] юэяешли
+
+#   809 : loss =  4.8e+00
+   inp  : [s =  3.0e+01] шгоёрет
+   out  : [s =  3.5e+01] shgoeret
+   rev  : [s =  2.8e+01] шгоерет
+
+#   810 : loss =  4.8e+00
+   inp  : [s =  4.0e+01] ъшагшжн
+   out  : [s =  4.5e+01] bshagshzhn
+   rev  : [s =  3.1e+01] Шаньшань
+   WRN  : rev != "shanshan"
+
+#   811 : loss =  4.8e+00
+   inp  : [s =  3.9e+01] уцюйштщ
+   out  : [s =  4.4e+01] utsyushtsch
+   rev  : [s =  3.4e+01] утсюшч
+
+#   812 : loss =  4.9e+00
+   inp  : [s =  4.1e+01] оёвюмыц
+   out  : [s =  4.5e+01] oevyumyts
+   rev  : [s =  3.5e+01] яйцеклетка
+   WRN  : rev != "ovum"
+
+#   813 : loss =  4.9e+00
+   inp  : [s =  4.2e+01] фзящушп
+   out  : [s =  4.7e+01] fzyashchushp
+   rev  : [s =  3.8e+01] фящушп
+
+#   814 : loss =  4.9e+00
+   inp  : [s =  3.7e+01] егинчщг
+   out  : [s =  4.2e+01] eginchschg
+   rev  : [s =  3.9e+01] эгинчщг
+
+#   815 : loss =  5.1e+00
+   inp  : [s =  3.9e+01] ядбдчуу
+   out  : [s =  4.4e+01] yadbdchuu
+   rev  : [s =  3.1e+01] adbdsu
+   WRN  : rev != "adbdsu"
+
+#   816 : loss =  5.1e+00
+   inp  : [s =  3.7e+01] чмншквц
+   out  : [s =  4.2e+01] chmnshkvc
+   rev  : [s =  3.6e+01] чмншквк
+
+#   817 : loss =  5.1e+00
+   inp  : [s =  3.2e+01] нзыйюню
+   out  : [s =  3.7e+01] nzyjunyu
+   rev  : [s =  3.6e+01] нзиджунью
+
+#   818 : loss =  5.1e+00
+   inp  : [s =  3.8e+01] оэдщгээ
+   out  : [s =  4.3e+01] oedschge
+   rev  : [s =  2.2e+01] эшгер
+   WRN  : rev != "oeschger"
+
+#   819 : loss =  5.2e+00
+   inp  : [s =  3.8e+01] чхачлшс
+   out  : [s =  4.3e+01] chhachlshs
+   rev  : [s =  3.8e+01] чхачлшс
+
+#   820 : loss =  5.2e+00
+   inp  : [s =  3.8e+01] лчеяцби
+   out  : [s =  4.3e+01] lcheyatsbi
+   rev  : [s =  3.8e+01] лчеяцби
+
+#   821 : loss =  5.3e+00
+   inp  : [s =  3.4e+01] чыждыпн
+   out  : [s =  4.0e+01] chizhdypn
+   rev  : [s =  3.4e+01] чиждыпн
+
+#   822 : loss =  5.3e+00
+   inp  : [s =  3.7e+01] ёизщлош
+   out  : [s =  4.2e+01] eizschlosh
+   rev  : [s =  3.8e+01] хайцшлаух
+   WRN  : rev != "heizschlauch"
+
+#   823 : loss =  5.3e+00
+   inp  : [s =  3.4e+01] рэбцыхн
+   out  : [s =  3.9e+01] rebtsyhn
+   rev  : [s =  2.8e+01] ребцыхн
+
+#   824 : loss =  5.4e+00
+   inp  : [s =  3.4e+01] мдухзтк
+   out  : [s =  3.9e+01] mduhztk
+   rev  : [s =  3.9e+01] mduhztk
+
+#   825 : loss =  5.4e+00
+   inp  : [s =  4.3e+01] йщпзляц
+   out  : [s =  4.8e+01] yschpzlyats
+   rev  : [s =  4.3e+01] йщпзляц
+
+#   826 : loss =  5.5e+00
+   inp  : [s =  3.8e+01] йсцвэют
+   out  : [s =  4.3e+01] yscveyut
+   rev  : [s =  2.5e+01] исквеют
+
+#   827 : loss =  5.6e+00
+   inp  : [s =  3.0e+01] мщхбоме
+   out  : [s =  3.6e+01] mschhbome
+   rev  : [s =  3.6e+01] mschhbome
+
+#   828 : loss =  5.7e+00
+   inp  : [s =  3.6e+01] цузезйю
+   out  : [s =  4.2e+01] tsuzezyu
+   rev  : [s =  3.0e+01] цузезю
+
+#   829 : loss =  5.7e+00
+   inp  : [s =  3.9e+01] цясвчдч
+   out  : [s =  4.5e+01] tsyasvchdch
+   rev  : [s =  3.9e+01] цясвчдч
+
+#   830 : loss =  5.7e+00
+   inp  : [s =  3.2e+01] геявтык
+   out  : [s =  3.8e+01] gayavtyk
+   rev  : [s =  3.0e+01] гаявтык
+
+#   831 : loss =  5.8e+00
+   inp  : [s =  3.4e+01] асошзоч
+   out  : [s =  4.0e+01] asoshzoch
+   rev  : [s =  3.6e+01] асошзох
+
+#   832 : loss =  5.9e+00
+   inp  : [s =  3.5e+01] мрэххнц
+   out  : [s =  4.1e+01] mrekhhnts
+   rev  : [s =  2.6e+01] торговцы
+   WRN  : rev != "merchants"
+
+#   833 : loss =  6.0e+00
+   inp  : [s =  3.5e+01] чзбёбдо
+   out  : [s =  4.1e+01] chzbebdo
+   rev  : [s =  3.1e+01] чзбебдо
+
+#   834 : loss =  6.0e+00
+   inp  : [s =  4.0e+01] ёящфяюм
+   out  : [s =  4.6e+01] yeashfyayum
+   rev  : [s =  4.1e+01] йерушалаим
+   WRN  : rev != "yerushalayim"
+
+#   835 : loss =  6.2e+00
+   inp  : [s =  3.5e+01] ървнццч
+   out  : [s =  4.1e+01] btrvntsch
+   rev  : [s =  5.0e+01] бтрвнтщ
+
+#   836 : loss =  6.2e+00
+   inp  : [s =  3.3e+01] глпунла
+   out  : [s =  3.9e+01] glpunla
+   rev  : [s =  3.3e+01] глпунла
+
+#   837 : loss =  6.2e+00
+   inp  : [s =  3.7e+01] цшвхежэ
+   out  : [s =  4.3e+01] cshvhezhe
+   rev  : [s =  1.8e+01] чавес
+   WRN  : rev != "chavez"
+
+#   838 : loss =  6.3e+00
+   inp  : [s =  3.6e+01] ёёщдяйк
+   out  : [s =  4.2e+01] eeshdyayk
+   rev  : [s =  2.8e+01] глаза, которые они
+   WRN  : rev != "eyes they"
+
+#   839 : loss =  6.4e+00
+   inp  : [s =  3.8e+01] юшчънсо
+   out  : [s =  4.4e+01] yushchnso
+   rev  : [s =  2.2e+01] Ющенко
+   WRN  : rev != "yushchenko"
+
+#   840 : loss =  6.4e+00
+   inp  : [s =  4.0e+01] лвоцфщщ
+   out  : [s =  4.6e+01] lvotsfschsch
+   rev  : [s =  4.0e+01] лвоцфщщ
+
+#   841 : loss =  6.4e+00
+   inp  : [s =  3.4e+01] ёаткищг
+   out  : [s =  4.0e+01] eatkishchg
+   rev  : [s =  3.4e+01] ешькищг
+
+#   842 : loss =  6.5e+00
+   inp  : [s =  3.4e+01] юцкнюом
+   out  : [s =  4.1e+01] yutsknyuom
+   rev  : [s =  1.3e+01] южный
+   WRN  : rev != "yuzhnyy"
+
+#   843 : loss =  6.5e+00
+   inp  : [s =  3.5e+01] рцшнезп
+   out  : [s =  4.1e+01] rcshnezp
+   rev  : [s =  3.5e+01] рцшнезп
+
+#   844 : loss =  6.6e+00
+   inp  : [s =  2.8e+01] цхмосви
+   out  : [s =  3.5e+01] tshmosvi
+   rev  : [s =  3.2e+01] тшмосви
+
+#   845 : loss =  6.8e+00
+   inp  : [s =  4.0e+01] цоэекжю
+   out  : [s =  4.6e+01] tsoeekzhyu
+   rev  : [s =  4.0e+01] цоеекжю
+
+#   846 : loss =  6.9e+00
+   inp  : [s =  3.2e+01] бодшгве
+   out  : [s =  3.9e+01] bodshgve
+   rev  : [s =  3.2e+01] бодшгве
+
+#   847 : loss =  6.9e+00
+   inp  : [s =  3.7e+01] ьюжгущц
+   out  : [s =  4.4e+01] yrzhgushchts
+   rev  : [s =  3.4e+01] иржгущц
+
+#   848 : loss =  7.0e+00
+   inp  : [s =  3.1e+01] щкълщью
+   out  : [s =  3.8e+01] schklschyu
+   rev  : [s =  3.1e+01] шульдшайн
+   WRN  : rev != "schuldschein"
+
+#   849 : loss =  7.1e+00
+   inp  : [s =  3.2e+01] ючпренж
+   out  : [s =  3.9e+01] yuchprenzh
+   rev  : [s =  3.2e+01] ючпренж
+
+#   850 : loss =  7.1e+00
+   inp  : [s =  3.5e+01] рбюхеже
+   out  : [s =  4.2e+01] rbyukhezhe
+   rev  : [s =  3.7e+01] буюкбесе
+   WRN  : rev != "buyukbese"
+
+#   851 : loss =  7.2e+00
+   inp  : [s =  1.9e+01] игельев
+   out  : [s =  2.6e+01] igelyev
+   rev  : [s =  1.9e+01] игелев
+
+#   852 : loss =  7.3e+00
+   inp  : [s =  2.8e+01] шэерчес
+   out  : [s =  3.6e+01] shaerches
+   rev  : [s =  1.7e+01] поиски
+   WRN  : rev != "searches"
+
+#   853 : loss =  7.4e+00
+   inp  : [s =  4.1e+01] ыфчеущх
+   out  : [s =  4.9e+01] yfcheushchh
+   rev  : [s =  1.5e+01] шейх
+   WRN  : rev != "scheuch"
+
+#   854 : loss =  7.5e+00
+   inp  : [s =  4.3e+01] ъзачфщч
+   out  : [s =  5.0e+01] bzachfschch
+   rev  : [s =  2.7e+01] ответный удар
+   WRN  : rev != "backfisch"
+
+#   855 : loss =  7.6e+00
+   inp  : [s =  4.2e+01] эчщкещд
+   out  : [s =  5.0e+01] echschkeschd
+   rev  : [s =  4.5e+01] этчаскетч
+   WRN  : rev != "etchasketch"
+
+#   856 : loss =  7.7e+00
+   inp  : [s =  4.4e+01] дцмхощю
+   out  : [s =  5.1e+01] dcmhoshchyu
+   rev  : [s =  5.1e+01] dcmhoshchyu
+
+#   857 : loss =  7.7e+00
+   inp  : [s =  2.9e+01] здззпан
+   out  : [s =  3.7e+01] zdzzpan
+   rev  : [s =  3.0e+01] здзззпан
+
+#   858 : loss =  7.8e+00
+   inp  : [s =  3.2e+01] кащёйож
+   out  : [s =  3.9e+01] kashcheyozh
+   rev  : [s =  2.9e+01] кащейож
+
+#   859 : loss =  8.2e+00
+   inp  : [s =  3.3e+01] цочцццэ
+   out  : [s =  4.1e+01] tsochtstse
+   rev  : [s =  2.7e+01] цочцце
+
+#   860 : loss =  8.4e+00
+   inp  : [s =  3.4e+01] бпъцрию
+   out  : [s =  4.3e+01] bpcriyu
+   rev  : [s =  3.2e+01] бпкрию
+
+#   861 : loss =  8.5e+00
+   inp  : [s =  4.3e+01] шщхкцрх
+   out  : [s =  5.1e+01] shshkhktsrh
+   rev  : [s =  4.3e+01] шшхкцрх
+
+#   862 : loss =  8.7e+00
+   inp  : [s =  3.3e+01] чэчбсиж
+   out  : [s =  4.2e+01] chechbsizh
+   rev  : [s =  3.2e+01] чечбсиж
+
+#   863 : loss =  8.7e+00
+   inp  : [s =  4.2e+01] бважгщя
+   out  : [s =  5.1e+01] bwazhgschya
+   rev  : [s =  4.2e+01] бважгщя
+
+#   864 : loss =  8.9e+00
+   inp  : [s =  2.9e+01] вехошкт
+   out  : [s =  3.8e+01] vekhoshkt
+   rev  : [s =  2.9e+01] вехошкт
+
+#   865 : loss =  9.0e+00
+   inp  : [s =  3.6e+01] щнзрюбю
+   out  : [s =  4.5e+01] schnzruby
+   rev  : [s =  2.8e+01] шнзруби
+
+#   866 : loss =  9.0e+00
+   inp  : [s =  3.2e+01] цоцоящт
+   out  : [s =  4.1e+01] tsotsoyasht
+   rev  : [s =  2.9e+01] цоцояшт
+
+#   867 : loss =  9.1e+00
+   inp  : [s =  3.4e+01] сачьцря
+   out  : [s =  4.3e+01] sachtsrya
+   rev  : [s =  1.6e+01] закари
+   WRN  : rev != "zachary"
+
+#   868 : loss =  9.1e+00
+   inp  : [s =  4.2e+01] якцбтие
+   out  : [s =  5.1e+01] yaktsbtiye
+   rev  : [s =  2.2e+01] якитировать
+   WRN  : rev != "yakitate"
+
+#   869 : loss =  9.2e+00
+   inp  : [s =  3.5e+01] фцюшёвя
+   out  : [s =  4.4e+01] ftsyushevya
+   rev  : [s =  2.4e+01] таюшев
+   WRN  : rev != "tayushev"
+
+#   870 : loss =  9.4e+00
+   inp  : [s =  3.7e+01] ячихээф
+   out  : [s =  4.7e+01] yachiheef
+   rev  : [s =  2.8e+01] яхихиф
+
+#   871 : loss =  9.4e+00
+   inp  : [s =  3.2e+01] бвясицы
+   out  : [s =  4.2e+01] bviasitsy
+   rev  : [s =  3.2e+01] бвясицы
+
+#   872 : loss =  9.4e+00
+   inp  : [s =  4.2e+01] уягчвжя
+   out  : [s =  5.1e+01] uyashvzhya
+   rev  : [s =  3.1e+01] уяшвжя
+
+#   873 : loss =  9.8e+00
+   inp  : [s =  3.6e+01] еяхшгки
+   out  : [s =  4.6e+01] yayahshgki
+   rev  : [s =  3.5e+01] яяхшгки
+
+#   874 : loss =  1.0e+01
+   inp  : [s =  3.9e+01] щняекйп
+   out  : [s =  4.9e+01] schnyakyp
+   rev  : [s =  3.5e+01] шнякып
+
+#   875 : loss =  1.0e+01
+   inp  : [s =  3.8e+01] ыокщэюф
+   out  : [s =  4.8e+01] yokscheyuf
+   rev  : [s =  3.9e+01] йокшейуф
+
+#   876 : loss =  1.0e+01
+   inp  : [s =  3.9e+01] ёобюцбв
+   out  : [s =  4.9e+01] eobyutsbv
+   rev  : [s =  5.5e+01] еобъютсбв
+
+#   877 : loss =  1.0e+01
+   inp  : [s =  4.2e+01] иячщщзг
+   out  : [s =  5.2e+01] iyachschschzg
+   rev  : [s =  4.2e+01] иячщщзг
+
+#   878 : loss =  1.0e+01
+   inp  : [s =  3.3e+01] ьюзрарр
+   out  : [s =  4.4e+01] ьюзрарарарарарарарара
+   rev  : [s =  5.3e+01] ьюззрарарарарарарарарарарарарарарара
+
+#   879 : loss =  1.0e+01
+   inp  : [s =  3.0e+01] щёмгиез
+   out  : [s =  4.1e+01] schemgiez
+   rev  : [s =  2.7e+01] шемгиез
+
+#   880 : loss =  1.1e+01
+   inp  : [s =  3.5e+01] нючбхжд
+   out  : [s =  4.5e+01] nyuchbhzhd
+   rev  : [s =  3.1e+01] ньючбжд
+
+#   881 : loss =  1.1e+01
+   inp  : [s =  3.6e+01] юшьшгюж
+   out  : [s =  4.6e+01] yushshgyuzhe
+   rev  : [s =  3.5e+01] юшшгюже
+
+#   882 : loss =  1.1e+01
+   inp  : [s =  3.2e+01] цулнужя
+   out  : [s =  4.3e+01] tsulnuzhya
+   rev  : [s =  3.4e+01] цулнужья
+
+#   883 : loss =  1.1e+01
+   inp  : [s =  4.9e+01] ягнжчщя
+   out  : [s =  6.1e+01] yagnzhchschya
+   rev  : [s =  4.9e+01] ягнжчщя
+
+#   884 : loss =  1.2e+01
+   inp  : [s =  3.1e+01] цямдясн
+   out  : [s =  4.2e+01] tsyamdyasn
+   rev  : [s =  3.1e+01] цямдясн
+
+#   885 : loss =  1.2e+01
+   inp  : [s =  3.4e+01] юеачнюш
+   out  : [s =  4.6e+01] yueachnyush
+   rev  : [s =  2.7e+01] юичнюш
+
+#   886 : loss =  1.2e+01
+   inp  : [s =  3.2e+01] друязпп
+   out  : [s =  4.4e+01] druyazpp
+   rev  : [s =  2.7e+01] другазпп
+
+#   887 : loss =  1.2e+01
+   inp  : [s =  2.4e+01] рдрацую
+   out  : [s =  3.6e+01] rdratsuyu
+   rev  : [s =  2.4e+01] рдрацую
+
+#   888 : loss =  1.2e+01
+   inp  : [s =  3.0e+01] яцифиво
+   out  : [s =  4.2e+01] yatsifivo
+   rev  : [s =  2.2e+01] юсифова
+   WRN  : rev != "yusifova"
+
+#   889 : loss =  1.3e+01
+   inp  : [s =  3.4e+01] ащёгхнш
+   out  : [s =  4.7e+01] ascheghnsh
+   rev  : [s =  2.2e+01] ашегеш
+   WRN  : rev != "asheghesh"
+
+#   890 : loss =  1.3e+01
+   inp  : [s =  3.5e+01] шяъщфгр
+   out  : [s =  4.8e+01] shyashchfgr
+   rev  : [s =  2.8e+01] шящфгр
+
+#   891 : loss =  1.3e+01
+   inp  : [s =  3.0e+01] яямфрск
+   out  : [s =  4.3e+01] yayamfrsk
+   rev  : [s =  3.0e+01] яямфрск
+
+#   892 : loss =  1.3e+01
+   inp  : [s =  4.8e+01] ьжжнмйы
+   out  : [s =  6.1e+01] ьжнныыыыыыы
+   rev  : [s =  7.2e+01] ьныыыыыыыы ь ь ь
+
+#   893 : loss =  1.3e+01
+   inp  : [s =  3.3e+01] ьгъсръе
+   out  : [s =  4.6e+01] ьъссррсс
+   rev  : [s =  3.3e+01] bssrrss
+
+#   894 : loss =  1.6e+01
+   inp  : [s =  3.5e+01] ямбнюмн
+   out  : [s =  5.1e+01] yambnyumn
+   rev  : [s =  2.8e+01] ян юнь
+   WRN  : rev != "yang yun"
+
+#   895 : loss =  1.6e+01
+   inp  : [s =  3.2e+01] чыгжмаю
+   out  : [s =  4.8e+01] chygzhmayu
+   rev  : [s =  3.2e+01] чыгжмаю
+
+#   896 : loss =  1.7e+01
+   inp  : [s =  4.0e+01] хьбтюпь
+   out  : [s =  5.6e+01] хьбюьььььььь
+   rev  : [s =  1.9e+01] hby
+
+#   897 : loss =  1.9e+01
+   inp  : [s =  3.4e+01] ыкахтчъ
+   out  : [s =  5.4e+01] ыкатъъъчччччч
+   rev  : [s =  5.4e+01] ыкатъъъчччччч
+
+#   898 : loss =  9.6e+02
+   inp  : [s =  4.1e+01] мёйьлъь
+   out  : [s =  0.0e+00] mail
+   rev  : [s =  1.5e+01] почта
+
+#   899 : loss =  9.6e+02
+   inp  : [s =  4.0e+01] жйяатйт
+   out  : [s =  0.0e+00] life
+   rev  : [s =  1.5e+01] жизнь
+
+#   900 : loss =  9.6e+02
+   inp  : [s =  4.0e+01] аняиуъщ
+   out  : [s =  0.0e+00] anya
+   rev  : [s =  9.2e+00] аня
+
+#   901 : loss =  9.6e+02
+   inp  : [s =  3.9e+01] аиъпътй
+   out  : [s =  0.0e+00] ai
+   rev  : [s =  4.2e+01] искусственный интеллект
+
+#   902 : loss =  9.6e+02
+   inp  : [s =  5.1e+01] юйьаьпщ
+   out  : [s =  1.6e+01] yup
+   rev  : [s =  8.1e+00] ага
+
+#   903 : loss =  9.7e+02
+   inp  : [s =  4.0e+01] дёфсзьн
+   out  : [s =  9.7e+00] defn
+   rev  : [s =  2.2e+01] определить
+
+#   904 : loss =  9.7e+02
+   inp  : [s =  4.7e+01] бгаьъюы
+   out  : [s =  1.7e+01] byu
+   rev  : [s =  1.4e+01] убю
+
+#   905 : loss =  9.8e+02
+   inp  : [s =  4.5e+01] гбэъьиэ
+   out  : [s =  2.1e+01] gbee
+   rev  : [s =  2.1e+01] gbee
+
+#   906 : loss =  9.8e+02
+   inp  : [s =  3.5e+01] хитсъас
+   out  : [s =  1.5e+01] hits
+   rev  : [s =  1.2e+01] хиты
+
+#   907 : loss =  9.8e+02
+   inp  : [s =  3.8e+01] хфуьхнк
+   out  : [s =  2.2e+01] hfnc
+   rev  : [s =  2.2e+01] hfnc
+
+#   908 : loss =  9.8e+02
+   inp  : [s =  3.6e+01] фжисъшь
+   out  : [s =  2.1e+01] fjis
+   rev  : [s =  2.1e+01] fjis
+
+#   909 : loss =  9.8e+02
+   inp  : [s =  4.7e+01] дфоаььн
+   out  : [s =  3.2e+01] dfoa
+   rev  : [s =  3.2e+01] dfoa
+
+#   910 : loss =  9.9e+02
+   inp  : [s =  2.6e+01] ньешьть
+   out  : [s =  1.2e+01] newt
+   rev  : [s =  1.6e+01] тритон
+
+#   911 : loss =  9.9e+02
+   inp  : [s =  4.4e+01] ыжььсфь
+   out  : [s =  3.3e+01] ыжsf
+   rev  : [s =  3.3e+01] ыжsf
+
+#   912 : loss =  2.0e+03
+   inp  : [s =  5.0e+01] аьхжмшъ
+   out  : [s =  1.6e+01] ahhhhh
+   rev  : [s =  1.4e+01] ааааааа
+
+#   913 : loss =  2.0e+03
+   inp  : [s =  4.4e+01] иыыйуйы
+   out  : [s =  1.7e+01] iyyyyyy
+   rev  : [s =  1.2e+01] гггггггг
+   WRN  : rev != "yyyyyyy"
+
+#   914 : loss =  2.0e+03
+   inp  : [s =  4.3e+01] ечъхмхг
+   out  : [s =  1.9e+01] ehhhhh
+   rev  : [s =  1.9e+01] эххххх
+
+#   915 : loss =  2.0e+03
+   inp  : [s =  4.1e+01] шсььчхз
+   out  : [s =  1.8e+01] shhhhh
+   rev  : [s =  1.4e+01] шшшшш
+
+#   916 : loss =  2.0e+03
+   inp  : [s =  4.5e+01] бууиуыд
+   out  : [s =  2.4e+01] buuuid
+   rev  : [s =  3.0e+01] буууид
+
+#   917 : loss =  2.0e+03
+   inp  : [s =  4.3e+01] иьшхбжх
+   out  : [s =  2.3e+01] and shhhhhh
+   rev  : [s =  2.4e+01] и шшшшш
+   WRN  : rev != "and shhhhh"
+
+#   918 : loss =  2.0e+03
+   inp  : [s =  3.9e+01] уаэёжйе
+   out  : [s =  2.1e+01] uaeeeeee
+   rev  : [s =  2.9e+01] уеееееее
+
+#   919 : loss =  2.0e+03
+   inp  : [s =  4.1e+01] ёыеогэе
+   out  : [s =  2.4e+01] eeeoee
+   rev  : [s =  2.0e+01] ииииии
+   WRN  : rev != "eeeeee"
+
+#   920 : loss =  2.0e+03
+   inp  : [s =  4.7e+01] ггцояыы
+   out  : [s =  3.1e+01] ggtsoyyy
+   rev  : [s =  3.5e+01] ггцойййй
+
+#   921 : loss =  2.0e+03
+   inp  : [s =  4.0e+01] ххиииъо
+   out  : [s =  2.5e+01] xxiiio
+   rev  : [s =  1.5e+01] xxiii
+   WRN  : rev != "xxiii"
+
+#   922 : loss =  2.0e+03
+   inp  : [s =  4.4e+01] эьусммм
+   out  : [s =  3.0e+01] eusmmm
+   rev  : [s =  2.8e+01] есммм
+
+#   923 : loss =  2.0e+03
+   inp  : [s =  5.1e+01] зйцыяъы
+   out  : [s =  3.7e+01] zytsyyyy
+   rev  : [s =  3.9e+01] зыцыыыыы
+
+#   924 : loss =  2.0e+03
+   inp  : [s =  3.7e+01] дуррроу
+   out  : [s =  2.4e+01] durrrow
+   rev  : [s =  2.4e+01] дарроу
+   WRN  : rev != "durrow"
+
+#   925 : loss =  2.0e+03
+   inp  : [s =  4.0e+01] юмкцкюп
+   out  : [s =  3.2e+01] ymcccup
+   rev  : [s =  3.2e+01] ymcccup
+
+#   926 : loss =  2.0e+03
+   inp  : [s =  4.5e+01] ээепгжп
+   out  : [s =  3.8e+01] eeepgzhp
+   rev  : [s =  3.8e+01] эээпгжп
+
+#   927 : loss =  2.0e+03
+   inp  : [s =  3.7e+01] джцсшнц
+   out  : [s =  3.0e+01] jtsssnc
+   rev  : [s =  3.0e+01] jtsssnc
+
+#   928 : loss =  2.0e+03
+   inp  : [s =  4.0e+01] лкёээук
+   out  : [s =  3.6e+01] lkeeeuk
+   rev  : [s =  2.0e+01] литюк
+   WRN  : rev != "leeteuk"
+
+#   929 : loss =  2.0e+03
+   inp  : [s =  2.7e+01] ннъноен
+   out  : [s =  2.3e+01] nnnoen
+   rev  : [s =  2.1e+01] ннноен
+
+#   930 : loss =  2.0e+03
+   inp  : [s =  3.6e+01] тзъееаю
+   out  : [s =  3.4e+01] tzeeeayu
+   rev  : [s =  3.9e+01] це-е-еаю
+
+#   931 : loss =  2.0e+03
+   inp  : [s =  3.0e+01] мммляув
+   out  : [s =  3.2e+01] mmmlyauv
+   rev  : [s =  3.0e+01] мммляув
+
+#   932 : loss =  2.0e+03
+   inp  : [s =  4.1e+01] мжгюууб
+   out  : [s =  4.4e+01] mzhguuub
+   rev  : [s =  3.8e+01] мжгуууб
+
+#   933 : loss =  2.0e+03
+   inp  : [s =  3.8e+01] чллххср
+   out  : [s =  4.1e+01] chllxxxsr
+   rev  : [s =  4.1e+01] chllxxxsr
+
+#   934 : loss =  2.0e+03
+   inp  : [s =  4.1e+01] цхтхыым
+   out  : [s =  5.1e+01] tshthyyym
+   rev  : [s =  3.1e+01] тштийым
+
+#   935 : loss =  2.0e+03
+   inp  : [s =  3.1e+01] сжбннно
+   out  : [s =  4.9e+01] szhbnnno
+   rev  : [s =  1.6e+01] шеннон
+   WRN  : rev != "shannon"
+
+#   936 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] згяфрэу
+   out  : [s = -1.0e+00] пузах'е
+   rev  : [s =  3.5e+01] puzah'e
+   WRN  : inp != "puzah'e"
+
+#   937 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ьиэыямъ
+   out  : [s = -1.0e+00] bieyyam k
+   rev  : [s =  3.3e+01] биейям к
+   WRN  : inp != "ьиэыямъ k"
+
+#   938 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] бппимаз
+   out  : [s = -1.0e+00] bppriaz
+   rev  : [s =  2.9e+01] бпприаз
+   WRN  : inp != "бпприаз"
+
+#   939 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] бессцнк
+   out  : [s = -1.0e+00] priceless
+   rev  : [s =  2.4e+01] бесценный
+   WRN  : inp != "бесценок"
+
+#   940 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] удойююь
+   out  : [s = -1.0e+00] udoyuyum
+   rev  : [s =  2.9e+01] удоююм
+   WRN  : inp != "удойююm"
+
+#   941 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] длкхнек
+   out  : [s = -1.0e+00] dlkhnek lgbtq
+   rev  : [s =  6.0e+01] длхнек лгбтк д
+   WRN  : inp != "длкхнек lgbtq"
+   WRN  : rev != "dlkhnek lgbtq д"
+
+#   942 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] бреощее
+   out  : [s = -1.0e+00] shaving
+   rev  : [s =  1.9e+01] бритье
+   WRN  : inp != "бреющее"
+
+#   943 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] исбъовч
+   out  : [s = -1.0e+00] isbovch k
+   rev  : [s =  3.8e+01] исбовч к
+   WRN  : inp != "исбъовч k"
+
+#   944 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] сжъиуйь
+   out  : [s = -1.0e+00] zhiuy k
+   rev  : [s =  2.3e+01] чжию к
+   WRN  : inp != "сжъиуйь k"
+   WRN  : rev != "zhiyu k"
+
+#   945 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ллбябхм
+   out  : [s = -1.0e+00] llbyabhm k
+   rev  : [s =  4.7e+01] llbyabhm k
+   WRN  : inp != "ллбябхм k"
+
+#   946 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] мьшруюю
+   out  : [s = -1.0e+00] mshruyu llby
+   rev  : [s =  5.9e+01] mshruyu llby m
+   WRN  : inp != "мьшруюю llby"
+   WRN  : rev != "mshruyu llby м"
+
+#   947 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] сдейешр
+   out  : [s = -1.0e+00] Slater
+   rev  : [s =  1.9e+01] Слейтер
+   WRN  : inp != "слейтер"
+
+#   948 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ифупимш
+   out  : [s = -1.0e+00] ifupimsh k
+   rev  : [s =  3.9e+01] ифупимш к
+   WRN  : inp != "ифупимш k"
+
+#   949 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] канкдве
+   out  : [s = -1.0e+00] kankave
+   rev  : [s =  1.9e+01] канкава
+   WRN  : inp != "канкаве"
+   WRN  : rev != "kankava"
+
+#   950 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] мьыцрвп
+   out  : [s = -1.0e+00] vmswhdg
+   rev  : [s =  3.5e+01] vmswhdg
+   WRN  : inp != "vmswhdg"
+
+#   951 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] саъснби
+   out  : [s = -1.0e+00] sanbi
+   rev  : [s =  1.5e+01] санби
+   WRN  : inp != "санби"
+
+#   952 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] оущкьяь
+   out  : [s = -1.0e+00] джеормзм
+   rev  : [s =  2.6e+01] geormism
+   WRN  : inp != "jeormzm"
+
+#   953 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] айвбкшя
+   out  : [s = -1.0e+00] aivbkshya k
+   rev  : [s =  4.7e+01] айвбкшья к
+   WRN  : inp != "айвбкшя k"
+
+#   954 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] нёктуху
+   out  : [s = -1.0e+00] not cthulhu
+   rev  : [s =  3.5e+01] не ктулху
+   WRN  : inp != "нё ктулху"
+
+#   955 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] геэгпьф
+   out  : [s = -1.0e+00] geogpf no
+   rev  : [s =  4.8e+01] geogpf нет
+   WRN  : inp != "геэгпьф no"
+
+#   956 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] юфьюфшц
+   out  : [s = -1.0e+00] euphualive
+   rev  : [s =  4.3e+01] эйфуалайв
+   WRN  : inp != "юфьюalive"
+
+#   957 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] эдтывсё
+   out  : [s = -1.0e+00] Ed you're all
+   rev  : [s =  3.0e+01] Эд, ты все
+   WRN  : inp != "эд ты всё"
+
+#   958 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ълиахър
+   out  : [s = -1.0e+00] bliahr k
+   rev  : [s =  2.6e+01] блиар к
+   WRN  : inp != "ълиахър k"
+
+#   959 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] атвклщн
+   out  : [s = -1.0e+00] atvclschn k
+   rev  : [s =  5.1e+01] атвклщн к
+   WRN  : inp != "атвклщн k"
+
+#   960 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] цтэзлэе
+   out  : [s = -1.0e+00] не стоит
+   rev  : [s =  1.4e+01] not worth
+   WRN  : inp != "wn'pk't"
+
+#   961 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ьлиргтн
+   out  : [s = -1.0e+00] lirgtn not with
+   rev  : [s =  3.9e+01] лиргтн не с
+   WRN  : inp != "ьлиргтн не с"
+
+#   962 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ндеуюзы
+   out  : [s = -1.0e+00] non - languages
+   rev  : [s =  2.7e+01] неязыковые
+   WRN  : inp != "неуязы"
+
+#   963 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] нтпвъых
+   out  : [s = -1.0e+00] ntpvyh no
+   rev  : [s =  4.4e+01] ntpvyh no h
+   WRN  : inp != "нтпвъых no"
+   WRN  : rev != "ntpvyh no н"
+
+#   964 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] чуышлжъ
+   out  : [s = -1.0e+00] och vuy wichchuyshlzh
+   rev  : [s =  9.0e+01] och var wichchuyshlzh och vuy
+   WRN  : inp != "оч vuy wichчуышлжъ"
+   WRN  : rev != "och var wichchuyshlzh оч vuy"
+
+#   965 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] теамчий
+   out  : [s = -1.0e+00] theamchy och
+   rev  : [s =  3.6e+01] восхитительный оч
+   WRN  : inp != "теамчий och"
+
+#   966 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] азщбнхь
+   out  : [s = -1.0e+00] azschbnh t
+   rev  : [s =  4.4e+01] azschbnh t
+   WRN  : inp != "азщбнхь t"
+
+#   967 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ферэшиы
+   out  : [s = -1.0e+00] ат'ибы
+   rev  : [s =  1.9e+01] antibes
+   WRN  : inp != "ath'ibs"
+   WRN  : rev != "антибы"
+
+#   968 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] швччкцё
+   out  : [s = -1.0e+00] shvchkce anya
+   rev  : [s =  4.7e+01] shevchuk anya sh
+   WRN  : inp != "швччкцё anya"
+   WRN  : rev != "shevchuk anya ш"
+
+#   969 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] шбайтер
+   out  : [s = -1.0e+00] schreiter
+   rev  : [s =  2.2e+01] шрайтер
+   WRN  : inp != "шрайтер"
+
+#   970 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] пзриргш
+   out  : [s = -1.0e+00] pzrirgsh k
+   rev  : [s =  4.8e+01] пзриргш к
+   WRN  : inp != "пзриргш k"
+
+#   971 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] нфыъксж
+   out  : [s = -1.0e+00] nfykszh k
+   rev  : [s =  4.0e+01] нфыксж к
+   WRN  : inp != "нфыъксж k"
+
+#   972 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] пшгцару
+   out  : [s = -1.0e+00] pshgtsaru nfyk
+   rev  : [s =  7.3e+01] pshgtsaru nfyk psh
+   WRN  : inp != "пшгцару nfyk"
+   WRN  : rev != "pshgtsaru nfyk пш"
+
+#   973 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] цгжяёпб
+   out  : [s = -1.0e+00] cgjnepb psh
+   rev  : [s =  8.1e+01] cgjnepb psh цгж
+   WRN  : inp != "цгжяёпб psh"
+   WRN  : rev != "cgjnepb psh цгж"
+
+#   974 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] гзчьжкл
+   out  : [s = -1.0e+00] gzchzhkl k
+   rev  : [s =  2.7e+01] gjhjk k
+   WRN  : inp != "гзчьжкл k"
+   WRN  : rev != "gjhjk k"
+
+#   975 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ъяэзгтз
+   out  : [s = -1.0e+00] eezgtz g
+   rev  : [s =  3.3e+01] eezgtz g
+   WRN  : inp != "ъяэзгтз g"
+
+#   976 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] рьббжон
+   out  : [s = -1.0e+00] ribbon
+   rev  : [s =  9.4e+00] лента
+   WRN  : inp != "риббон"
+
+#   977 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ьаштпгп
+   out  : [s = -1.0e+00] мингу
+   rev  : [s =  1.8e+01] mingu
+   WRN  : inp != "minggu"
+
+#   978 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] тюоигмо
+   out  : [s = -1.0e+00] tagmo
+   rev  : [s =  1.9e+01] тагмо
+   WRN  : inp != "тэгмо"
+
+#   979 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ышзаезе
+   out  : [s = -1.0e+00] сипфтпт
+   rev  : [s =  3.7e+01] сипфтпт
+   WRN  : inp != "sipftpt"
+
+#   980 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ияисляя
+   out  : [s = -1.0e+00] calculating
+   rev  : [s =  2.7e+01] вычислительный
+   WRN  : inp != "исчисляя"
+
+#   981 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] оззфтвд
+   out  : [s = -1.0e+00] jppandl
+   rev  : [s =  2.9e+01] jppandl
+   WRN  : inp != "jppandl"
+
+#   982 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ьъенетд
+   out  : [s = -1.0e+00] menetid
+   rev  : [s =  2.2e+01] менетид
+   WRN  : inp != "менетид"
+
+#   983 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] дцлнгдт
+   out  : [s = -1.0e+00] lwkyuln
+   rev  : [s =  3.3e+01] lwkyuln
+   WRN  : inp != "lwkyuln"
+
+#   984 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] мэиькюв
+   out  : [s = -1.0e+00] meikyud
+   rev  : [s =  3.4e+01] мейкьюу
+   WRN  : inp != "мэиькюd"
+   WRN  : rev != "meikyuu"
+
+#   985 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] сфувжыг
+   out  : [s = -1.0e+00] sfu vzyg
+   rev  : [s =  3.5e+01] сфу взыг
+   WRN  : inp != "сфу вжыг"
+
+#   986 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] сдытшлш
+   out  : [s = -1.0e+00] клиники
+   rev  : [s =  9.7e+00] clinics
+   WRN  : inp != "kliniki"
+
+#   987 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] мерсрюг
+   out  : [s = -1.0e+00] mersrag
+   rev  : [s =  3.2e+01] мерсрагс
+   WRN  : inp != "мерсраг"
+   WRN  : rev != "mersrags"
+
+#   988 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ншакеуы
+   out  : [s = -1.0e+00] ифриты
+   rev  : [s =  1.6e+01] ifrits
+   WRN  : inp != "yifrtes"
+
+#   989 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] црьькфь
+   out  : [s = -1.0e+00] ууммрам
+   rev  : [s =  3.4e+01] uummram
+   WRN  : inp != "whmmram"
+
+#   990 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] дтпшкаи
+   out  : [s = -1.0e+00] dtpshki
+   rev  : [s =  2.7e+01] дтпшки
+   WRN  : inp != "дтпшки"
+
+#   991 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] мхоллст
+   out  : [s = -1.0e+00] canvas
+   rev  : [s =  1.7e+01] холст
+   WRN  : inp != "холст"
+
+#   992 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] ымьнящр
+   out  : [s = -1.0e+00] свмызох
+   rev  : [s =  2.8e+01] svmyzoh
+   WRN  : inp != "svmyzoh"
+
+#   993 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] шопээън
+   out  : [s = -1.0e+00] shopeen
+   rev  : [s =  1.5e+01] шопин
+   WRN  : inp != "шопээн"
+
+#   994 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] модимьы
+   out  : [s = -1.0e+00] modems
+   rev  : [s =  1.4e+01] модемы
+   WRN  : inp != "модемы"
+
+#   995 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] дзлотах
+   out  : [s = -1.0e+00] bunkers
+   rev  : [s =  2.6e+01] бункеры
+   WRN  : inp != "дзотах"
+
+#   996 : loss =  2.0e+04
+   inp  : [s = -1.0e+00] атощузк
+   out  : [s = -1.0e+00] antoshchuk
+   rev  : [s =  2.9e+01] антощук
+   WRN  : inp != "антощук"
+
+#   997 : loss =  2.1e+04
+   inp  : [s = -1.0e+00] вцюянем
+   out  : [s = -1.0e+00] quan
+   rev  : [s =  1.2e+01] кван
+   WRN  : inp != "цюанем"
+
+#   998 : loss =  2.1e+04
+   inp  : [s = -1.0e+00] истйнуу
+   out  : [s = -1.0e+00] true
+   rev  : [s =  1.6e+01] истинный
+   WRN  : inp != "истинную"
+
+#   999 : loss =  2.2e+04
+   inp  : [s = -1.0e+00] ьхсыыиы
+   out  : [s = -1.0e+00] bxyyyy k
+   rev  : [s =  3.2e+01] bxyyyy k
+   WRN  : inp != "ьхсыыиы k"
+
+#  1000 : loss =  2.2e+04
+   inp  : [s = -1.0e+00] ъиииыпь
+   out  : [s = -1.0e+00] yiiiiip k
+   rev  : [s =  2.9e+01] ииииип к
+   WRN  : inp != "ъиииыпь k"
+
+
+
+==================================================
+Time / phrase for translate  (sec) :      22.4511
+Time / phrase for score      (sec) :       1.3188
+
